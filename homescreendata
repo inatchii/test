@@ -1,0 +1,19 @@
+{
+  "categories":[
+    {
+      "title":"Test Category",
+      "url":"Test url",
+      "imageURL":"Test image url"
+    },
+    {
+      "title":"Test Category",
+      "url":"Test url",
+      "imageURL":"Test image url"
+    },
+    {
+      "title":"Test Category",
+      "url":"Test url",
+      "imageURL":"Test image url"
+    }
+  ]
+}
