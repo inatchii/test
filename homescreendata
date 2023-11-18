@@ -1,22 +1,22 @@
 {
   "categories":[
     {
-      "title":"Test Category",
+      "title":"Anime",
       "url":"Test url",
       "imageURL":"https://i0.wp.com/diziwatch.net/uploads/series/kaguya-sama-love-is-war/afis.jpg?quality=91"
     },
     {
-      "title":"Test Category",
+      "title":"Exxen",
+      "url":"Test url",
+      "imageURL":"https://play-lh.googleusercontent.com/JsvM7tsuyTrecoI7IBcTU6ojOHxoHjvDfGEC4DoUYPZLZAvKAcLLfgSw6fzP6_V_uoo"
+    },
+    {
+      "title":"Netflix",
       "url":"Test url",
       "imageURL":"https://i0.wp.com/diziwatch.net/uploads/series/kaguya-sama-love-is-war/afis.jpg?quality=91"
     },
     {
-      "title":"Test Category",
-      "url":"Test url",
-      "imageURL":"https://i0.wp.com/diziwatch.net/uploads/series/kaguya-sama-love-is-war/afis.jpg?quality=91"
-    },
-    {
-      "title":"Test Category",
+      "title":"Disney",
       "url":"Test url",
       "imageURL":"https://i0.wp.com/diziwatch.net/uploads/series/kaguya-sama-love-is-war/afis.jpg?quality=91"
     },
