@@ -1,0 +1,14 @@
+{
+  "episodes":[
+    {
+      "title":"Test title",
+      "episodeNumber":1,
+      "seasonNumber":1,
+      "optionalSeasonText":"1.Sezon 1.Bölüm",
+      "sourceURL":"",
+      "sourceAuth":[
+        {"Referer":"Test"}
+      ]
+    }
+  ]
+}
