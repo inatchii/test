@@ -15,10 +15,8 @@
       "episodeNumber":1,
       "seasonNumber":1,
       "optionalSeasonText":"1.Sezon 1.Bölüm",
-      "sourceURL":"",
-      "sourceAuth":[
-        {"Referer":"Test"}
-      ]
+      "sourceURL":"https://live-par-1-abr-cdn.livepush.io/live/bigbuckbunnyclip/index.m3u8",
+      "sourceAuth":[]
     },
 {
       "title":"Chapter One: The Boy in the Iceberg",
