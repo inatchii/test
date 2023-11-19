@@ -1,5 +1,4 @@
-{
-  "series":[
+[
     {
       "title":"BOK KOKUSU",
       "seasonCount":1,
@@ -12,5 +11,4 @@
       "imageURL":"https://m.media-amazon.com/images/I/31iH1SJizUL._AC_UF1000,1000_QL80_.jpg",
       "url":"Test"
     }
-  ]
-}
+]
