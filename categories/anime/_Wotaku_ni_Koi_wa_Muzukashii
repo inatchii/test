@@ -1,0 +1,26 @@
+{
+  "episodes": [
+    {
+      "title": "Narumi and Hirotaka Meets Again, and...",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jinta-hanakari.gq/wotaku-ni-koi-wa-muzukashii/1/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.jinta-hanakari.gq/wotaku-ni-koi-wa-muzukashii/1/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    }
+  ]
+}

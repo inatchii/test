@@ -1,0 +1,554 @@
+{
+  "episodes": [
+    {
+      "title": "The Black Swordsman",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.karin-kurosaki.gq/berserk/1/1/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.karin-kurosaki.gq/berserk/1/1/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Band of the Hawk",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 2. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tengen-uzui.gq/berserk/1/2/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.tengen-uzui.gq/berserk/1/2/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "First Battle",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 3. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.anya-forger.gq/berserk/1/3/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.anya-forger.gq/berserk/1/3/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Hand of God",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.keigo-asano.tk/berserk/1/4/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.keigo-asano.tk/berserk/1/4/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Wind of Swords",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.giyu-tomioka.tk/berserk/1/5/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.giyu-tomioka.tk/berserk/1/5/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Zodd the Immortal",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 6. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ryo-kunieda.gq/berserk/1/6/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.ryo-kunieda.gq/berserk/1/6/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Sword`s Owner",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 7. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.karin-kurosaki.tk/berserk/1/7/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.karin-kurosaki.tk/berserk/1/7/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Conspiracy",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.rokuta-kamado.tk/berserk/1/8/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.rokuta-kamado.tk/berserk/1/8/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Assassination",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 9. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sylvia-sherwood.gq/berserk/1/9/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.sylvia-sherwood.gq/berserk/1/9/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Nobleman",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 10. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kanae-kocho.cf/berserk/1/10/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kanae-kocho.cf/berserk/1/10/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Battle",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 11. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sylvia-sherwood.gq/berserk/1/11/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.sylvia-sherwood.gq/berserk/1/11/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Together",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 12. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shigeru-kamado.cf/berserk/1/12/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.shigeru-kamado.cf/berserk/1/12/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Prepared for Death",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 13. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sorimachi.tk/berserk/1/13/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.sorimachi.tk/berserk/1/13/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Bonfire of Dreams",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 14. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mitsuri-kanroji.cf/berserk/1/14/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.mitsuri-kanroji.cf/berserk/1/14/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Decisive Battle",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 15. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yuzu-kurosaki.tk/berserk/1/15/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.yuzu-kurosaki.tk/berserk/1/15/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Conqueror",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 16. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mizuho-asano.gq/berserk/1/16/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.mizuho-asano.gq/berserk/1/16/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Moment of Glory",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 17. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.nezuko-kamado.gq/berserk/1/17/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.nezuko-kamado.gq/berserk/1/17/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Tombstone of Flames",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 18. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.fiona-frost.gq/berserk/1/18/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.fiona-frost.gq/berserk/1/18/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Separation",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 19. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tatsuki-arisawa.cf/berserk/1/19/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.tatsuki-arisawa.cf/berserk/1/19/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Sparks",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 20. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kagine.tk/berserk/1/20/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kagine.tk/berserk/1/20/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Confession",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 21. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.anakin-skywalker.cf/berserk/1/21/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.anakin-skywalker.cf/berserk/1/21/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Infiltration",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 22. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kie-kamado.gq/berserk/1/22/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kie-kamado.gq/berserk/1/22/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Eve of the Feast",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 23. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.emile-elman.gq/berserk/1/23/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.emile-elman.gq/berserk/1/23/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Great Eclipse",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 24. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.nezuko-kamado.tk/berserk/1/24/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.nezuko-kamado.tk/berserk/1/24/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Time of Eternity",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 25. Bölüm",
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kanae-kocho.gq/berserk/1/25/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kanae-kocho.gq/berserk/1/25/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    }
+  ]
+}
