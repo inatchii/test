@@ -1,0 +1,602 @@
+{
+  "episodes": [
+    {
+      "title": "New Club Members",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hotaru-haganezuka.cf/kono-oto-tomare-sounds-of-life/1/1/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.hotaru-haganezuka.cf/kono-oto-tomare-sounds-of-life/1/1/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Having What It Takes",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.becky-blackbell.gq/kono-oto-tomare-sounds-of-life/1/2/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.becky-blackbell.gq/kono-oto-tomare-sounds-of-life/1/2/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Koto Club Reborn",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mizuho-asano.cf/kono-oto-tomare-sounds-of-life/1/3/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.mizuho-asano.cf/kono-oto-tomare-sounds-of-life/1/3/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The First Resounding Note",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.loid-forger.tk/kono-oto-tomare-sounds-of-life/1/4/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.loid-forger.tk/kono-oto-tomare-sounds-of-life/1/4/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Let Our Sound Resound and Reach Them",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mitsuri-kanroji.cf/kono-oto-tomare-sounds-of-life/1/5/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.mitsuri-kanroji.cf/kono-oto-tomare-sounds-of-life/1/5/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "An Invisible Boundary",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kont-dooku.cf/kono-oto-tomare-sounds-of-life/1/6/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kont-dooku.cf/kono-oto-tomare-sounds-of-life/1/6/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Unknown Sounds",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ran-haitani.gq/kono-oto-tomare-sounds-of-life/1/7/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.ran-haitani.gq/kono-oto-tomare-sounds-of-life/1/7/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Sign",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.c-3po.tk/kono-oto-tomare-sounds-of-life/1/8/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.c-3po.tk/kono-oto-tomare-sounds-of-life/1/8/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Piercing Sound",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kie-kamado.gq/kono-oto-tomare-sounds-of-life/1/9/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kie-kamado.gq/kono-oto-tomare-sounds-of-life/1/9/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Near Yet Far",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jackie-tristan.cf/kono-oto-tomare-sounds-of-life/1/10/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.jackie-tristan.cf/kono-oto-tomare-sounds-of-life/1/10/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Sound We Were Searching For",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.anya-forger.gq/kono-oto-tomare-sounds-of-life/1/11/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.anya-forger.gq/kono-oto-tomare-sounds-of-life/1/11/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Rivals",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.orihime-inoue.tk/kono-oto-tomare-sounds-of-life/1/12/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.orihime-inoue.tk/kono-oto-tomare-sounds-of-life/1/12/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Kuon",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 13. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jackie-tristan.cf/kono-oto-tomare-sounds-of-life/1/13/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.jackie-tristan.cf/kono-oto-tomare-sounds-of-life/1/13/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Step Forward",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 14. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kagine.gq/kono-oto-tomare-sounds-of-life/1/14/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kagine.gq/kono-oto-tomare-sounds-of-life/1/14/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Becoming Aware",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 15. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.maki-zenin.cf/kono-oto-tomare-sounds-of-life/1/15/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.maki-zenin.cf/kono-oto-tomare-sounds-of-life/1/15/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Their Time",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 16. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.muzan-kibutsuji.cf/kono-oto-tomare-sounds-of-life/1/16/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.muzan-kibutsuji.cf/kono-oto-tomare-sounds-of-life/1/16/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Reunion",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 17. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yor-forger.tk/kono-oto-tomare-sounds-of-life/1/17/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.yor-forger.tk/kono-oto-tomare-sounds-of-life/1/17/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Their Determination",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 18. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.emile-elman.cf/kono-oto-tomare-sounds-of-life/1/18/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.emile-elman.cf/kono-oto-tomare-sounds-of-life/1/18/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Confrontation",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 19. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hashigami.cf/kono-oto-tomare-sounds-of-life/1/19/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.hashigami.cf/kono-oto-tomare-sounds-of-life/1/19/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Another Chance",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 20. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tanjiro-kamado.cf/kono-oto-tomare-sounds-of-life/1/20/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.tanjiro-kamado.cf/kono-oto-tomare-sounds-of-life/1/20/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Meaning and Role",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 21. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yuri-briar.tk/kono-oto-tomare-sounds-of-life/1/21/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.yuri-briar.tk/kono-oto-tomare-sounds-of-life/1/21/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Morning of the Showdown",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 22. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumihiko-kamado.gq/kono-oto-tomare-sounds-of-life/1/22/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.sumihiko-kamado.gq/kono-oto-tomare-sounds-of-life/1/22/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Champions' Resolve",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 23. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kazui-kurosaki.tk/kono-oto-tomare-sounds-of-life/1/23/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kazui-kurosaki.tk/kono-oto-tomare-sounds-of-life/1/23/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Beyond the Right Answer",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 24. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.makoto-sano.tk/kono-oto-tomare-sounds-of-life/1/24/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.makoto-sano.tk/kono-oto-tomare-sounds-of-life/1/24/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Tenkyu",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 25. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumi-nakahara.tk/kono-oto-tomare-sounds-of-life/1/25/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.sumi-nakahara.tk/kono-oto-tomare-sounds-of-life/1/25/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Starting Line",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 26. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.rokuta-kamado.cf/kono-oto-tomare-sounds-of-life/1/26/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.rokuta-kamado.cf/kono-oto-tomare-sounds-of-life/1/26/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    }
+  ]
+}

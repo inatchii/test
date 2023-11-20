@@ -1,0 +1,119 @@
+{
+  "episodes": [
+    {
+      "title": "CLUB Paradox",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mizuiro-kojima.gq/paradox-live-the-animation/1/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mizuiro-kojima.gq/paradox-live-the-animation/1/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "DESIRE",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumihiko-kamado.gq/paradox-live-the-animation/1/2/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sumihiko-kamado.gq/paradox-live-the-animation/1/2/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Justice",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.karin-kurosaki.gq/paradox-live-the-animation/1/3/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.karin-kurosaki.gq/paradox-live-the-animation/1/3/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "PRIDE",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaneda.gq/paradox-live-the-animation/1/4/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kaneda.gq/paradox-live-the-animation/1/4/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "FAMILY",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tanjiro-kamado.cf/paradox-live-the-animation/1/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tanjiro-kamado.cf/paradox-live-the-animation/1/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    }
+  ]
+}

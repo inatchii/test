@@ -1,0 +1,602 @@
+{
+  "episodes": [
+    {
+      "title": "First Begin with a Hero",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sorimachi.tk/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sorimachi.tk/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "If You Possess an Aptitude, We'll Make Use of It",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ymir-fritz.cf/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/2/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ymir-fritz.cf/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/2/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Let Not Me Be a Loyal Minister",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sorimachi.cf/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/3/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sorimachi.cf/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/3/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Forefinger Twitches",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.bond-forger.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/4/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.bond-forger.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/4/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Well Fed, Well Regarded",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hashigami.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hashigami.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Wise Man Never Forsaketh an Advantage",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.amane-ubuyashiki.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/6/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.amane-ubuyashiki.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/6/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Thus Saith the Elder",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaneda.tk/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/7/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kaneda.tk/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/7/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Forest in Labour",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yuzu-kurosaki.tk/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yuzu-kurosaki.tk/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Contrary to Wishes",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hotaru-haganezuka.cf/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/9/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hotaru-haganezuka.cf/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/9/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "No Place of Joy Hath a Soldier",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.michiru-ogawa.tk/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/10/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.michiru-ogawa.tk/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/10/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Sacrifice the Plum Tree to Preserve the Peach Tree",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaoru-unagiya.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/11/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kaoru-unagiya.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "When You Surround an Army, Leave an Outlet Free",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.fiona-frost.cf/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.fiona-frost.cf/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "To Fight and Conquer in All Our Battles Is Not Supreme Excellence",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 13. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kazui-kurosaki.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/13/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kazui-kurosaki.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/1/13/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Amidonia in a Lion's Skin",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ran-haitani.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ran-haitani.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Becoming Good Friends Who Never Offend",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.darth-bane.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/2/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.darth-bane.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/2/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Tyranny is Worse Than a Tiger",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ryo-kunieda.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/3/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ryo-kunieda.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/3/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Warrior Will Die for One Who Understands Him",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.zenitsu-agatsuma.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/4/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.zenitsu-agatsuma.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/4/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Snake Shadow in the Cup",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.muichiro-tokito.tk/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.muichiro-tokito.tk/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Strike While the Iron Is Hot",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sylvia-sherwood.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/6/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sylvia-sherwood.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/6/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Following the Secret of Seishi's Blind",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.darth-bane.cf/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/7/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.darth-bane.cf/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/7/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Using Shrimp as Bait to Catch Sea Bream, but Instead Catching a Shark",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.takashi-mitsuya.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.takashi-mitsuya.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Those Without Wisdom Are Fools",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.melinda-desmond.tk/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/9/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.melinda-desmond.tk/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/9/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Gargling and Hand Washing Are the Basis of Disease Prevention",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ruka-rengoku.tk/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/10/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ruka-rengoku.tk/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/10/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Away from My Hometown for So Many Years",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tanjiro-kamado.cf/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/11/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tanjiro-kamado.cf/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Know Your Enemy and Know Yourself, and Your Union Shall Not Be Endangered",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.rokuta-kamado.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.rokuta-kamado.gq/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Ahead, I See No Ancestors; Behind, I Find No Followers",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 13. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ben-solo.cf/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/13/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ben-solo.cf/genjitsu-shugi-yuusha-no-oukoku-saikenki/2/13/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    }
+  ]
+}

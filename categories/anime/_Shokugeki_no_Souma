@@ -1,0 +1,2070 @@
+{
+  "episodes": [
+    {
+      "title": "An Endless Wasteland",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kagine.cf/shokugeki-no-souma/1/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kagine.cf/shokugeki-no-souma/1/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "God Tongue",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.rokuta-kamado.cf/shokugeki-no-souma/1/2/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.rokuta-kamado.cf/shokugeki-no-souma/1/2/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "That Chef Never Smiles",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.demetrius-desmond.tk/shokugeki-no-souma/1/3/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.demetrius-desmond.tk/shokugeki-no-souma/1/3/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Madonna of the Polar Star",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.anya-forger.tk/shokugeki-no-souma/1/4/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.anya-forger.tk/shokugeki-no-souma/1/4/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Ice Queen and the Spring Storm",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tanjiro-kamado.gq/shokugeki-no-souma/1/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tanjiro-kamado.gq/shokugeki-no-souma/1/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Meat Invader",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.nobara-kugisaki.tk/shokugeki-no-souma/1/6/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.nobara-kugisaki.tk/shokugeki-no-souma/1/6/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Quiet Don, the Eloquent Don",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sorimachi.tk/shokugeki-no-souma/1/7/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sorimachi.tk/shokugeki-no-souma/1/7/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Concerto of Inspiration and Imagination",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sorimachi.gq/shokugeki-no-souma/1/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sorimachi.gq/shokugeki-no-souma/1/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Breading to Adorn the Mountains",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.melinda-desmond.cf/shokugeki-no-souma/1/9/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.melinda-desmond.cf/shokugeki-no-souma/1/9/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Heavenly Recette",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.darth-bane.tk/shokugeki-no-souma/1/10/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.darth-bane.tk/shokugeki-no-souma/1/10/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Magician from the East",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.loid-forger.cf/shokugeki-no-souma/1/11/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.loid-forger.cf/shokugeki-no-souma/1/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Memory of a Dish",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.bill-watkins.tk/shokugeki-no-souma/1/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.bill-watkins.tk/shokugeki-no-souma/1/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Eggs Before the Dawn",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 13. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tanjiro-kamado.tk/shokugeki-no-souma/1/13/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tanjiro-kamado.tk/shokugeki-no-souma/1/13/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Metamorphosis",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 14. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.damian-desmond.tk/shokugeki-no-souma/1/14/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.damian-desmond.tk/shokugeki-no-souma/1/14/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Man Called the Demon",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 15. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.oscar-joaquin.tk/shokugeki-no-souma/1/15/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.oscar-joaquin.tk/shokugeki-no-souma/1/15/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Chef Who's Crossed a Thousand Leagues",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 16. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.rokuta-kamado.gq/shokugeki-no-souma/1/16/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.rokuta-kamado.gq/shokugeki-no-souma/1/16/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Seductive Karaage",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 17. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shigeru-kamado.tk/shokugeki-no-souma/1/17/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shigeru-kamado.tk/shokugeki-no-souma/1/17/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Karaage of Youth",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 18. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shuji-hanma.gq/shokugeki-no-souma/1/18/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shuji-hanma.gq/shokugeki-no-souma/1/18/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Chosen One",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 19. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kanae-kocho.cf/shokugeki-no-souma/1/19/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kanae-kocho.cf/shokugeki-no-souma/1/19/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Dragon Lies Down and Ascends the Skies",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 20. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.obanai-iguro.cf/shokugeki-no-souma/1/20/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.obanai-iguro.cf/shokugeki-no-souma/1/20/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Unknown Known",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 21. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.melinda-desmond.cf/shokugeki-no-souma/1/21/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.melinda-desmond.cf/shokugeki-no-souma/1/21/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The One Who Surpasses the Ordinary",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 22. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.henry-henderson.tk/shokugeki-no-souma/1/22/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.henry-henderson.tk/shokugeki-no-souma/1/22/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Competition of the Blossoming Individuals",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 23. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.orihime-inoue.cf/shokugeki-no-souma/1/23/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.orihime-inoue.cf/shokugeki-no-souma/1/23/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Banquet of Warriors",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 24. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.michiru-ogawa.gq/shokugeki-no-souma/1/24/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.michiru-ogawa.gq/shokugeki-no-souma/1/24/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Takumi's Downtown Battle",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon OVA-1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.misato-ochi.gq/shokugeki-no-souma/1/OVA-1/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.misato-ochi.gq/shokugeki-no-souma/1/OVA-1/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Summer Vacation with Erina",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon OVA-2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.michiru-ogawa.cf/shokugeki-no-souma/1/OVA-2/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.michiru-ogawa.cf/shokugeki-no-souma/1/OVA-2/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "What Fills the Box",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.taiju-shiba.gq/shokugeki-no-souma/2/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.taiju-shiba.gq/shokugeki-no-souma/2/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Interplay of Light and Shadow",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.oscar-joaquin.gq/shokugeki-no-souma/2/2/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.oscar-joaquin.gq/shokugeki-no-souma/2/2/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Generation of Prodigies",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ewen-egeburg.cf/shokugeki-no-souma/2/3/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ewen-egeburg.cf/shokugeki-no-souma/2/3/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Pursuer",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.anya-forger.gq/shokugeki-no-souma/2/4/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.anya-forger.gq/shokugeki-no-souma/2/4/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Secret in the First Bite",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ewen-egeburg.cf/shokugeki-no-souma/2/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ewen-egeburg.cf/shokugeki-no-souma/2/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Dawn Will Come Again",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kyojuro-rengoku.tk/shokugeki-no-souma/2/6/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kyojuro-rengoku.tk/shokugeki-no-souma/2/6/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Beasts Devouring Each Other",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.gyomei-himejima.tk/shokugeki-no-souma/2/7/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.gyomei-himejima.tk/shokugeki-no-souma/2/7/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Battle of Seasonality",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.emile-elman.cf/shokugeki-no-souma/2/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.emile-elman.cf/shokugeki-no-souma/2/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Sword That Signals Autumn",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hanako-kamado.gq/shokugeki-no-souma/2/9/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hanako-kamado.gq/shokugeki-no-souma/2/9/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A New Genius",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.takeo-kamado.cf/shokugeki-no-souma/2/10/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.takeo-kamado.cf/shokugeki-no-souma/2/10/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Stagiaire",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.zenitsu-agatsuma.gq/shokugeki-no-souma/2/11/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.zenitsu-agatsuma.gq/shokugeki-no-souma/2/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Magician Once More",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.gyomei-himejima.tk/shokugeki-no-souma/2/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.gyomei-himejima.tk/shokugeki-no-souma/2/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Pomp and Circumstance",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 13. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.loid-forger.cf/shokugeki-no-souma/2/13/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.loid-forger.cf/shokugeki-no-souma/2/13/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Autumn Moon's Chance Encounter",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon OVA-1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.darth-tyranus.tk/shokugeki-no-souma/2/OVA-1/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.darth-tyranus.tk/shokugeki-no-souma/2/OVA-1/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Totsuki Elite Ten",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon OVA-2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ichigo-kurosaki.tk/shokugeki-no-souma/2/OVA-2/480.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Challenging the Elite Ten",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.karin-kurosaki.tk/shokugeki-no-souma/3/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.karin-kurosaki.tk/shokugeki-no-souma/3/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "'Má' and 'Là'",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.obanai-iguro.tk/shokugeki-no-souma/3/2/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.obanai-iguro.tk/shokugeki-no-souma/3/2/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Moon Festival",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.levi-ackerman.cf/shokugeki-no-souma/3/3/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.levi-ackerman.cf/shokugeki-no-souma/3/3/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Pride of Young Lions",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shinichiro-sano.cf/shokugeki-no-souma/3/4/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shinichiro-sano.cf/shokugeki-no-souma/3/4/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Darkening Dinner Table",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.fiona-frost.gq/shokugeki-no-souma/3/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.fiona-frost.gq/shokugeki-no-souma/3/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Imprisoned Queen",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.eren-yeager.cf/shokugeki-no-souma/3/6/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.eren-yeager.cf/shokugeki-no-souma/3/6/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "It Begins",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shinobu-kocho.gq/shokugeki-no-souma/3/7/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shinobu-kocho.gq/shokugeki-no-souma/3/7/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Alchemist",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.luke-skywalker.gq/shokugeki-no-souma/3/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.luke-skywalker.gq/shokugeki-no-souma/3/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Hunting the Survivors",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.damian-desmond.gq/shokugeki-no-souma/3/9/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.damian-desmond.gq/shokugeki-no-souma/3/9/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Salmon Will Dance",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ran-haitani.cf/shokugeki-no-souma/3/10/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ran-haitani.cf/shokugeki-no-souma/3/10/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Der Weiße Ritter der Tafel",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ruka-rengoku.gq/shokugeki-no-souma/3/11/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ruka-rengoku.gq/shokugeki-no-souma/3/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The One Who Aims for the Summit",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.karin-kurosaki.gq/shokugeki-no-souma/3/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.karin-kurosaki.gq/shokugeki-no-souma/3/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Advancement Exam",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 13. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaneda.gq/shokugeki-no-souma/3/13/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kaneda.gq/shokugeki-no-souma/3/13/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Onward on the Totsuki Train",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 14. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kozo-kanamori.tk/shokugeki-no-souma/3/14/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kozo-kanamori.tk/shokugeki-no-souma/3/14/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Jeanne d'Arc Rises",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 15. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.harutoki-ide.gq/shokugeki-no-souma/3/15/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.harutoki-ide.gq/shokugeki-no-souma/3/15/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Revenge Match",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 16. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.don-kanonji.tk/shokugeki-no-souma/3/16/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.don-kanonji.tk/shokugeki-no-souma/3/16/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Umami Tightrope",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 17. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shuji-hanma.cf/shokugeki-no-souma/3/17/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shuji-hanma.cf/shokugeki-no-souma/3/17/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "For Whom",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 18. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.eren-yeager.gq/shokugeki-no-souma/3/18/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.eren-yeager.gq/shokugeki-no-souma/3/18/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Declaration of War",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 19. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.genya-shinazugawa.tk/shokugeki-no-souma/3/19/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.genya-shinazugawa.tk/shokugeki-no-souma/3/19/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Erina's Diligent Studies",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 20. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.nezuko-kamado.tk/shokugeki-no-souma/3/20/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.nezuko-kamado.tk/shokugeki-no-souma/3/20/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Pioneer of the Wastelands",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 21. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ryo-kunieda.gq/shokugeki-no-souma/3/21/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ryo-kunieda.gq/shokugeki-no-souma/3/21/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "To the Final Battleground",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 22. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.taiju-shiba.tk/shokugeki-no-souma/3/22/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.taiju-shiba.tk/shokugeki-no-souma/3/22/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Bearing Polar Star Dormitory",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 23. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mitsuri-kanroji.cf/shokugeki-no-souma/3/23/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mitsuri-kanroji.cf/shokugeki-no-souma/3/23/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Basis for Strength",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "3. Sezon 24. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mahana-natsui.cf/shokugeki-no-souma/3/24/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mahana-natsui.cf/shokugeki-no-souma/3/24/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "What We Want to Protect",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "4. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yor-forger.gq/shokugeki-no-souma/4/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yor-forger.gq/shokugeki-no-souma/4/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Camera Flash",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "4. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaoru-unagiya.cf/shokugeki-no-souma/4/2/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kaoru-unagiya.cf/shokugeki-no-souma/4/2/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Hope in Solidarity",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "4. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.bill-watkins.tk/shokugeki-no-souma/4/3/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.bill-watkins.tk/shokugeki-no-souma/4/3/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Aim for Victory!",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "4. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.wakasa-imaushi.tk/shokugeki-no-souma/4/4/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.wakasa-imaushi.tk/shokugeki-no-souma/4/4/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "You're Through",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "4. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.zenitsu-agatsuma.tk/shokugeki-no-souma/4/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.zenitsu-agatsuma.tk/shokugeki-no-souma/4/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Single Blade",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "4. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jackie-tristan.gq/shokugeki-no-souma/4/6/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.jackie-tristan.gq/shokugeki-no-souma/4/6/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Two Queens",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "4. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaneda.tk/shokugeki-no-souma/4/7/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kaneda.tk/shokugeki-no-souma/4/7/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Watching from Beside You",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "4. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kanao-tsuyuri.gq/shokugeki-no-souma/4/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kanao-tsuyuri.gq/shokugeki-no-souma/4/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The First and Second Seats",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "4. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.giyu-tomioka.tk/shokugeki-no-souma/4/9/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.giyu-tomioka.tk/shokugeki-no-souma/4/9/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "How to Build a Specialty",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "4. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mitsuri-kanroji.tk/shokugeki-no-souma/4/10/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mitsuri-kanroji.tk/shokugeki-no-souma/4/10/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Song of Hope",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "4. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumi-nakahara.cf/shokugeki-no-souma/4/11/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sumi-nakahara.cf/shokugeki-no-souma/4/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The New 'Totsuki Elite Ten'",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "4. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.michiru-ogawa.cf/shokugeki-no-souma/4/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.michiru-ogawa.cf/shokugeki-no-souma/4/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Final Exams",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "5. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ewen-egeburg.cf/shokugeki-no-souma/5/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ewen-egeburg.cf/shokugeki-no-souma/5/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The BLUE Preliminaries",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "5. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shinichiro-sano.gq/shokugeki-no-souma/5/2/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shinichiro-sano.gq/shokugeki-no-souma/5/2/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Noir",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "5. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ran-haitani.cf/shokugeki-no-souma/5/3/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ran-haitani.cf/shokugeki-no-souma/5/3/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Last Supper",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "5. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.orihime-inoue.tk/shokugeki-no-souma/5/4/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.orihime-inoue.tk/shokugeki-no-souma/5/4/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Convenience Store Brawl",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "5. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kozo-kanamori.cf/shokugeki-no-souma/5/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kozo-kanamori.cf/shokugeki-no-souma/5/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Midsummer Christmas",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "5. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.nute-gunray.tk/shokugeki-no-souma/5/6/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.nute-gunray.tk/shokugeki-no-souma/5/6/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Crossed Knives",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "5. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.loid-forger.gq/shokugeki-no-souma/5/7/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.loid-forger.gq/shokugeki-no-souma/5/7/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Missing Half of the Moon",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "5. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ewen-egeburg.gq/shokugeki-no-souma/5/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ewen-egeburg.gq/shokugeki-no-souma/5/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The God Tongue's Despair",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "5. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kie-kamado.gq/shokugeki-no-souma/5/9/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kie-kamado.gq/shokugeki-no-souma/5/9/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Surpassing Dad",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "5. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.maki-zenin.gq/shokugeki-no-souma/5/10/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.maki-zenin.gq/shokugeki-no-souma/5/10/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Taste of Failure",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "5. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.donovan-desmond.tk/shokugeki-no-souma/5/11/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.donovan-desmond.tk/shokugeki-no-souma/5/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Perfect Rocks",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "5. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.genya-shinazugawa.gq/shokugeki-no-souma/5/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.genya-shinazugawa.gq/shokugeki-no-souma/5/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Food Wars",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "5. Sezon 13. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.obanai-iguro.cf/shokugeki-no-souma/5/13/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.obanai-iguro.cf/shokugeki-no-souma/5/13/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    }
+  ]
+}

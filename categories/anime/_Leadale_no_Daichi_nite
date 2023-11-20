@@ -1,0 +1,280 @@
+{
+  "episodes": [
+    {
+      "title": "An Inn, a Tower, a Bear, and a Banquet",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumi-nakahara.tk/leadale-no-daichi-nite/1/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sumi-nakahara.tk/leadale-no-daichi-nite/1/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "An Injured Person, the Royal Capital, My Sons, and a Game of Tag",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.takeo-kamado.cf/leadale-no-daichi-nite/1/2/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.takeo-kamado.cf/leadale-no-daichi-nite/1/2/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Daughter, a Colosseum, Losing Control, and an Uppercut",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jinta-hanakari.cf/leadale-no-daichi-nite/1/3/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.jinta-hanakari.cf/leadale-no-daichi-nite/1/3/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Son, a Fight, a Journey, and Bandits",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mitsuri-kanroji.tk/leadale-no-daichi-nite/1/4/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mitsuri-kanroji.tk/leadale-no-daichi-nite/1/4/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Grandsons, the Granddaughters, the Great-grandchildren, and a Fort",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kie-kamado.cf/leadale-no-daichi-nite/1/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kie-kamado.cf/leadale-no-daichi-nite/1/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Rock Golem, the Chief, a Skeleton, and a Fairy",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ryo-kunieda.gq/leadale-no-daichi-nite/1/6/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ryo-kunieda.gq/leadale-no-daichi-nite/1/6/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Bear Hunting, a Queen, a Bath, and Monsters",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jackie-tristan.cf/leadale-no-daichi-nite/1/7/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.jackie-tristan.cf/leadale-no-daichi-nite/1/7/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Battle, a Victory, a Conversation, and News",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kagine.tk/leadale-no-daichi-nite/1/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kagine.tk/leadale-no-daichi-nite/1/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Revisit, Mermaids, a Misunderstanding, and Zombies",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.anya-forger.cf/leadale-no-daichi-nite/1/9/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.anya-forger.cf/leadale-no-daichi-nite/1/9/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Butler, a Ghost Ship, an Adopted Daughter, and the Palace of the Dragon King",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.becky-blackbell.gq/leadale-no-daichi-nite/1/10/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.becky-blackbell.gq/leadale-no-daichi-nite/1/10/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "An Introduction, a Carriage, a Maid, and Moving",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.inosuke-hashibira.cf/leadale-no-daichi-nite/1/11/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.inosuke-hashibira.cf/leadale-no-daichi-nite/1/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Relocating, Building, Flying, and the Earth",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.takeo-kamado.cf/leadale-no-daichi-nite/1/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.takeo-kamado.cf/leadale-no-daichi-nite/1/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    }
+  ]
+}

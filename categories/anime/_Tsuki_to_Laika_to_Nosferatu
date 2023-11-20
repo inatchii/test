@@ -1,0 +1,280 @@
+{
+  "episodes": [
+    {
+      "title": "The Nosferatu Project",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaoru-unagiya.gq/tsuki-to-laika-to-nosferatu/1/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kaoru-unagiya.gq/tsuki-to-laika-to-nosferatu/1/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Path to Becoming a Cosmonaut",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumi-nakahara.gq/tsuki-to-laika-to-nosferatu/1/2/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sumi-nakahara.gq/tsuki-to-laika-to-nosferatu/1/2/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Night Flight",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kanae-kocho.tk/tsuki-to-laika-to-nosferatu/1/3/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kanae-kocho.tk/tsuki-to-laika-to-nosferatu/1/3/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Promise by the Lake",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.twelve-kizuki.tk/tsuki-to-laika-to-nosferatu/1/4/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.twelve-kizuki.tk/tsuki-to-laika-to-nosferatu/1/4/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Training Separately",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yor-forger.tk/tsuki-to-laika-to-nosferatu/1/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yor-forger.tk/tsuki-to-laika-to-nosferatu/1/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Nosferatu",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ymir-fritz.cf/tsuki-to-laika-to-nosferatu/1/6/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ymir-fritz.cf/tsuki-to-laika-to-nosferatu/1/6/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Lycoris Cooking Show",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sylvia-sherwood.cf/tsuki-to-laika-to-nosferatu/1/7/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sylvia-sherwood.cf/tsuki-to-laika-to-nosferatu/1/7/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Maiden's Prayer",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shuji-hanma.tk/tsuki-to-laika-to-nosferatu/1/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shuji-hanma.tk/tsuki-to-laika-to-nosferatu/1/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The White Rose of Sangrad",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kagaya-ubuyashiki.cf/tsuki-to-laika-to-nosferatu/1/9/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kagaya-ubuyashiki.cf/tsuki-to-laika-to-nosferatu/1/9/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Cold Spring",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hotaru-haganezuka.tk/tsuki-to-laika-to-nosferatu/1/10/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hotaru-haganezuka.tk/tsuki-to-laika-to-nosferatu/1/10/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Lies and Truths",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ryusei-satou.cf/tsuki-to-laika-to-nosferatu/1/11/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ryusei-satou.cf/tsuki-to-laika-to-nosferatu/1/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "To the New World",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shinjuro-rengoku.tk/tsuki-to-laika-to-nosferatu/1/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shinjuro-rengoku.tk/tsuki-to-laika-to-nosferatu/1/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    }
+  ]
+}

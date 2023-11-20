@@ -5,6 +5,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -27,6 +28,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -49,6 +51,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -71,6 +74,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -93,6 +97,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -115,6 +120,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 6. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -137,6 +143,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 7. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -159,6 +166,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -181,6 +189,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 9. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -203,6 +212,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 10. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -225,6 +235,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 11. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -233,6 +244,926 @@
         {
           "first": "1080p",
           "second": "https://hydra.nezuko-kamado.gq/fullmetal-alchemist/1/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Other Brothers Elric: Part 2",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shinichiro-sano.tk/fullmetal-alchemist/1/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shinichiro-sano.tk/fullmetal-alchemist/1/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Fullmetal VS Flame",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 13. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.armin-arlert.cf/fullmetal-alchemist/1/13/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.armin-arlert.cf/fullmetal-alchemist/1/13/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Destruction's Right Hand",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 14. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.emile-elman.cf/fullmetal-alchemist/1/14/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.emile-elman.cf/fullmetal-alchemist/1/14/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Ishbal Massacre",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 15. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ben-solo.gq/fullmetal-alchemist/1/15/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ben-solo.gq/fullmetal-alchemist/1/15/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "That Which Is Lost",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 16. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumi-nakahara.gq/fullmetal-alchemist/1/16/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sumi-nakahara.gq/fullmetal-alchemist/1/16/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "House of the Waiting Family",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 17. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kanao-tsuyuri.gq/fullmetal-alchemist/1/17/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kanao-tsuyuri.gq/fullmetal-alchemist/1/17/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Marcoh's Notes",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 18. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kanao-tsuyuri.gq/fullmetal-alchemist/1/18/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kanao-tsuyuri.gq/fullmetal-alchemist/1/18/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Truth Behind Truths",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 19. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ran-haitani.tk/fullmetal-alchemist/1/19/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ran-haitani.tk/fullmetal-alchemist/1/19/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Soul of the Guardian",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 20. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kont-dooku.tk/fullmetal-alchemist/1/20/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kont-dooku.tk/fullmetal-alchemist/1/20/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Red Glow",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 21. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.henry-henderson.tk/fullmetal-alchemist/1/21/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.henry-henderson.tk/fullmetal-alchemist/1/21/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Created Human",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 22. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.henry-henderson.gq/fullmetal-alchemist/1/22/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.henry-henderson.gq/fullmetal-alchemist/1/22/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Fullmetal Heart",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 23. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.emile-elman.gq/fullmetal-alchemist/1/23/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.emile-elman.gq/fullmetal-alchemist/1/23/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Bonding Memories",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 24. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumi-nakahara.cf/fullmetal-alchemist/1/24/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sumi-nakahara.cf/fullmetal-alchemist/1/24/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Words of Farewell",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 25. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.karin-kurosaki.tk/fullmetal-alchemist/1/25/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.karin-kurosaki.tk/fullmetal-alchemist/1/25/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Her Reason",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 26. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.obanai-iguro.tk/fullmetal-alchemist/1/26/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.obanai-iguro.tk/fullmetal-alchemist/1/26/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Teacher",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 27. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.giyu-tomioka.tk/fullmetal-alchemist/1/27/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.giyu-tomioka.tk/fullmetal-alchemist/1/27/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "All is One, One is All",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 28. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.anya-forger.gq/fullmetal-alchemist/1/28/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.anya-forger.gq/fullmetal-alchemist/1/28/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Untainted Child",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 29. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kie-kamado.cf/fullmetal-alchemist/1/29/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kie-kamado.cf/fullmetal-alchemist/1/29/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Assault on South Headquarters",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 30. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kyojuro-rengoku.cf/fullmetal-alchemist/1/30/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kyojuro-rengoku.cf/fullmetal-alchemist/1/30/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Sin",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 31. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ichigo-kurosaki.cf/fullmetal-alchemist/1/31/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ichigo-kurosaki.cf/fullmetal-alchemist/1/31/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Dante of the Deep Forest",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 32. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.makoto-sano.cf/fullmetal-alchemist/1/32/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.makoto-sano.cf/fullmetal-alchemist/1/32/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Al, Captured",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 33. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.nute-gunray.gq/fullmetal-alchemist/1/33/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.nute-gunray.gq/fullmetal-alchemist/1/33/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Theory of Avarice",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 34. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kozo-kanamori.cf/fullmetal-alchemist/1/34/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kozo-kanamori.cf/fullmetal-alchemist/1/34/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Reunion of the Fallen",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 35. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.obanai-iguro.gq/fullmetal-alchemist/1/35/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.obanai-iguro.gq/fullmetal-alchemist/1/35/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Sinner Within",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 36. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.reiner-braun.gq/fullmetal-alchemist/1/36/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.reiner-braun.gq/fullmetal-alchemist/1/36/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Flame Alchemist, The Bachelor Lieutenant & The Mystery of Warehouse 13",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 37. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shinjuro-rengoku.tk/fullmetal-alchemist/1/37/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shinjuro-rengoku.tk/fullmetal-alchemist/1/37/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "With the River's Flow",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 38. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jackie-tristan.cf/fullmetal-alchemist/1/38/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.jackie-tristan.cf/fullmetal-alchemist/1/38/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Secret of Ishbal",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 39. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.harutoki-ide.tk/fullmetal-alchemist/1/39/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.harutoki-ide.tk/fullmetal-alchemist/1/39/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Scar",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 40. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.aoi-kanzaki.gq/fullmetal-alchemist/1/40/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.aoi-kanzaki.gq/fullmetal-alchemist/1/40/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Holy Mother",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 41. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sorimachi.tk/fullmetal-alchemist/1/41/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sorimachi.tk/fullmetal-alchemist/1/41/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "His Name Is Unknown",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 42. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.giyu-tomioka.tk/fullmetal-alchemist/1/42/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.giyu-tomioka.tk/fullmetal-alchemist/1/42/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Stray Dog",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 43. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.muichiro-tokito.cf/fullmetal-alchemist/1/43/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.muichiro-tokito.cf/fullmetal-alchemist/1/43/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Hohenheim of Light",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 44. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ruka-rengoku.tk/fullmetal-alchemist/1/44/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ruka-rengoku.tk/fullmetal-alchemist/1/44/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Rotted Heart",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 45. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kozo-kanamori.tk/fullmetal-alchemist/1/45/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kozo-kanamori.tk/fullmetal-alchemist/1/45/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Human Transmutation",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 46. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.genya-shinazugawa.cf/fullmetal-alchemist/1/46/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.genya-shinazugawa.cf/fullmetal-alchemist/1/46/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Sealing the Homunculus",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 47. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jinta-hanakari.cf/fullmetal-alchemist/1/47/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.jinta-hanakari.cf/fullmetal-alchemist/1/47/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Goodbye",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 48. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kozo-kanamori.cf/fullmetal-alchemist/1/48/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kozo-kanamori.cf/fullmetal-alchemist/1/48/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Other Side of the Gate",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 49. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kont-dooku.cf/fullmetal-alchemist/1/49/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kont-dooku.cf/fullmetal-alchemist/1/49/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Death",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 50. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shuji-hanma.tk/fullmetal-alchemist/1/50/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shuji-hanma.tk/fullmetal-alchemist/1/50/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Laws and Promises",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 51. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.fiona-frost.gq/fullmetal-alchemist/1/51/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.fiona-frost.gq/fullmetal-alchemist/1/51/1080.mp4"
         }
       ],
       "sourceAuth": [

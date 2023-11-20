@@ -1,0 +1,602 @@
+{
+  "episodes": [
+    {
+      "title": "Night of Vampires",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaoru-unagiya.tk/vampire-knight/1/1/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kaoru-unagiya.tk/vampire-knight/1/1/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Memories of Blood",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kyojuro-rengoku.gq/vampire-knight/1/2/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kyojuro-rengoku.gq/vampire-knight/1/2/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Fang of Penitence",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jar-jar-binks.tk/vampire-knight/1/3/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.jar-jar-binks.tk/vampire-knight/1/3/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Trigger of Condemnation",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.nute-gunray.gq/vampire-knight/1/4/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.nute-gunray.gq/vampire-knight/1/4/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Moonlight Festivities",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mikasa-ackerman.gq/vampire-knight/1/5/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.mikasa-ackerman.gq/vampire-knight/1/5/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Their Choices",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.anya-forger.tk/vampire-knight/1/6/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.anya-forger.tk/vampire-knight/1/6/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Scarlet Maze",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jinta-hanakari.tk/vampire-knight/1/7/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.jinta-hanakari.tk/vampire-knight/1/7/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Gunshot of Sorrow",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kazui-kurosaki.cf/vampire-knight/1/8/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kazui-kurosaki.cf/vampire-knight/1/8/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Crimson Gaze",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.karin-kurosaki.tk/vampire-knight/1/9/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.karin-kurosaki.tk/vampire-knight/1/9/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Princess of Darkness",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.megumi-fushiguro.cf/vampire-knight/1/10/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.megumi-fushiguro.cf/vampire-knight/1/10/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Consequence of Desire",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.obanai-iguro.tk/vampire-knight/1/11/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.obanai-iguro.tk/vampire-knight/1/11/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Vow of the Pureblood",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.don-kanonji.gq/vampire-knight/1/12/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.don-kanonji.gq/vampire-knight/1/12/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Crimson Chains",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 13. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kont-dooku.gq/vampire-knight/1/13/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kont-dooku.gq/vampire-knight/1/13/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Burden of Sinners",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.luke-skywalker.tk/vampire-knight/2/1/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.luke-skywalker.tk/vampire-knight/2/1/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Eternal Promise",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.damian-desmond.cf/vampire-knight/2/2/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.damian-desmond.cf/vampire-knight/2/2/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Azure Portrait",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.donovan-desmond.tk/vampire-knight/2/3/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.donovan-desmond.tk/vampire-knight/2/3/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Devil's Awakening",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.karin-kurosaki.cf/vampire-knight/2/4/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.karin-kurosaki.cf/vampire-knight/2/4/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Subordinate's Trap",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kylo-ren.gq/vampire-knight/2/5/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kylo-ren.gq/vampire-knight/2/5/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Fake Lovers",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.don-kanonji.cf/vampire-knight/2/6/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.don-kanonji.cf/vampire-knight/2/6/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Kiss of Thorns",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaneda.tk/vampire-knight/2/7/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kaneda.tk/vampire-knight/2/7/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Spiraling Recollections",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mizuho-asano.tk/vampire-knight/2/8/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.mizuho-asano.tk/vampire-knight/2/8/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Revival of the Mad Emperor",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.nobara-kugisaki.gq/vampire-knight/2/9/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.nobara-kugisaki.gq/vampire-knight/2/9/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Prelude to the Battle",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.bill-watkins.tk/vampire-knight/2/10/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.bill-watkins.tk/vampire-knight/2/10/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Two Souls",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.muzan-kibutsuji.cf/vampire-knight/2/11/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.muzan-kibutsuji.cf/vampire-knight/2/11/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "World's End",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.reiner-braun.tk/vampire-knight/2/12/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.reiner-braun.tk/vampire-knight/2/12/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Vampire Knight",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 13. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.aoi-kanzaki.gq/vampire-knight/2/13/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.aoi-kanzaki.gq/vampire-knight/2/13/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    }
+  ]
+}

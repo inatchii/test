@@ -5,6 +5,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -27,6 +28,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -49,6 +51,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -71,6 +74,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -93,6 +97,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -115,6 +120,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 6. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -137,6 +143,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 7. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",

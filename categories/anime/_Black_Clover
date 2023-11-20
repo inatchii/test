@@ -5,6 +5,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -27,6 +28,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -49,6 +51,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -71,6 +74,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -93,6 +97,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -115,6 +120,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 6. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -137,6 +143,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 7. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -159,6 +166,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -181,6 +189,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 9. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -203,6 +212,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 10. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -225,6 +235,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 11. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -247,6 +258,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 12. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -269,6 +281,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 13. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -291,6 +304,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 14. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -313,6 +327,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 15. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -335,6 +350,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 16. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -357,6 +373,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 17. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -379,6 +396,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 18. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -401,6 +419,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 19. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -423,6 +442,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 20. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -431,6 +451,3456 @@
         {
           "first": "1080p",
           "second": "https://hydra.genya-shinazugawa.tk/black-clover/1/20/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Capital Riot",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 21. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumi-nakahara.tk/black-clover/1/21/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sumi-nakahara.tk/black-clover/1/21/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Wild Magic Dance",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 22. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jango-fett.tk/black-clover/1/22/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.jango-fett.tk/black-clover/1/22/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Crimson Lion King",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 23. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jar-jar-binks.gq/black-clover/1/23/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.jar-jar-binks.gq/black-clover/1/23/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Blackout",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 24. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ben-solo.gq/black-clover/1/24/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ben-solo.gq/black-clover/1/24/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Adversity",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 25. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shuji-hanma.gq/black-clover/1/25/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shuji-hanma.gq/black-clover/1/25/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Wounded Beasts",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 26. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaoru-unagiya.gq/black-clover/1/26/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kaoru-unagiya.gq/black-clover/1/26/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Light",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 27. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.reiner-braun.cf/black-clover/1/27/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.reiner-braun.cf/black-clover/1/27/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The One I've Set My Heart On",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 28. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumihiko-kamado.cf/black-clover/1/28/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sumihiko-kamado.cf/black-clover/1/28/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Path",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 29. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.muichiro-tokito.cf/black-clover/1/29/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.muichiro-tokito.cf/black-clover/1/29/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Mirror Mage",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 30. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.amane-ubuyashiki.cf/black-clover/1/30/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.amane-ubuyashiki.cf/black-clover/1/30/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Pursuit Over the Snow",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 31. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.harutoki-ide.gq/black-clover/1/31/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.harutoki-ide.gq/black-clover/1/31/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Three-Leaf Sprouts",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 32. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.karin-kurosaki.gq/black-clover/1/32/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.karin-kurosaki.gq/black-clover/1/32/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "To Help Somebody Someday",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 33. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumi-nakahara.gq/black-clover/1/33/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sumi-nakahara.gq/black-clover/1/33/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Light Magic vs. Dark Magic",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 34. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.takeo-kamado.tk/black-clover/1/34/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.takeo-kamado.tk/black-clover/1/34/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Light of Judgment",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 35. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.damian-desmond.gq/black-clover/1/35/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.damian-desmond.gq/black-clover/1/35/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Three Eyes",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 36. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ran-haitani.cf/black-clover/1/36/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ran-haitani.cf/black-clover/1/36/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The One with No Magic",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 37. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kont-dooku.gq/black-clover/1/37/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kont-dooku.gq/black-clover/1/37/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Magic Knight Captains Conference",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 38. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.obanai-iguro.gq/black-clover/1/38/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.obanai-iguro.gq/black-clover/1/38/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Three-Leaf Salute",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 39. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.oscar-joaquin.gq/black-clover/1/39/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.oscar-joaquin.gq/black-clover/1/39/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Black Beach Story",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 40. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.wakasa-imaushi.cf/black-clover/1/40/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.wakasa-imaushi.cf/black-clover/1/40/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Water Girl Grows Up",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 41. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.inosuke-hashibira.gq/black-clover/1/41/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.inosuke-hashibira.gq/black-clover/1/41/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Underwater Temple",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 42. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mahana-natsui.tk/black-clover/1/42/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mahana-natsui.tk/black-clover/1/42/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Temple Battle Royale",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 43. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yuri-briar.gq/black-clover/1/43/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yuri-briar.gq/black-clover/1/43/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Pointlessly Direct Fireball and the Wild Lightning",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 44. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaoru-unagiya.gq/black-clover/1/44/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kaoru-unagiya.gq/black-clover/1/44/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Guy Who Doesn't Know When to Quit",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 45. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kie-kamado.cf/black-clover/1/45/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kie-kamado.cf/black-clover/1/45/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Awakening",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 46. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yor-forger.gq/black-clover/1/46/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yor-forger.gq/black-clover/1/46/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Only Weapon",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 47. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.melinda-desmond.tk/black-clover/1/47/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.melinda-desmond.tk/black-clover/1/47/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Despair vs. Hope",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 48. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ruka-rengoku.cf/black-clover/1/48/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ruka-rengoku.cf/black-clover/1/48/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Beyond Limits",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 49. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.keigo-asano.tk/black-clover/1/49/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.keigo-asano.tk/black-clover/1/49/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "End of the Battle, End of Despair",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 50. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hashigami.tk/black-clover/1/50/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hashigami.tk/black-clover/1/50/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Proof of Rightness",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 51. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shinjuro-rengoku.tk/black-clover/1/51/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shinjuro-rengoku.tk/black-clover/1/51/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Whoever's Strongest Wins",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 52. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.becky-blackbell.tk/black-clover/1/52/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.becky-blackbell.tk/black-clover/1/52/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Behind the Mask",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 53. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ryo-kunieda.cf/black-clover/1/53/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ryo-kunieda.cf/black-clover/1/53/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Never Again",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 54. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.loid-forger.tk/black-clover/1/54/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.loid-forger.tk/black-clover/1/54/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Man Named Fanzell",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 55. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.zenitsu-agatsuma.tk/black-clover/1/55/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.zenitsu-agatsuma.tk/black-clover/1/55/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Man Named Fanzell Continued",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 56. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.wakasa-imaushi.tk/black-clover/1/56/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.wakasa-imaushi.tk/black-clover/1/56/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Infiltration",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 57. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kazui-kurosaki.gq/black-clover/1/57/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kazui-kurosaki.gq/black-clover/1/57/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Battlefield Decision",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 58. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tatsuki-arisawa.cf/black-clover/1/58/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tatsuki-arisawa.cf/black-clover/1/58/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Flames of Hatred",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 59. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.qui-gon-jinn.tk/black-clover/1/59/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.qui-gon-jinn.tk/black-clover/1/59/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Defectors' Atonement",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 60. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.giyu-tomioka.gq/black-clover/1/60/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.giyu-tomioka.gq/black-clover/1/60/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Promised World",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 61. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.taiju-shiba.cf/black-clover/1/61/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.taiju-shiba.cf/black-clover/1/61/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Those Who Boost Each Other Up",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 62. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shuji-hanma.cf/black-clover/1/62/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shuji-hanma.cf/black-clover/1/62/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Not in the Slightest",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 63. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.henry-henderson.cf/black-clover/1/63/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.henry-henderson.cf/black-clover/1/63/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Red Thread of Fate",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 64. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hashigami.cf/black-clover/1/64/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hashigami.cf/black-clover/1/64/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "I'm Home",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 65. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kyojuro-rengoku.gq/black-clover/1/65/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kyojuro-rengoku.gq/black-clover/1/65/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Eye of the Midnight Sun's Secret",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 66. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumi-nakahara.cf/black-clover/1/66/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sumi-nakahara.cf/black-clover/1/66/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Fun Festival Double Date",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 67. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.inosuke-hashibira.gq/black-clover/1/67/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.inosuke-hashibira.gq/black-clover/1/67/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Battle to the Death?! Yami vs. Jack",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 68. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.makoto-sano.cf/black-clover/1/68/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.makoto-sano.cf/black-clover/1/68/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Briar Maiden's Melancholy",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 69. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jackie-tristan.gq/black-clover/1/69/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.jackie-tristan.gq/black-clover/1/69/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Two New Stars",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 70. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sanemi-shinazugawa.cf/black-clover/1/70/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sanemi-shinazugawa.cf/black-clover/1/70/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Uncrowned, Undefeated Lioness",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 71. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hanako-kamado.gq/black-clover/1/71/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hanako-kamado.gq/black-clover/1/71/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Saint Elmo's Fire",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 72. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mitsuri-kanroji.cf/black-clover/1/72/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mitsuri-kanroji.cf/black-clover/1/72/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Royal Knights Selection Test",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 73. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.loid-forger.tk/black-clover/1/73/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.loid-forger.tk/black-clover/1/73/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Flower of Resolution",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 74. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ymir-fritz.cf/black-clover/1/74/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ymir-fritz.cf/black-clover/1/74/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Fierce Battle",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 75. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.oscar-joaquin.gq/black-clover/1/75/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.oscar-joaquin.gq/black-clover/1/75/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Mage X",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 76. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yuji-itadori.tk/black-clover/1/76/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yuji-itadori.tk/black-clover/1/76/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Bad Blood",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 77. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kanao-tsuyuri.tk/black-clover/1/77/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kanao-tsuyuri.tk/black-clover/1/77/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Peasant Trap",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 78. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yor-forger.tk/black-clover/1/78/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yor-forger.tk/black-clover/1/78/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Mister Delinquent vs. Muscle Brains",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 79. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tatsuki-arisawa.cf/black-clover/1/79/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tatsuki-arisawa.cf/black-clover/1/79/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Special Little Brother vs. Failed Big Brother",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 80. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kazui-kurosaki.tk/black-clover/1/80/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kazui-kurosaki.tk/black-clover/1/80/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Life of a Certain Man",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 81. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.giyu-tomioka.cf/black-clover/1/81/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.giyu-tomioka.cf/black-clover/1/81/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Petit Clover! The Nightmarish Charmy SP!",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 82. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jango-fett.gq/black-clover/1/82/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.jango-fett.gq/black-clover/1/82/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Burn It Into You",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 83. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.wakasa-imaushi.gq/black-clover/1/83/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.wakasa-imaushi.gq/black-clover/1/83/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Victors",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 84. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sylvia-sherwood.gq/black-clover/1/84/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sylvia-sherwood.gq/black-clover/1/84/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Together in the Bath",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 85. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hashigami.gq/black-clover/1/85/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hashigami.gq/black-clover/1/85/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Yami and Vangeance",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 86. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hotaru-haganezuka.tk/black-clover/1/86/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hotaru-haganezuka.tk/black-clover/1/86/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Formation of the Royal Knights",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 87. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.takeo-kamado.gq/black-clover/1/87/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.takeo-kamado.gq/black-clover/1/87/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Storming the Eye of the Midnight Sun's Hideout!!!",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 88. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.rokuta-kamado.gq/black-clover/1/88/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.rokuta-kamado.gq/black-clover/1/88/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Black Bulls' Hideout",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 89. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ewen-egeburg.gq/black-clover/1/89/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ewen-egeburg.gq/black-clover/1/89/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Crazy Magic Battle",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 90. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.karin-kurosaki.cf/black-clover/1/90/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.karin-kurosaki.cf/black-clover/1/90/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Mereoleona vs. Raia the Disloyal",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 91. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.loid-forger.tk/black-clover/1/91/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.loid-forger.tk/black-clover/1/91/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Wizard King vs. The Leader of the Eye of the Midnight Sun",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 92. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sanemi-shinazugawa.cf/black-clover/1/92/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sanemi-shinazugawa.cf/black-clover/1/92/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Julius Novachrono",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 93. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hashigami.tk/black-clover/1/93/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hashigami.tk/black-clover/1/93/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "New Future",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 94. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shuji-hanma.tk/black-clover/1/94/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shuji-hanma.tk/black-clover/1/94/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Reincarnation",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 95. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mizuiro-kojima.gq/black-clover/1/95/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mizuiro-kojima.gq/black-clover/1/95/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Black Bulls Captain vs. the Crimson Wild Rose",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 96. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sorimachi.tk/black-clover/1/96/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sorimachi.tk/black-clover/1/96/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Overwhelming Disadvantage",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 97. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mahana-natsui.gq/black-clover/1/97/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mahana-natsui.gq/black-clover/1/97/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Sleeping Lion",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 98. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tanjiro-kamado.tk/black-clover/1/98/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tanjiro-kamado.tk/black-clover/1/98/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Desperate Path Toward Survival",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 99. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yuzu-kurosaki.tk/black-clover/1/99/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yuzu-kurosaki.tk/black-clover/1/99/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "We Won't Lose to You",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 100. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumihiko-kamado.tk/black-clover/1/100/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sumihiko-kamado.tk/black-clover/1/100/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Lives of the Village in the Sticks",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 101. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hotaru-haganezuka.tk/black-clover/1/101/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hotaru-haganezuka.tk/black-clover/1/101/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Two Miracles",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 102. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.wakasa-imaushi.cf/black-clover/1/102/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.wakasa-imaushi.cf/black-clover/1/102/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Release from Misfortune",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 103. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.emile-elman.tk/black-clover/1/103/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.emile-elman.tk/black-clover/1/103/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Lightning of Rage vs. Friends",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 104. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.anya-forger.cf/black-clover/1/104/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.anya-forger.cf/black-clover/1/104/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Smiles, Tears",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 105. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tengen-uzui.gq/black-clover/1/105/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tengen-uzui.gq/black-clover/1/105/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Path of Revenge, Path of Atonement",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 106. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shuji-hanma.cf/black-clover/1/106/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shuji-hanma.cf/black-clover/1/106/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Battle for Clover Castle",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 107. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.taiju-shiba.cf/black-clover/1/107/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.taiju-shiba.cf/black-clover/1/107/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Battlefield Dancer",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 108. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kie-kamado.gq/black-clover/1/108/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kie-kamado.gq/black-clover/1/108/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Spatial Mage Brothers",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 109. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shinjuro-rengoku.gq/black-clover/1/109/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shinjuro-rengoku.gq/black-clover/1/109/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Raging Bull Joins the Showdown!!",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 110. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kie-kamado.gq/black-clover/1/110/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kie-kamado.gq/black-clover/1/110/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Eyes in the Mirror",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 111. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.bill-watkins.tk/black-clover/1/111/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.bill-watkins.tk/black-clover/1/111/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Humans Who Can Be Trusted",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 112. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mace-windu.cf/black-clover/1/112/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mace-windu.cf/black-clover/1/112/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Storming the Shadow Palace",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 113. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mitsuri-kanroji.tk/black-clover/1/113/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mitsuri-kanroji.tk/black-clover/1/113/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Final Invaders",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 114. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tanjiro-kamado.cf/black-clover/1/114/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tanjiro-kamado.cf/black-clover/1/114/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Mastermind",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 115. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yor-forger.cf/black-clover/1/115/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yor-forger.cf/black-clover/1/115/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Ultimate Natural Enemy",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 116. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.bill-watkins.cf/black-clover/1/116/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.bill-watkins.cf/black-clover/1/116/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Breaking the Seal",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 117. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.makoto-sano.tk/black-clover/1/117/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.makoto-sano.tk/black-clover/1/117/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Reunion Across Time and Space",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 118. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaoru-unagiya.gq/black-clover/1/118/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kaoru-unagiya.gq/black-clover/1/118/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Final Attack",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 119. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.anya-forger.cf/black-clover/1/119/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.anya-forger.cf/black-clover/1/119/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Dawn",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 120. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mahana-natsui.cf/black-clover/1/120/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mahana-natsui.cf/black-clover/1/120/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Three Problems",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 121. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jinta-hanakari.cf/black-clover/1/121/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.jinta-hanakari.cf/black-clover/1/121/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "As Pitch Black as It Gets",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 122. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.twelve-kizuki.gq/black-clover/1/122/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.twelve-kizuki.gq/black-clover/1/122/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Nero Reminiscences… Part One",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 123. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jar-jar-binks.gq/black-clover/1/123/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.jar-jar-binks.gq/black-clover/1/123/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Nero Reminiscences… Part Two",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 124. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kagaya-ubuyashiki.cf/black-clover/1/124/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kagaya-ubuyashiki.cf/black-clover/1/124/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Return",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 125. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.misato-ochi.cf/black-clover/1/125/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.misato-ochi.cf/black-clover/1/125/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Blue Rose’s Confession",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 126. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kie-kamado.cf/black-clover/1/126/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kie-kamado.cf/black-clover/1/126/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Clues",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 127. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaoru-unagiya.tk/black-clover/1/127/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kaoru-unagiya.tk/black-clover/1/127/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "To the Heart Kingdom!",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 128. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumihiko-kamado.gq/black-clover/1/128/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sumihiko-kamado.gq/black-clover/1/128/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Devil Megicula",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 129. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mizuho-asano.gq/black-clover/1/129/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mizuho-asano.gq/black-clover/1/129/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The New Magic Knights Captain Conference",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 130. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.becky-blackbell.cf/black-clover/1/130/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.becky-blackbell.cf/black-clover/1/130/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A New Resolve",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 131. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tanjiro-kamado.cf/black-clover/1/131/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tanjiro-kamado.cf/black-clover/1/131/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Lion Awakens",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 132. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yuji-itadori.cf/black-clover/1/132/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yuji-itadori.cf/black-clover/1/132/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Lion Awakens, Continued",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 133. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.don-kanonji.gq/black-clover/1/133/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.don-kanonji.gq/black-clover/1/133/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Those Who Have Been Gathered",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 134. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yuzu-kurosaki.gq/black-clover/1/134/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yuzu-kurosaki.gq/black-clover/1/134/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The One Who Has My Heart, My Mind, and Soul",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 135. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaneda.tk/black-clover/1/135/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kaneda.tk/black-clover/1/135/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Black Deep Sea Story",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 136. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.demetrius-desmond.tk/black-clover/1/136/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.demetrius-desmond.tk/black-clover/1/136/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Charmy’s Century of Hunger, Gordon’s Millennium of Loneliness",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 137. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.fiona-frost.gq/black-clover/1/137/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.fiona-frost.gq/black-clover/1/137/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "In Zara’s Footsteps",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 138. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.fiona-frost.cf/black-clover/1/138/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.fiona-frost.cf/black-clover/1/138/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Witch’s Homecoming",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 139. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.becky-blackbell.gq/black-clover/1/139/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.becky-blackbell.gq/black-clover/1/139/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Favor for Julius",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 140. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mitsuri-kanroji.tk/black-clover/1/140/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mitsuri-kanroji.tk/black-clover/1/140/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Golden Family",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 141. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.harutoki-ide.tk/black-clover/1/141/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.harutoki-ide.tk/black-clover/1/141/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Those Remaining",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 142. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ryo-kunieda.cf/black-clover/1/142/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ryo-kunieda.cf/black-clover/1/142/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Tilted Scale",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 143. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sylvia-sherwood.cf/black-clover/1/143/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sylvia-sherwood.cf/black-clover/1/143/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Those Who Wish for the Devil’s Demise",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 144. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ryo-kunieda.gq/black-clover/1/144/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ryo-kunieda.gq/black-clover/1/144/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Rescue",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 145. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.misato-ochi.cf/black-clover/1/145/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.misato-ochi.cf/black-clover/1/145/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Those Who Worship the Devil",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 146. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yor-forger.tk/black-clover/1/146/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yor-forger.tk/black-clover/1/146/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Prepared to Die",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 147. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tanjiro-kamado.cf/black-clover/1/147/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tanjiro-kamado.cf/black-clover/1/147/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Becoming the Light That Shines Through the Darkness",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 148. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.melinda-desmond.cf/black-clover/1/148/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.melinda-desmond.cf/black-clover/1/148/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Two Things to Look for",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 149. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.darth-bane.gq/black-clover/1/149/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.darth-bane.gq/black-clover/1/149/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Maidens’ Challenge",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 150. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ymir-fritz.cf/black-clover/1/150/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ymir-fritz.cf/black-clover/1/150/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Clash! The Battle of the Magic Knights Squad Captains",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 151. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.zeke-yeager.cf/black-clover/1/151/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.zeke-yeager.cf/black-clover/1/151/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "To Tomorrow!",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 152. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kanae-kocho.cf/black-clover/1/152/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kanae-kocho.cf/black-clover/1/152/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Chosen Ones",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 153. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.gyomei-himejima.cf/black-clover/1/153/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.gyomei-himejima.cf/black-clover/1/153/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Vice Captain Langris Vaude",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 154. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.genya-shinazugawa.gq/black-clover/1/154/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.genya-shinazugawa.gq/black-clover/1/154/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The 5 Spirit Guardians",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 155. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hanako-kamado.tk/black-clover/1/155/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hanako-kamado.tk/black-clover/1/155/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Powers Awakening",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 156. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.darth-bane.tk/black-clover/1/156/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.darth-bane.tk/black-clover/1/156/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Five Leaf Clover",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 157. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sylvia-sherwood.gq/black-clover/1/157/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sylvia-sherwood.gq/black-clover/1/157/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Beginning of Hope and Despair",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 158. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kanae-kocho.tk/black-clover/1/158/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kanae-kocho.tk/black-clover/1/158/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Quiet Lakes and Forest Shadows",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 159. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hotaru-haganezuka.gq/black-clover/1/159/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hotaru-haganezuka.gq/black-clover/1/159/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Messenger from the Spade Kingdom",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 160. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.twelve-kizuki.cf/black-clover/1/160/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.twelve-kizuki.cf/black-clover/1/160/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Zenon’s Power",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 161. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hashigami.gq/black-clover/1/161/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hashigami.gq/black-clover/1/161/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Great War Breaks Out",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 162. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.taiju-shiba.gq/black-clover/1/162/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.taiju-shiba.gq/black-clover/1/162/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Dante vs. The Captain of the Black Bulls Squad",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 163. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.donovan-desmond.gq/black-clover/1/163/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.donovan-desmond.gq/black-clover/1/163/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Battlefield: Heart Kingdom",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 164. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kazui-kurosaki.gq/black-clover/1/164/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kazui-kurosaki.gq/black-clover/1/164/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Water Crusade",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 165. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.karin-kurosaki.cf/black-clover/1/165/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.karin-kurosaki.cf/black-clover/1/165/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Captain: Yami Sukehiro",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 166. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yuzu-kurosaki.cf/black-clover/1/166/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yuzu-kurosaki.cf/black-clover/1/166/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Black Oath",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 167. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.taiju-shiba.cf/black-clover/1/167/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.taiju-shiba.cf/black-clover/1/167/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Stirrings of the Strongest",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 168. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.muzan-kibutsuji.cf/black-clover/1/168/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.muzan-kibutsuji.cf/black-clover/1/168/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Devil-Binding Ritual",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 169. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hashigami.tk/black-clover/1/169/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hashigami.tk/black-clover/1/169/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Faraway Future",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 170. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ichigo-kurosaki.gq/black-clover/1/170/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ichigo-kurosaki.gq/black-clover/1/170/1080.mp4"
         }
       ],
       "sourceAuth": [

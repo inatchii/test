@@ -1,0 +1,602 @@
+{
+  "episodes": [
+    {
+      "title": "The Quintessential Quintuplets",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaoru-unagiya.gq/5-toubun-no-hanayome/1/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kaoru-unagiya.gq/5-toubun-no-hanayome/1/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Rooftop Confession",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kie-kamado.tk/5-toubun-no-hanayome/1/2/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kie-kamado.tk/5-toubun-no-hanayome/1/2/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Mountain of Problems",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yuzu-kurosaki.gq/5-toubun-no-hanayome/1/3/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yuzu-kurosaki.gq/5-toubun-no-hanayome/1/3/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Day Off",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ruka-rengoku.gq/5-toubun-no-hanayome/1/4/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ruka-rengoku.gq/5-toubun-no-hanayome/1/4/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Five Fifths",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumi-nakahara.cf/5-toubun-no-hanayome/1/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sumi-nakahara.cf/5-toubun-no-hanayome/1/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "What's Been Built Up",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaneda.tk/5-toubun-no-hanayome/1/6/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kaneda.tk/5-toubun-no-hanayome/1/6/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Liar McLieface",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ryusei-satou.cf/5-toubun-no-hanayome/1/7/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ryusei-satou.cf/5-toubun-no-hanayome/1/7/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Photo That Started It All",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kagaya-ubuyashiki.gq/5-toubun-no-hanayome/1/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kagaya-ubuyashiki.gq/5-toubun-no-hanayome/1/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Legend of Fate Day 1",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tanjiro-kamado.tk/5-toubun-no-hanayome/1/9/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tanjiro-kamado.tk/5-toubun-no-hanayome/1/9/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Legend of Fate Day 2",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.floch-forster.cf/5-toubun-no-hanayome/1/10/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.floch-forster.cf/5-toubun-no-hanayome/1/10/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Legend of Fate Day 3",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.damian-desmond.tk/5-toubun-no-hanayome/1/11/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.damian-desmond.tk/5-toubun-no-hanayome/1/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Legend of Fate Day 2000",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.muichiro-tokito.cf/5-toubun-no-hanayome/1/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.muichiro-tokito.cf/5-toubun-no-hanayome/1/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Quite the Crappy Kyoto Quagmire",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.bill-watkins.tk/5-toubun-no-hanayome/2/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.bill-watkins.tk/5-toubun-no-hanayome/2/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Seven Goodbyes Part 1",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.harutoki-ide.gq/5-toubun-no-hanayome/2/2/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.harutoki-ide.gq/5-toubun-no-hanayome/2/2/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Seven Goodbyes Part 2",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ben-solo.tk/5-toubun-no-hanayome/2/3/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ben-solo.tk/5-toubun-no-hanayome/2/3/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Seven Goodbyes Part 3",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.takashi-mitsuya.tk/5-toubun-no-hanayome/2/4/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.takashi-mitsuya.tk/5-toubun-no-hanayome/2/4/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Good Work Today",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.zenitsu-agatsuma.cf/5-toubun-no-hanayome/2/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.zenitsu-agatsuma.cf/5-toubun-no-hanayome/2/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Last Exam",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.chizuru-honsho.gq/5-toubun-no-hanayome/2/6/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.chizuru-honsho.gq/5-toubun-no-hanayome/2/6/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Begin the Offensive",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hotaru-haganezuka.tk/5-toubun-no-hanayome/2/7/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hotaru-haganezuka.tk/5-toubun-no-hanayome/2/7/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Scrambled Eggs",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumihiko-kamado.gq/5-toubun-no-hanayome/2/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sumihiko-kamado.gq/5-toubun-no-hanayome/2/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Welcome to Class 3-1",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kagine.gq/5-toubun-no-hanayome/2/9/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kagine.gq/5-toubun-no-hanayome/2/9/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Five Cranes in Return",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shuji-hanma.gq/5-toubun-no-hanayome/2/10/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shuji-hanma.gq/5-toubun-no-hanayome/2/10/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Sisters War: Part 1",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kozo-kanamori.gq/5-toubun-no-hanayome/2/11/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kozo-kanamori.gq/5-toubun-no-hanayome/2/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Sisters War: Part 2",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hashigami.cf/5-toubun-no-hanayome/2/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hashigami.cf/5-toubun-no-hanayome/2/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Not-So Coincidental Summer Vacation (Part 1)",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon OVA-1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shuji-hanma.gq/5-toubun-no-hanayome/2/OVA-1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shuji-hanma.gq/5-toubun-no-hanayome/2/OVA-1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Not-So Coincidental Summer Vacation (Part 2)",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon OVA-2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.leia-organa.tk/5-toubun-no-hanayome/2/OVA-2/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.leia-organa.tk/5-toubun-no-hanayome/2/OVA-2/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    }
+  ]
+}

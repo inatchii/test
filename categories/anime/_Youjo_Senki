@@ -5,6 +5,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -27,6 +28,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -49,6 +51,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -57,6 +60,236 @@
         {
           "first": "1080p",
           "second": "https://hydra.shuji-hanma.gq/youjo-senki/1/3/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Campus Life",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.nezuko-kamado.cf/youjo-senki/1/4/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.nezuko-kamado.cf/youjo-senki/1/4/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "My First Battalion",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tanjiro-kamado.cf/youjo-senki/1/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tanjiro-kamado.cf/youjo-senki/1/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Beginning of Madness",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.aoi-kanzaki.cf/youjo-senki/1/6/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.aoi-kanzaki.cf/youjo-senki/1/6/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Battle of the Fjord",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ichigo-kurosaki.tk/youjo-senki/1/7/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ichigo-kurosaki.tk/youjo-senki/1/7/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Trial by Fire",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.darth-tyranus.gq/youjo-senki/1/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.darth-tyranus.gq/youjo-senki/1/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Preparations for Advance",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yor-forger.tk/youjo-senki/1/9/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yor-forger.tk/youjo-senki/1/9/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Path to Victory",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.anya-forger.cf/youjo-senki/1/10/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.anya-forger.cf/youjo-senki/1/10/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Resistance",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.oscar-joaquin.gq/youjo-senki/1/11/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.oscar-joaquin.gq/youjo-senki/1/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "How to Use a Victory",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yuzu-kurosaki.cf/youjo-senki/1/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yuzu-kurosaki.cf/youjo-senki/1/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Operation Desert Pasta",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon OVA-1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shuji-hanma.tk/youjo-senki/1/OVA-1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shuji-hanma.tk/youjo-senki/1/OVA-1/1080.mp4"
         }
       ],
       "sourceAuth": [

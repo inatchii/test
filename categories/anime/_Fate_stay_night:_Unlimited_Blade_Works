@@ -1,0 +1,602 @@
+{
+  "episodes": [
+    {
+      "title": "Prologue",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 0. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.anya-forger.gq/fate-stay-night-unlimited-blade-works/1/0/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.anya-forger.gq/fate-stay-night-unlimited-blade-works/1/0/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Winter Day, A Fateful Night",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.melinda-desmond.tk/fate-stay-night-unlimited-blade-works/1/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.melinda-desmond.tk/fate-stay-night-unlimited-blade-works/1/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Curtain Rises",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.muzan-kibutsuji.cf/fate-stay-night-unlimited-blade-works/1/2/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.muzan-kibutsuji.cf/fate-stay-night-unlimited-blade-works/1/2/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The First Battle",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ben-solo.gq/fate-stay-night-unlimited-blade-works/1/3/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ben-solo.gq/fate-stay-night-unlimited-blade-works/1/3/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Finding the Will to Fight",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.oscar-joaquin.cf/fate-stay-night-unlimited-blade-works/1/4/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.oscar-joaquin.cf/fate-stay-night-unlimited-blade-works/1/4/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Dancing After School",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yuzu-kurosaki.gq/fate-stay-night-unlimited-blade-works/1/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.yuzu-kurosaki.gq/fate-stay-night-unlimited-blade-works/1/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Mirage",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hanako-kamado.tk/fate-stay-night-unlimited-blade-works/1/6/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hanako-kamado.tk/fate-stay-night-unlimited-blade-works/1/6/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Reward For the Fight to the Death",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kylo-ren.gq/fate-stay-night-unlimited-blade-works/1/7/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kylo-ren.gq/fate-stay-night-unlimited-blade-works/1/7/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Winter Days, Where the Heart is",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.misato-ochi.gq/fate-stay-night-unlimited-blade-works/1/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.misato-ochi.gq/fate-stay-night-unlimited-blade-works/1/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Distance Between Them",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ruka-rengoku.gq/fate-stay-night-unlimited-blade-works/1/9/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.ruka-rengoku.gq/fate-stay-night-unlimited-blade-works/1/9/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Fifth Contractor",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.luke-skywalker.cf/fate-stay-night-unlimited-blade-works/1/10/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.luke-skywalker.cf/fate-stay-night-unlimited-blade-works/1/10/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Visitor Approaches Lightly",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.reiner-braun.cf/fate-stay-night-unlimited-blade-works/1/11/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.reiner-braun.cf/fate-stay-night-unlimited-blade-works/1/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Final Decision",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.muichiro-tokito.tk/fate-stay-night-unlimited-blade-works/1/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.muichiro-tokito.tk/fate-stay-night-unlimited-blade-works/1/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Time of Departure",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mizuho-asano.gq/fate-stay-night-unlimited-blade-works/2/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mizuho-asano.gq/fate-stay-night-unlimited-blade-works/2/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Princess of Colchis",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shinichiro-sano.tk/fate-stay-night-unlimited-blade-works/2/2/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.shinichiro-sano.tk/fate-stay-night-unlimited-blade-works/2/2/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Battle of Legend",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.demetrius-desmond.tk/fate-stay-night-unlimited-blade-works/2/3/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.demetrius-desmond.tk/fate-stay-night-unlimited-blade-works/2/3/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Winter Days, The Form Wishes Take",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaoru-unagiya.tk/fate-stay-night-unlimited-blade-works/2/4/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kaoru-unagiya.tk/fate-stay-night-unlimited-blade-works/2/4/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Dark Sword Bares Its Fangs",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sorimachi.cf/fate-stay-night-unlimited-blade-works/2/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.sorimachi.cf/fate-stay-night-unlimited-blade-works/2/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Beginning of the Circle",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.don-kanonji.tk/fate-stay-night-unlimited-blade-works/2/6/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.don-kanonji.tk/fate-stay-night-unlimited-blade-works/2/6/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Idealism's End (The Answer)",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.hanako-kamado.cf/fate-stay-night-unlimited-blade-works/2/7/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.hanako-kamado.cf/fate-stay-night-unlimited-blade-works/2/7/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Unlimited Blade Works.",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.darth-bane.gq/fate-stay-night-unlimited-blade-works/2/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.darth-bane.gq/fate-stay-night-unlimited-blade-works/2/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Answer",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tatsuki-arisawa.tk/fate-stay-night-unlimited-blade-works/2/9/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tatsuki-arisawa.tk/fate-stay-night-unlimited-blade-works/2/9/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Winter Days, A Long Way Home",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.oscar-joaquin.tk/fate-stay-night-unlimited-blade-works/2/10/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.oscar-joaquin.tk/fate-stay-night-unlimited-blade-works/2/10/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Incarnation",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kazui-kurosaki.gq/fate-stay-night-unlimited-blade-works/2/11/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kazui-kurosaki.gq/fate-stay-night-unlimited-blade-works/2/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Unlimited Blade Works",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.leia-organa.tk/fate-stay-night-unlimited-blade-works/2/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.leia-organa.tk/fate-stay-night-unlimited-blade-works/2/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Epilogue",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 13. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.mitsuri-kanroji.tk/fate-stay-night-unlimited-blade-works/2/13/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.mitsuri-kanroji.tk/fate-stay-night-unlimited-blade-works/2/13/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    }
+  ]
+}

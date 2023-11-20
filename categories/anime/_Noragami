@@ -5,6 +5,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -27,6 +28,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -49,6 +51,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -71,6 +74,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -93,6 +97,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -115,6 +120,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 6. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -137,6 +143,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 7. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -159,6 +166,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -181,6 +189,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 9. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -203,6 +212,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 10. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -225,6 +235,7 @@
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "1. Sezon 11. Bölüm",
+      "autoQuality": false,
       "sourceURL": [
         {
           "first": "480p",
@@ -233,6 +244,420 @@
         {
           "first": "1080p",
           "second": "https://hydra.shinobu-kocho.gq/noragami/1/11/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Scrap of a Memory",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tanjiro-kamado.tk/noragami/1/12/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tanjiro-kamado.tk/noragami/1/12/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "God's Possession, God's Curse",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon OVA-1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.emile-elman.cf/noragami/1/OVA-1/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.emile-elman.cf/noragami/1/OVA-1/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Promise of That Spring Day",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "1. Sezon OVA-2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.shinjuro-rengoku.cf/noragami/1/OVA-2/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.shinjuro-rengoku.cf/noragami/1/OVA-2/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Bearing a Posthumous Name",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kaneda.tk/noragami/2/1/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kaneda.tk/noragami/2/1/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "One of Her Memories",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.luke-skywalker.tk/noragami/2/2/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.luke-skywalker.tk/noragami/2/2/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "False Bond",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 3. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kozo-kanamori.gq/noragami/2/3/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kozo-kanamori.gq/noragami/2/3/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Wish",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.taiju-shiba.cf/noragami/2/4/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.taiju-shiba.cf/noragami/2/4/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Divine Acclamation, Imprecation",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.ewen-egeburg.cf/noragami/2/5/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.ewen-egeburg.cf/noragami/2/5/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "What Must Be Done",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.makoto-sano.gq/noragami/2/6/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.makoto-sano.gq/noragami/2/6/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "How to Worship a God",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 7. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.yuzu-kurosaki.gq/noragami/2/7/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.yuzu-kurosaki.gq/noragami/2/7/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "God of Calamity",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sanemi-shinazugawa.tk/noragami/2/8/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.sanemi-shinazugawa.tk/noragami/2/8/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Sound of a Thread Snapping",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 9. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.anya-forger.tk/noragami/2/9/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.anya-forger.tk/noragami/2/9/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Certain Desire",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 10. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kagine.gq/noragami/2/10/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.kagine.gq/noragami/2/10/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Revival",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 11. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.muzan-kibutsuji.tk/noragami/2/11/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.muzan-kibutsuji.tk/noragami/2/11/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Your Voice Calls Out",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 12. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jar-jar-binks.tk/noragami/2/12/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.jar-jar-binks.tk/noragami/2/12/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The God of Fortune's Message",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon 13. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.chizuru-honsho.cf/noragami/2/13/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.chizuru-honsho.cf/noragami/2/13/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "The Yatogami Serial Murder Incident Noragami Suspense Theatre",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon OVA-1. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.nezuko-kamado.cf/noragami/2/OVA-1/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.nezuko-kamado.cf/noragami/2/OVA-1/720.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "A Picture Together",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "2. Sezon OVA-2. Bölüm",
+      "autoQuality": false,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sumihiko-kamado.tk/noragami/2/OVA-2/480.mp4"
+        },
+        {
+          "first": "720p",
+          "second": "https://hydra.sumihiko-kamado.tk/noragami/2/OVA-2/720.mp4"
         }
       ],
       "sourceAuth": [
