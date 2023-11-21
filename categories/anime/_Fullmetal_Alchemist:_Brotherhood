@@ -9,7 +9,7 @@
       "sourceURL": [
         {
           "first": "480p",
-          "second": "https://vkvd264.mycdn.me/srcIp/78.172.199.119/expires/1701032039129/srcAg/CHROME/fromCache/1/ms/45.136.20.193/mid/5906347468831/type/2/sig/l3JGABd5pAk/ct/28/urls/185.226.52.132/clientType/13/id/4933311793695/ondemand/hls2_4933311793695.CJ_Q-O3yqwFIn6bUhQNQKFgNlYFYLc7tiGQ=.m3u8"
+          "second": "https://vkvd264.mycdn.me/?srcIp=78.172.199.24&pr=40&expires=1701050072726&srcAg=CHROME&fromCache=1&ms=45.136.20.193&type=5&sig=X-gIW8VZi74&ct=0&urls=185.226.52.132&clientType=13&appId=512000384397&id=4933311793695"
         },
         {
           "first": "1080p",
