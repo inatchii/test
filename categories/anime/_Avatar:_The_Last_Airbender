@@ -6,10 +6,10 @@
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239158"
       "sourceURL": [
         {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18rnq0gT0KE_AntFj4I-IDc6S_3fisf1ose6qCI5Z2y_gEqOrMzd9UGYv1lZfdCP6AdvyjTaPU3U8N0__qQKG7L3hfGcTU0wsnsXXICWj-NZI4hMOI3XnnWXVhnPPb8PR2HTyO--qZdt3OcxB5kpIAAsiNTcBFBlytixubg-jD1T5hsCGbpcsRBvQ-Ji7RSztJMq_TvcL1L1WZE6GJlq7J9cZEtOJH97K-QoV9jKgB7OUcV85WA3j-ZgAJVWU28QSFcdhPe0muGYGer8ae80riqJSuODNCOwR38cQZYxbgkUQvRT5KuFsALfN5k33yU7h6eg_PI8JoyAg/60abcb750ef40/4e4c8638defe2ab1a939ac65fbc374fb148e4275848fc41568164ffcd88cbb9f/master-playlist.m3u8"
         }
       ],
       "sourceAuth": null
