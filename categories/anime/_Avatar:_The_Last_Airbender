@@ -27,12 +27,9 @@
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-UTkE2U-0wJJX6f55p2YMQb5HvqzcgUyLZuPKbyvVeSvunRvfiAVJsPxteTNfucG0thyKoszeWbQaj9-A3wt5b4dzlWjh4aUwcoD7IrHjAAaUauZB3fzLCOVE_mH8dsBgAo72go-S6PU83Xd9XhOZPcWfPWviLFTc4f8T4qnmhc8yrfsoVO5YYSDT0rONl6bi27ZPtIVUcl8fSUIwA16Gz3lNURVbknRX1mp57CqozrW-_ZeYcb85bJ-bgSi4CXLkfYpFkLfHRBI27nCMRK9MMhKhgSePIeYhMNCpr5LR1lXThByXO8YhDNLFTazxstVYtDIWXTqpJmA/60abcb7852a58/cfc9a1439e7ed2aae2774cac5c40ff12019bdaafde5d1c9564ba5183dce7db03/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/QXquUWh-XrzXXw",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
