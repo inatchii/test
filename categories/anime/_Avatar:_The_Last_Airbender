@@ -9,7 +9,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/5l_lhUZvjdZdHg",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S01 - 02.BÖLÜM",
@@ -20,7 +25,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/FCFxoz4n3fS13w",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S01 - 03.BÖLÜM",
@@ -31,7 +41,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/FIOUvZvgSGd1Uw",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S01 - 04.BÖLÜM",
@@ -42,7 +57,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/bDnpUjxkYLkePw",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S01 - 05.BÖLÜM",
@@ -53,7 +73,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/d/XR5trPbd0MGYvA",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S01 - 06.BÖLÜM",
@@ -64,7 +89,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/LutymUV2-BkAVw",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S01 - 07.BÖLÜM",
@@ -75,7 +105,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/Lp-As1bEQ9HiNA",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S01 - 08.BÖLÜM",
@@ -86,7 +121,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/JvTDngnntYiohA",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S01 - 09.BÖLÜM",
@@ -97,7 +137,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/MO37-VgNvv8N2Q",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S01 - 10.BÖLÜM",
@@ -108,7 +153,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/d/dN08DP558jsnkQ",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S01 - 11.BÖLÜM",
@@ -119,7 +169,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/d/TmEtYWwtldEMBg",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S01 - 12.BÖLÜM",
@@ -130,7 +185,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/d/qMAjZINIHJOBrw",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S02 - 01.BÖLÜM",
@@ -141,7 +201,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/ByWjf1M1bQZWKA",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S02 - 02.BÖLÜM",
@@ -152,7 +217,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/QXmITDhlNWx-WA",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S02 - 03.BÖLÜM",
@@ -163,7 +233,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/0-TtTo84vKmM-g",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S02 - 04.BÖLÜM",
@@ -174,7 +249,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/CHK8g_Kf68-8lw",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S02 - 05.BÖLÜM",
@@ -185,7 +265,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/UL1L0GP9ROeKIQ",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S02 - 06.BÖLÜM",
@@ -196,7 +281,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/ZNXg_A2-44aBaA",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S02 - 07.BÖLÜM",
@@ -207,7 +297,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/Lu4AAF0VbsnUMw",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S02 - 08.BÖLÜM",
@@ -218,7 +313,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/RnAwsIpd8ExfFg",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S02 - 09.BÖLÜM",
@@ -229,7 +329,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/6-UpZCMAg9rcKQ",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S02 - 10.BÖLÜM",
@@ -240,7 +345,12 @@
       "sourceType": 1,
       "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/QXquUWh-XrzXXw",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        }
+      ]
     },
     {
       "title": "S03 - 01.BÖLÜM",
@@ -251,7 +361,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239145",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S03 - 02.BÖLÜM",
@@ -262,7 +385,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239146",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S03 - 03.BÖLÜM",
@@ -273,7 +409,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239142",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S03 - 04.BÖLÜM",
@@ -284,7 +433,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239143",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S03 - 05.BÖLÜM",
@@ -295,7 +457,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239147",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S03 - 06.BÖLÜM",
@@ -306,7 +481,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239144",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S03 - 07.BÖLÜM",
@@ -317,7 +505,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239148",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S03 - 08.BÖLÜM",
@@ -328,7 +529,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239149",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S03 - 09.BÖLÜM",
@@ -339,7 +553,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239150",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S03 - 10.BÖLÜM",
@@ -350,7 +577,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239151",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S04 - 01.BÖLÜM",
@@ -361,7 +601,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239152",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S04 - 02.BÖLÜM",
@@ -372,7 +625,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239153",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S04 - 03.BÖLÜM",
@@ -383,7 +649,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239154",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S04 - 04.BÖLÜM",
@@ -394,7 +673,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239155",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S04 - 05.BÖLÜM",
@@ -405,7 +697,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239156",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S04 - 06.BÖLÜM",
@@ -416,7 +721,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239157",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S04 - 07.BÖLÜM",
@@ -427,7 +745,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239158",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S04 - 08.BÖLÜM",
@@ -438,7 +769,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239159",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S04 - 09.BÖLÜM",
@@ -449,7 +793,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239160",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S04 - 10.BÖLÜM",
@@ -460,7 +817,20 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239161",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://vk.com"
+        },
+        {
+          "first": "User-Agent",
+          "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first": "XRequestedWith",
+          "second": "XMLHttpRequest"
+        }
+      ]
     }
   ]
 }
