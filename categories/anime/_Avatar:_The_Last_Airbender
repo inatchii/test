@@ -3,7 +3,7 @@
     {
       "title": "S01 - 01.BÖLÜM",
       "episodeNumber": 0,
-      "seasonNumber": 0,
+      "seasonNumber": 1,
       "optionalSeasonText": "",
       "autoQuality": true,
       "sourceType": 1,
@@ -19,7 +19,7 @@
     {
       "title": "S01 - 02.BÖLÜM",
       "episodeNumber": 0,
-      "seasonNumber": 0,
+      "seasonNumber": 1,
       "optionalSeasonText": "",
       "autoQuality": true,
       "sourceType": 1,
@@ -35,7 +35,7 @@
     {
       "title": "S01 - 03.BÖLÜM",
       "episodeNumber": 0,
-      "seasonNumber": 0,
+      "seasonNumber": 1,
       "optionalSeasonText": "",
       "autoQuality": true,
       "sourceType": 1,
@@ -195,7 +195,7 @@
     {
       "title": "S02 - 01.BÖLÜM",
       "episodeNumber": 0,
-      "seasonNumber": 0,
+      "seasonNumber": 2,
       "optionalSeasonText": "",
       "autoQuality": true,
       "sourceType": 1,
@@ -211,7 +211,7 @@
     {
       "title": "S02 - 02.BÖLÜM",
       "episodeNumber": 0,
-      "seasonNumber": 0,
+      "seasonNumber": 2,
       "optionalSeasonText": "",
       "autoQuality": true,
       "sourceType": 1,
@@ -379,7 +379,7 @@
     {
       "title": "S03 - 02.BÖLÜM",
       "episodeNumber": 0,
-      "seasonNumber": 0,
+      "seasonNumber": 3,
       "optionalSeasonText": "",
       "autoQuality": true,
       "sourceType": 2,
@@ -403,7 +403,7 @@
     {
       "title": "S03 - 03.BÖLÜM",
       "episodeNumber": 0,
-      "seasonNumber": 0,
+      "seasonNumber": 3,
       "optionalSeasonText": "",
       "autoQuality": true,
       "sourceType": 2,
@@ -427,7 +427,7 @@
     {
       "title": "S03 - 04.BÖLÜM",
       "episodeNumber": 0,
-      "seasonNumber": 0,
+      "seasonNumber": 3,
       "optionalSeasonText": "",
       "autoQuality": true,
       "sourceType": 2,
@@ -643,7 +643,7 @@
     {
       "title": "S04 - 03.BÖLÜM",
       "episodeNumber": 0,
-      "seasonNumber": 0,
+      "seasonNumber": 4,
       "optionalSeasonText": "",
       "autoQuality": true,
       "sourceType": 2,
@@ -667,7 +667,7 @@
     {
       "title": "S04 - 04.BÖLÜM",
       "episodeNumber": 0,
-      "seasonNumber": 0,
+      "seasonNumber": 4,
       "optionalSeasonText": "",
       "autoQuality": true,
       "sourceType": 2,
@@ -691,7 +691,7 @@
     {
       "title": "S04 - 05.BÖLÜM",
       "episodeNumber": 0,
-      "seasonNumber": 0,
+      "seasonNumber": 4,
       "optionalSeasonText": "",
       "autoQuality": true,
       "sourceType": 2,
@@ -715,7 +715,7 @@
     {
       "title": "S04 - 06.BÖLÜM",
       "episodeNumber": 0,
-      "seasonNumber": 0,
+      "seasonNumber": 4,
       "optionalSeasonText": "",
       "autoQuality": true,
       "sourceType": 2,
