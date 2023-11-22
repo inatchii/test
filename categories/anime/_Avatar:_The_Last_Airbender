@@ -9,7 +9,17 @@
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239158",
       "sourceURL": null,
-      "sourceAuth": null
+      "sourceAuth": [
+        {
+          "first":"Referer","second":"https://vk.com"
+        },
+        {
+          "first":"User-Agent","second":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+        {
+          "first":"XRequestedWith","second":"XMLHttpRequest"
+        }
+      ]
     },
     {
       "title": "S01 - 02.BÖLÜM",
