@@ -1,28 +1,238 @@
 {
-  "episodes": [
+  "series": [
     {
       "title": "S01 - 01.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceType": 2,
-      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239158",
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/5l_lhUZvjdZdHg",
       "sourceURL": null,
-      "sourceAuth": [
-        {
-          "first":"Referer","second":"https://vk.com"
-        },
-        {
-          "first":"User-Agent","second":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-        },
-        {
-          "first":"XRequestedWith","second":"XMLHttpRequest"
-        }
-      ]
+      "sourceAuth": null
     },
     {
       "title": "S01 - 02.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/FCFxoz4n3fS13w",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S01 - 03.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/FIOUvZvgSGd1Uw",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S01 - 04.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/bDnpUjxkYLkePw",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S01 - 05.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/d/XR5trPbd0MGYvA",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S01 - 06.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/LutymUV2-BkAVw",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S01 - 07.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/Lp-As1bEQ9HiNA",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S01 - 08.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/JvTDngnntYiohA",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S01 - 09.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/MO37-VgNvv8N2Q",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S01 - 10.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/d/dN08DP558jsnkQ",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S01 - 11.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/d/TmEtYWwtldEMBg",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S01 - 12.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/d/qMAjZINIHJOBrw",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S02 - 01.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/ByWjf1M1bQZWKA",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S02 - 02.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/QXmITDhlNWx-WA",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S02 - 03.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/0-TtTo84vKmM-g",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S02 - 04.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/CHK8g_Kf68-8lw",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S02 - 05.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/UL1L0GP9ROeKIQ",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S02 - 06.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/ZNXg_A2-44aBaA",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S02 - 07.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/Lu4AAF0VbsnUMw",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S02 - 08.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/RnAwsIpd8ExfFg",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S02 - 09.BÖLÜM",
+      "episodeNumber": 0,
+      "seasonNumber": 0,
+      "optionalSeasonText": "",
+      "autoQuality": true,
+      "sourceType": 1,
+      "sourceUrlToGetFrom": "https://disk.yandex.com.tr/i/6-UpZCMAg9rcKQ",
+      "sourceURL": null,
+      "sourceAuth": null
+    },
+    {
+      "title": "S02 - 10.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
@@ -33,283 +243,223 @@
       "sourceAuth": null
     },
     {
-      "title": "S01 - 03.BÖLÜM",
+      "title": "S03 - 01.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX19vF8CONEwl4Y1Sp9aYgEOjayFFBxI8o0IW8EgfuqfB2HsNTrVXaj5iS0N_WUkVXRZmVlLIQdQmmj1t84GZ29gzVuilnhE85abdHKS9NO0mrqI5Hsf-gQXJO6r54oie0eCCQ1g1iizzUEtUWmOFqGfcd1B7QAP11RajbllPqW3TZq3sgou2Z4d9w5tDZHJpTxk_ynoLQCOiIbIHm1yzTpNeDMi8TF9sbw_DlFIyBoJ2Mgn1nfh7rQihCCJgqJ--1qV0s3yfQELcYmiCbBFwKp7r2kyFBUwgCbWWTlU9mZJeoYUfeqW9aPO8bqDBJyQ6dxSK97vP8cVFEQ/60abcb7c223b8/66f2e3a4b89cc921626d470f07d3c5e0f4a302b13f669fdbd56552781a97c90c/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239145",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S01 - 04.BÖLÜM",
+      "title": "S03 - 02.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX19lKgOGQ-22RhhYdw99ERgQV_DH5MQ6l9yg4Dts1XblcJ5b1xHWQWKL__WDbl3g03xMRLipLsXa02yNG74w5qp3JEQIlA_-nGnlCH3pFiEWmvxJkFdGhMJv_GpInu3JjA-MKYeSYcJ_w9lGOA0okopmmFOSoz8WrgT0uzb4N7NWDGrH0fQc8m-C-Sw8YPR0VN33YBIJ2yyh3RNh3-Uw5QCU9imIK5vIuKAZ-qexSRsfo_h46W1UCPwwMHj69Il9WpAJcRK9S6rmBjLFyF2m8u8WnS7MDgkpe_2BJV6nbalUsNLp7ysaQgbLO2eGT1roi2ulG-kC48atkg/60abcb7f5f940/40477ecb6bf1d76469525a3db5985dc81c269fdeb158ea1c9406fa3212b87d05/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239146",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S01 - 05.BÖLÜM",
+      "title": "S03 - 03.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX19qQiJYepZfTsvK44qhJp7xsYkRQwApXRaIye2Ba2i24JaTpCRgvsmMiPA0adKsGUVr58WCyu-uIH905gvicGXHPatUhlsBzSNJdHX8itbFy-lOQmdMjHjU7jQ_iWlzU4xMu9lN_ajGw7LZiGhUEzayAYPGmUlNYPpeRj1Y8Xcua2_Jh1u3o-Zh89jSB6rj0yueCXO481b4YtRViTumbNqXJ0YEOMQ2oVOZdueqMwsTQ-FjBqTGSz0pqFCtpbTebeBKC0QeFGoDdGmcowGZtlkRs92l3oNTfdioCOyio7XJqXNatQRlTnv4MllrfGq2xaCmhVkiqdpuAQ/60abcb828fbd8/1028c90ea868b1750c9e1a835efe6e409fb69af911926310d84f7caeb6575538/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239142",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S01 - 06.BÖLÜM",
+      "title": "S03 - 04.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_wxSekC5IjQXJv-ph6UOiM8u-u0OIhQgd8HZK5EaH6X1yla-XQ1M-mSWWSXC9QJy7afPqvDe0YofaYDX1qVpxAvzrhCGm6ohE_nUHQiIl3ivNMiJkzpAvtePaWD0nOasW6jF75zyJ_h-eXj7Daa-6iKAirABkYXxqmnnB4yWTp3lx2tel_7mAGYsRU8ygIYKfqrsBEd_ckMwX2prMXlaF9SszofeER_2HzeYnxyh_weAiOyaJ6OqjcbawrH5NAQzgFBqR98gLIrtiKV9Z7tXMCN74YPci4wM9ShN5Eba7vu-v2XLOb7jAENDP0BEKlakfJO5tzfqFHLw/60abcb85dee88/680cbe6ee9f31bfee3d79b77b6722e284dca0ef0c88aca8f15fcec5ec1b5fa2d/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239143",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S01 - 07.BÖLÜM",
+      "title": "S03 - 05.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-qJgqTVzOhgJbTUWnGHo1NoSN_PkbJbHfEBBsFi7WfqMHwTiUNtmEHUBCe1qWuPwifpI5-rbBeJOBFIkORnYT5sEVo5BMalKmylT_rounBf4L_2o3LCJ5NhR36G6Kpkxk567rdYRePjyQUAu11LUknO9Lz2UzqTH0WJgqxPp428t6eoitnINXmjAngevQUAOG3AJAoX8s1LzSx3zUkqt8Z_vTS7YTyLuecECddA22VoAqjKQuhkkVZnrK76P7-P-LpDYWlU_JATBh2tIMiqgfuQC_wPUIO8UU6B5br_nmKGPwL3rvzokNCJf8OuM-UvzRQqz7rtdIT2A/60abcb89d7828/8c2ca8946d9bee4875fc87ef4be141f42d03619ff37b44cf0d7c4e9938b45308/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239147",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S01 - 08.BÖLÜM",
+      "title": "S03 - 06.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18zG1tPE4Ca3_5R6-y4iS8LSBID0RLC0pOIisgV1TdJEpXg74asq_G9BV--PKDqvSys2SbANpNm1a12_hO2m80vDlcnujWCLFq3DK0rI4wsyqv4GV5rsU9Sils8V3LN2zot56DtuR0qdY4r3jM9aULvRhnp1Ppb2u4sJbuJYGHLRD-H5KU4YcIrsXVajw5IgPY54qbC-thzgWuXTtg4t8H1Pg6JS403eoDQz0fIcP8d-4kVLMZ-yX_tLTMUMJdHzrpKBFZ1pi9u1wo-6LBl45uelUN2ZkPRd0IUYTKu9qObjLjz35SOWxLqYmIiiOI9QlxWZ5LcTjPvVw/60abcb8d408e8/721207fc8ea8a50f9a58e7770b88d149ca250c9fb17e1e6102411763bb35dac8/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239144",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S01 - 09.BÖLÜM",
+      "title": "S03 - 07.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-swCeWHMl73K271ZsxEur5gWk7hlIpdaB_owgHYBeDCCWxRadUCxQ-Iv5sEElNS3EI4l2L7TC1o5WVx-n7sRl6FjWtYCXbU_21ikqg4p3Fa5KOk2Z-0H2_u0rRfeeUz9AD1sIshRn7vRCQGWIEopARuwkeq4fcaC89cXUI-R8tzGcer_xo86QKLgR6Xq58WSwZJKXgCZ3jJzFg6BSkEKbjMyrGhh2GsSsBWTkguOKdX79KPns9NFt-hS9GYuGQBK__k3xtEHNJfNKtJwIoNoaOt0TWTVEK5zlNHkawZeuwJfr0Si9csX3ajw4rLlDImEh-xyoIPf899g/60abcb90b9790/d62214673525d356ddefe6c09ed6b9b72d0514292bd055494ed73beecc8cb1b8/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239148",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S01 - 10.BÖLÜM",
+      "title": "S03 - 08.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_KfZpR8L0_uKccvSK7wG5RwppkaPivk1C2p5QV3se2ahDrRQ2nsQ7kRiySfyXjziicUIGGVyJWL1EfDsWw0UVtU7sIwTAWGv2Gz1GAYasuLISey7eNk5HDpbFf4i-AvvlKZrk3RqVB6Qxbn9RS0akr0VDqkYoLTg6yLKpH0kVbNpAmsr9WvdEjJ7wSe3G19-rFd4vrdB0w8h1ZmEhz3l35xZv4nbwUZ5VaYoYhTVkbcRANwGnzER-fRQOxcaV4gSBCKlEWI8vA0F94ic08dw9h4bOPrtkxIJ5yk28lsXZ3P0O016ZclbUfQiCIQ8K3_WUPsTAKDLBHZA/60abcb9410b28/3e393401235ebc71a8103c4dc7b8b14128d7ff5ca79a2cb79c74e9d388ec8c0b/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239149",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S01 - 11.BÖLÜM",
+      "title": "S03 - 09.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX193x2kqJ3kfHUxNcAHpYrzRgvf-Bjm13moDdNv_BqnXEO4mBQ1H0OFHuSQRjgXgJn4b4h4OIHWdUGHwzxrJQskHJK4ANhb4CklSqDtJBMDei2vSstDURarpk27NIQ-EdrAs0P_tvOzK-xVALZQ82_332z-hBuEPxgekLCLE-IP16e-a7HrPUoBBNusWqCBlrAUH4cT6Nv1BZkPH4xV5HvIp5LDbzft73rgxX5RZjRc7uFGoCcXXBawKCuPo7MhU0oCI5BSR0817A45ff7mZlkvENoFcHqklheJKsj1BhhtvzNO0wiA8AqtGZJ20X5VmvcaVmNSI9qT_9w/60abcb9766750/6e4ae8b8eade1a07cc78680082e91ea5eca7c84eac8f03bfc2306f282b90787f/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239150",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S01 - 12.BÖLÜM",
+      "title": "S03 - 10.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX19EcJ2VLdX7E8GjwR3kbbbYxlerGnrY2-5bbI4x4eBCQFu5kzSnpU6Cv8SoaDU7gQApjVp7J5PqGNM_4KTRegzNL-jk6nm2C0AKtGnc-IFBNBL2pv2tpQ6dwFpskvm3S90e4NQXdqa-fMwTGsgYDx3kbE2HtfKTRQXrL9UdyScTVNOJC1TlXrk3nZSx_OEGOchVe1LHF3GSKMweQLPVgdveW8w_Kpp-j_Q9SgVpT3ifPhk9J9xw1Q0ZetEwZmgoKv5Fy987qD-xh2reMllLNSsV7tOsYFdh5kXitvQKbs0DazlRWOs7ktGYW7uWgAQFdjmsOHvzrMtuMQ/60abcb9acc548/e6a8f725f7b28a53fbc8d8b848a9fe669bd180bd2aa562ff289f0da7f52817c2/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239151",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S02 - 01.BÖLÜM",
+      "title": "S04 - 01.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18pjxDQaGQLZJWHXyhSSZrKJCpCjJnm-U3RAz8LuwF5a9SgQFCqoyiK-XdSjVSa4Mt4daBqkW0Rs9YR5kjEFo78rlvkZz-rtxesvt-A8mGOWoBA0l34ImuOP1fnhhgeSNHJJ0IuTOcYjq8IFFEaZQg5PmRQgnv2sx4EHRrESt06agdLZuwkEhX1cZ_e94RPGYFpCllaqFHovLvsQD-LOM-Hmrh0MAqfUAAR5SwrGO1_HHpGdpUnprmXzIRIsIDffDXI5NhfvwYMusW5S303swhucFO0ogW7a0QbbL_gbckE8arCPbLMpySqwinn3U24jlhlSIv82VxoUQ/60abcb9f182f0/2075e0e3fb154d8bf567b1549db923f5c3018d6b42c69cc049e565b5a5022ab3/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239152",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S02 - 02.BÖLÜM",
+      "title": "S04 - 02.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_KsTexepquOi1lIzJPbJOdCj5D9EDLdHn62CfBSSBIbaVd0FJ94N2mx9312hEcgih8wtYAhjqGmiXC22JmjqPlophb5jZutBGslW7uDffUojMxycXQFcTnhnFWAAdzLSfu2lYP91zr7xIriybsmK8olLSTdwn0A89glvdG9Zs_04_VC96JMVPOAuKLBOJ6nY0Tww5ME-gCKf7uqO6AVpueUcWJu9KrevBoaAld18frSUg66l6KyDFABX2eUKtIV6VgJaT_8jSb0QEfQkDg8V_v29O4x2zFXfi5nsxc1ASqeclwV_A385JwbxEpleaI5gWpWdoVR_JiCg/60abcba2792c8/2c6cb17218dbf328206ebc6934a418e9e74f9eaaa7396dce20e989851f7c8769/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239153",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S02 - 03.BÖLÜM",
+      "title": "S04 - 03.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18ZDy8zXs1bh08j6nzDbIZwB9vBeYWU0MAzQY9LInsH6pr9vG1rANbglqEEONS3S2MAtIZ6bCnKNGW8MOyIl1WHe7TdxM2kP0ZhEGQVpfxIp1G4PzygYR8fY5hT8mUlvuwWfb4Bp5LIyQIBRef-J4Kjshpk_0r9gx-o-Ar-dbBEqKtQqpGErsfnTv7eIPIkVASjVljuQC7MBlojcrWpo3i5u8ERqWKSnErePzjdWRkTY2Mpq6IW-ZBiawhOIOhHTcrCDR5Med6i0sLh0z3GnE30rD3fAYW78LAVc1SW77wOmIO94pSd09a1O0qHQZfr76mvxui503MfZg/60abcba5b6468/8fc55087911efb967d53e6eab4f75b9d2608c56187e0dd37225648d44f133365/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239154",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S02 - 04.BÖLÜM",
+      "title": "S04 - 04.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX19awBU4ggxp5cOOwA4gjGUnaKYUJu4r5hVjvy08HSS6tgsGC9xRbSXR7lbRhy6-ewHz86sZqexPGIRbzAtdp2pFQavfbVsSaSlwfV_HLbbr-pIGcw0C7jGxN5SXgaUQwGMR0V6z1WEtB2g_zVArOpuNwZJyhxejWvlyTSPLV04p_MDTMHXEI_iATQSMUM9cJwlv-KayBRlp2-tI8gW1oAng3_XpeT19XHASO7loB2IuTOl8Yt8iYH1MrelpHk_8WgsOhTuU1OdE25R5VDfXC3V3zZXueZCWl-oWd-3sZfF3e8-ytnwx0tmUJ6xbs3v4J2fb8TkiHr5fhw/60abcba92eb40/404d0a3ed6d743f13d891f16ac8b1a805cddcda402b7d1dc573633e1c0e6f99a/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239155",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S02 - 05.BÖLÜM",
+      "title": "S04 - 05.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-HT8KS4NiLB5z5fvVSxl9suz9Y1xaGcdvqNUH3Kx7VsvRQZT8xTQ_peoWNN4m1jvulBpJWshJoFObhUUHlxjyuNkPa1S6Eh0hgFZNbi7aMGnhPqmVPFWKOoRtYD2TjGdymU1cY_hGVX6n05Bd46l1HFnj1E6_crue7_XIwIBazT_SSxBURI1qT39AqMj14-lx0isqjCWdDCeNfIEOz3pY0ZdknJYB4Vo4yoRINjzMV_JMXhdDC3uajOM0_j_Nkl5Ow0LcPMKq-yMFXVhmhW2K_Ty6dJPWnd9eZhWu7QQmG-ya8_wrjPS1tGsk2w_KWerrS8kNXXRLT0g/60abcbacad3c0/f9bd5c25ea67e2bffbbd7057407cd439d930898164f0a01406b2887222a8be7e/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239156",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S02 - 06.BÖLÜM",
+      "title": "S04 - 06.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_srDGvpWvkYJFoqJudLkcnMvL6hJSvc8Fhhu3SCzi4ZEc7JAToLLxnShZ_edpxsYWWnzr5RsTo9DdkB_QWfktDdnfNBgfwXQefjNETtv4fJ6wpJ5_l5cvp1aoQj-DisT8qLmEKf2n7JkqulKhTLdIDIAwgEVinjwmMzSkxzZ54AG4ny-xlTkDupj9tzz5rk6PbiKXluvnzIbbgFTX5XR9z5muNfOkLw0R7g00NPuXRoeebg5XuIpHNUqIcpagItEeS_85nsEA3ckfEbYnybbeeI1UpSE8oD0Ik6xQzXIz_KvXyObPdOIO2klqZvy9upUVhK_UJYfIiEg/60abcbb03c9c8/a0cfc8997452c55feaabe7e0d3de7dd72a0139eb5662420da4787a3c38096fd6/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239157",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S02 - 07.BÖLÜM",
+      "title": "S04 - 07.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-gBIZCWcfSjKdV0GOUuNI99RBwbOTsQgoQDy-BJsfAT5-o4q-AwDec-7iQfU8hPxmZjdDo6aZ_Q8VAidk_2bgvSccxmpLYyxuic5QuOoilNF23-i9pwFEJDPiy8JIZiDBhXRIhOLs6DXcyVJaZAlmOoXPqG4IgF6Qu_7BgbrhHK6qsyQiJZuk8uNvzaTXi1he8-eJ3G4vckFnbspMI-OinUb3ZGYOSFFSNN542v0HJtR1ooP2hKdTWRxLWfe12eq4_RTCLIU9Mk-f4dTmRcMxatpwL8kTqJAcXNyHyEJwav1z9a_lAdvBVH_l7aMY-VqiUSZVbSwZa3Q/60abcbb3a3b48/ef985643a152771dd03de1c169caad17de45b12c48daa8e6b31f871551f9e54a/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239158",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S02 - 08.BÖLÜM",
+      "title": "S04 - 08.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_WY5Ll3QHpdtP1xr12H3zEFoSbr2p9gn7lgUFfTgYAFkIAA9EFH-59Vm7WHXoDOLciDcquqD5WkibQOE0p0xZSJHwRiP8WnEHvaJHnAiY0PfVEqRSwiOYYaj6w7KJlvfO1LlYO_4AMOw65EjEzuKockeaT378-SNBiiUwMR3yAsFoWvLuYR1PDNqqLs2vaxMo3cUXjosFupGldtlNuKnG59mhXlLHGfOfiV1zLGH5nJpnjqeUzAwZ7Mfo3ZaIfmia4-iZFuipNpW10KfY-ldGIp5wTp34Vqi0LIWkIy2sXT_noQfvXBAf6iw1NenLtOPD8H4Xv1MpzWw/60abcbb706290/2b36b06a869fda3c90cb80ea6f2b5775d8efce2530018aa9e649780c002643a9/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239159",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S02 - 09.BÖLÜM",
+      "title": "S04 - 09.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_qKax15dragsgc_38MLbGMfCnW3ip50D10sHZEH4IFzOD5CLykq7AtpdQna76bYqgfQmW2hWLEQY2v4huQ8svQ4TTPpQP9xCpZ9_DwpUuymtLV0g40hw4SZ9n_pjBjpyFIpgpb56RMzMSJ__mjcFTDqvcake8L5DJ5vLJDg2yGVgAuw7SijoOE0qiQtmSeXGjolXlHZXr6W8ahZ7HZf-AlHdb2eJjcoNAv4hNuXwB9CC6Ol-ra4C1FSZEX-5Ahv7mJUpkL-GqiFIlocw3CJu5NtlnDv5CXjwyQAItCrQy-noL0beRITKV3xvRaX0-Zw1lYNkh_v6GpCg/60abcbba63bb8/fd18ac1dedfa61b3c62ab403ffa4433b376d5bf497db2174323b6edaf1b9c49e/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239160",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
-      "title": "S02 - 10.BÖLÜM",
+      "title": "S04 - 10.BÖLÜM",
       "episodeNumber": 0,
       "seasonNumber": 0,
       "optionalSeasonText": "",
       "autoQuality": true,
-      "sourceURL": [
-        {
-          "first": "auto",
-          "second": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_Oqv4xTktS0wvaI-D0lXmg-owV6gwhyfxF5dKAHWjG8dKVvSDneP4BRrvvGRkCkw_wQFcvYzQg18i0NumgIGEhGQv-DGpSff9ShZwEsGD6Sg6vcwXGSamrbiIJXVUR3nNkJXHOehYNI1yDODaqvS1N7J20ZxAXdQXM1FK98SMYmY-WB6X8fZlFTDqTlEkjXLeL_INpYMLEmL2FkT1sRSNzGhOSvNgjQEUfHBxGCSa4SU6983XBIPAwOFr39FwoqBrEHOq14-_rxWpec-Txshz178I1Iogr7itg1t47UGSXCvR6NGIhxVioLglbRdS36UgErIyo34x-2w/60abcbbda4020/ac67c4d7ec8231d760983d8987deb456d849c3a74f442aea81f24c0aba6c80ed/master-playlist.m3u8"
-        }
-      ],
+      "sourceType": 2,
+      "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239161",
+      "sourceURL": null,
       "sourceAuth": null
     }
   ]
