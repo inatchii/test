@@ -8,10 +8,7 @@
       "autoQuality": true,
       "sourceType": 2,
       "sourceUrlToGetFrom": "https://vk.com/al_video.php?act=show&al=1&claim=&dmcah=&hd=&list=&module=direct&video=817173279_456239158",
-      "sourceURL": [
-        {
-        }
-      ],
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
