@@ -2,6 +2,7 @@
   "episodes": [
     {
       "title": "S01 - 01.BÖLÜM",
+      "episodeID": 0,
       "episodeNumber": 1,
       "seasonNumber": 1,
       "optionalSeasonText": "",
