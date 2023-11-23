@@ -3,7 +3,8 @@
     {
       "title": "Anime",
       "url": "https://raw.githubusercontent.com/inatchii/test/main/categories/anime/index",
-      "imageURL": "https://assets-prd.ignimgs.com/2022/08/17/top25animecharacters-blogroll-1660777571580.jpg"
+      "imageURL": "https://assets-prd.ignimgs.com/2022/08/17/top25animecharacters-blogroll-1660777571580.jpg",
+      "uniqueCategoryID": 0
     },
     {
       "title": "Exxen",
