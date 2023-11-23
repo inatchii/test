@@ -1,34 +1,13 @@
 {
   "episodes": [
     {
-      "title": "Familia",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
-      "optionalSeasonText": "1. Sezon 1. Bölüm",
-      "autoQuality": false,
-      "sourceURL": [
-        {
-          "first": "480p",
-          "second": "https://hydra.takashi-mitsuya.cf/megami-no-cafe-terrace/1/1/480.mp4"
-        },
-        {
-          "first": "1080p",
-          "second": "https://hydra.takashi-mitsuya.cf/megami-no-cafe-terrace/1/1/1080.mp4"
-        }
-      ],
-      "sourceAuth": [
-        {
-          "first": "Referer",
-          "second": "https://diziwatch.net"
-        }
-      ]
-    },
-    {
       "title": "A Promise With Grandma",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 1,
+      "episodeNumber": 2,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -48,10 +27,12 @@
     },
     {
       "title": "Opening",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 2,
+      "episodeNumber": 3,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -71,10 +52,12 @@
     },
     {
       "title": "Cherry Blossom Festival!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 3,
+      "episodeNumber": 4,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -94,10 +77,12 @@
     },
     {
       "title": "Day Off",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 4,
+      "episodeNumber": 5,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -116,11 +101,38 @@
       ]
     },
     {
+      "title": "Familia",
+      "episodeID": 0,
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "optionalSeasonText": "1. Sezon 1. Bölüm",
+      "autoQuality": false,
+      "sourceType": 0,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.takashi-mitsuya.cf/megami-no-cafe-terrace/1/1/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.takashi-mitsuya.cf/megami-no-cafe-terrace/1/1/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
       "title": "Two Months!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 5,
+      "episodeNumber": 6,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -140,10 +152,12 @@
     },
     {
       "title": "A Year in My Life",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 6,
+      "episodeNumber": 7,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -163,10 +177,12 @@
     },
     {
       "title": "A Beach Hut!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 7,
+      "episodeNumber": 8,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -186,10 +202,12 @@
     },
     {
       "title": "Riho and Her Past",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 8,
+      "episodeNumber": 9,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -209,10 +227,12 @@
     },
     {
       "title": "Ouka and Kikka",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 9,
+      "episodeNumber": 10,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -232,10 +252,12 @@
     },
     {
       "title": "Fireworks of Love",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 10,
+      "episodeNumber": 11,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -255,10 +277,12 @@
     },
     {
       "title": "Two Encounters",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 11,
+      "episodeNumber": 12,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",

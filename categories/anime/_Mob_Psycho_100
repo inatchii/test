@@ -2,10 +2,12 @@
   "episodes": [
     {
       "title": "Self-Proclaimed Psychic: Reigen Arataka ~And Mob~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 0,
+      "episodeNumber": 1,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -25,10 +27,12 @@
     },
     {
       "title": "Doubts About Youth ~The Telepathy Club Appears~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 1,
+      "episodeNumber": 2,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -48,10 +52,12 @@
     },
     {
       "title": "An Invite to a Meeting ~Simply Put, I Just Want to Be Popular~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 2,
+      "episodeNumber": 3,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -71,10 +77,12 @@
     },
     {
       "title": "Idiots Only Event ~Kin~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 3,
+      "episodeNumber": 4,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -93,57 +101,13 @@
       ]
     },
     {
-      "title": "OCHIMUSHA ~Psychic Powers and Me~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
-      "optionalSeasonText": "1. Sezon 5. Bölüm",
-      "autoQuality": false,
-      "sourceURL": [
-        {
-          "first": "480p",
-          "second": "https://hydra.loid-forger.gq/mob-psycho-100/1/5/480.mp4"
-        },
-        {
-          "first": "1080p",
-          "second": "https://hydra.loid-forger.gq/mob-psycho-100/1/5/1080.mp4"
-        }
-      ],
-      "sourceAuth": [
-        {
-          "first": "Referer",
-          "second": "https://diziwatch.net"
-        }
-      ]
-    },
-    {
-      "title": "Discord ~To Become One~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
-      "optionalSeasonText": "1. Sezon 6. Bölüm",
-      "autoQuality": false,
-      "sourceURL": [
-        {
-          "first": "480p",
-          "second": "https://hydra.karin-kurosaki.gq/mob-psycho-100/1/6/480.mp4"
-        },
-        {
-          "first": "1080p",
-          "second": "https://hydra.karin-kurosaki.gq/mob-psycho-100/1/6/1080.mp4"
-        }
-      ],
-      "sourceAuth": [
-        {
-          "first": "Referer",
-          "second": "https://diziwatch.net"
-        }
-      ]
-    },
-    {
       "title": "Exaltation ~I've Obtained Loss~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 6,
+      "episodeNumber": 7,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -162,34 +126,13 @@
       ]
     },
     {
-      "title": "The Older Brother Bows ~Destructive Intent~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
-      "optionalSeasonText": "1. Sezon 8. Bölüm",
-      "autoQuality": false,
-      "sourceURL": [
-        {
-          "first": "480p",
-          "second": "https://hydra.tengen-uzui.tk/mob-psycho-100/1/8/480.mp4"
-        },
-        {
-          "first": "1080p",
-          "second": "https://hydra.tengen-uzui.tk/mob-psycho-100/1/8/1080.mp4"
-        }
-      ],
-      "sourceAuth": [
-        {
-          "first": "Referer",
-          "second": "https://diziwatch.net"
-        }
-      ]
-    },
-    {
       "title": "Claw ~7th Division~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 8,
+      "episodeNumber": 9,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -208,11 +151,63 @@
       ]
     },
     {
+      "title": "The Older Brother Bows ~Destructive Intent~",
+      "episodeID": 7,
+      "episodeNumber": 8,
+      "seasonNumber": 1,
+      "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceType": 0,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tengen-uzui.tk/mob-psycho-100/1/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tengen-uzui.tk/mob-psycho-100/1/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "OCHIMUSHA ~Psychic Powers and Me~",
+      "episodeID": 4,
+      "episodeNumber": 5,
+      "seasonNumber": 1,
+      "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceType": 0,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.loid-forger.gq/mob-psycho-100/1/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.loid-forger.gq/mob-psycho-100/1/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
       "title": "The Heinous Aura ~Mastermind~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 9,
+      "episodeNumber": 10,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -231,11 +226,38 @@
       ]
     },
     {
+      "title": "Discord ~To Become One~",
+      "episodeID": 5,
+      "episodeNumber": 6,
+      "seasonNumber": 1,
+      "optionalSeasonText": "1. Sezon 6. Bölüm",
+      "autoQuality": false,
+      "sourceType": 0,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.karin-kurosaki.gq/mob-psycho-100/1/6/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.karin-kurosaki.gq/mob-psycho-100/1/6/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
       "title": "Master ~Leader~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 10,
+      "episodeNumber": 11,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -255,10 +277,12 @@
     },
     {
       "title": "Mob and Reigen ~A Giant Tsuchinoko Appears~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 11,
+      "episodeNumber": 12,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -278,10 +302,12 @@
     },
     {
       "title": "Ripped Apart ~Someone Is Watching~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 12,
+      "episodeNumber": 1,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -301,10 +327,12 @@
     },
     {
       "title": "Urban Legends ~Encountering Rumors~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 13,
+      "episodeNumber": 2,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -324,10 +352,12 @@
     },
     {
       "title": "One Danger After Another ~ Degeneration~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 14,
+      "episodeNumber": 3,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -347,10 +377,12 @@
     },
     {
       "title": "Inside ~Evil Spirit~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 15,
+      "episodeNumber": 4,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -370,10 +402,12 @@
     },
     {
       "title": "Discord ~Choices~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 16,
+      "episodeNumber": 5,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -393,10 +427,12 @@
     },
     {
       "title": "Poor, Lonely, Whitey",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 17,
+      "episodeNumber": 6,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -416,10 +452,12 @@
     },
     {
       "title": "Cornered ~True Identity~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 18,
+      "episodeNumber": 7,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -439,10 +477,12 @@
     },
     {
       "title": "Even Then ~Continue Forward~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 19,
+      "episodeNumber": 8,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -462,10 +502,12 @@
     },
     {
       "title": "Show Me What You've Got ~Band Together~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 20,
+      "episodeNumber": 9,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -485,10 +527,12 @@
     },
     {
       "title": "Collision ~Power Type~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 21,
+      "episodeNumber": 10,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -508,10 +552,12 @@
     },
     {
       "title": "Guidance ~Psychic Sensor~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 22,
+      "episodeNumber": 11,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -531,10 +577,12 @@
     },
     {
       "title": "Battle for Social Rehabilitation ~Friendship~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 23,
+      "episodeNumber": 12,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -554,10 +602,12 @@
     },
     {
       "title": "Boss Fight ~The Final Light~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 24,
+      "episodeNumber": 13,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -577,10 +627,12 @@
     },
     {
       "title": "Future ~Career Paths~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 25,
+      "episodeNumber": 1,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -600,10 +652,12 @@
     },
     {
       "title": "Yokai Hunter Amakusa Haruaki Appears! ~The Threat of a Hundred Demons!!~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 26,
+      "episodeNumber": 2,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -623,10 +677,12 @@
     },
     {
       "title": "Getting Carried Away ~100%~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 27,
+      "episodeNumber": 3,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -646,10 +702,12 @@
     },
     {
       "title": "Divine Tree 1 ~The Founder Appears~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 28,
+      "episodeNumber": 4,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -669,10 +727,12 @@
     },
     {
       "title": "Divine Tree 2 ~Peace~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 29,
+      "episodeNumber": 5,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -692,10 +752,12 @@
     },
     {
       "title": "Divine Tree 3 ~Dimple Is~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 30,
+      "episodeNumber": 6,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -715,10 +777,12 @@
     },
     {
       "title": "Transmission 1 ~Winter Break~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 31,
+      "episodeNumber": 7,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -738,10 +802,12 @@
     },
     {
       "title": "Transmission 2 ~Encountering the Unknown~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 32,
+      "episodeNumber": 8,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -761,10 +827,12 @@
     },
     {
       "title": "Mob 1 ~Moving~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 33,
+      "episodeNumber": 9,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -784,10 +852,12 @@
     },
     {
       "title": "Mob 2 ~Rival~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 34,
+      "episodeNumber": 10,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -807,10 +877,12 @@
     },
     {
       "title": "Mob 3 ~Trauma~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 35,
+      "episodeNumber": 11,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -830,10 +902,12 @@
     },
     {
       "title": "Confession ~The Future~",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 36,
+      "episodeNumber": 12,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",

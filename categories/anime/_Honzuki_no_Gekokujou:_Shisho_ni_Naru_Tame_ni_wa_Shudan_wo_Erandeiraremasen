@@ -2,10 +2,12 @@
   "episodes": [
     {
       "title": "A World Without Books",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 0,
+      "episodeNumber": 1,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -25,10 +27,12 @@
     },
     {
       "title": "Life Improvements and Slates",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 1,
+      "episodeNumber": 2,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -48,10 +52,12 @@
     },
     {
       "title": "The Events of Winter",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 2,
+      "episodeNumber": 3,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -71,10 +77,12 @@
     },
     {
       "title": "Forests and Clay Tablets",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 3,
+      "episodeNumber": 4,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -94,10 +102,12 @@
     },
     {
       "title": "Baptisms and Strange Fevers",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 4,
+      "episodeNumber": 5,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -117,10 +127,12 @@
     },
     {
       "title": "Meeting",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 5,
+      "episodeNumber": 6,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -140,10 +152,12 @@
     },
     {
       "title": "Seeds of Suspicion",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 6,
+      "episodeNumber": 7,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -163,10 +177,12 @@
     },
     {
       "title": "Lutz's Main",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 7,
+      "episodeNumber": 8,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -186,10 +202,12 @@
     },
     {
       "title": "The Guild Master's Granddaughter",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 8,
+      "episodeNumber": 9,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -209,10 +227,12 @@
     },
     {
       "title": "To the Second Winter",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 9,
+      "episodeNumber": 10,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -232,10 +252,12 @@
     },
     {
       "title": "Life-or-Death Choices and Family Meetings",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 10,
+      "episodeNumber": 11,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -255,10 +277,12 @@
     },
     {
       "title": "Baptism and Divine Paradises",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 11,
+      "episodeNumber": 12,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -278,10 +302,12 @@
     },
     {
       "title": "The Choice to be an Apprentice Priestess",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 12,
+      "episodeNumber": 13,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -301,10 +327,12 @@
     },
     {
       "title": "Conclusions",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 13,
+      "episodeNumber": 14,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 14. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -324,10 +352,12 @@
     },
     {
       "title": "Apprentice Priestess",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 14,
+      "episodeNumber": 1,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -347,10 +377,12 @@
     },
     {
       "title": "Blue Robes and Uncommon Sense",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 15,
+      "episodeNumber": 2,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -370,10 +402,12 @@
     },
     {
       "title": "Needs",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 16,
+      "episodeNumber": 3,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -393,10 +427,12 @@
     },
     {
       "title": "Orphanage Reforms",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 17,
+      "episodeNumber": 4,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -416,10 +452,12 @@
     },
     {
       "title": "Cleanups and Star Festivals",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 18,
+      "episodeNumber": 5,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -439,10 +477,12 @@
     },
     {
       "title": "The Path Ahead of Lutz",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 19,
+      "episodeNumber": 6,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -462,10 +502,12 @@
     },
     {
       "title": "New Retainers",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 20,
+      "episodeNumber": 7,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -485,10 +527,12 @@
     },
     {
       "title": "Wilma and Holy Scriptures for Kids",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 21,
+      "episodeNumber": 8,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -508,10 +552,12 @@
     },
     {
       "title": "Harvest Festivals and Staying Home",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 22,
+      "episodeNumber": 9,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -531,10 +577,12 @@
     },
     {
       "title": "Knight Orders and Requests",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 23,
+      "episodeNumber": 10,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -554,10 +602,12 @@
     },
     {
       "title": "Trombe and Battles",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 24,
+      "episodeNumber": 11,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -577,10 +627,12 @@
     },
     {
       "title": "Dreamlike World",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 25,
+      "episodeNumber": 12,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -600,10 +652,12 @@
     },
     {
       "title": "The Beginning of Winter",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 26,
+      "episodeNumber": 1,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -623,10 +677,12 @@
     },
     {
       "title": "The Story About Winter Stays and the Future",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 27,
+      "episodeNumber": 2,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -646,10 +702,12 @@
     },
     {
       "title": "The Dedication Ceremony and Spring Arrives",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 28,
+      "episodeNumber": 3,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -669,10 +727,12 @@
     },
     {
       "title": "Spring Prayer",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 29,
+      "episodeNumber": 4,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -692,10 +752,12 @@
     },
     {
       "title": "Gift from the Blue-Robed Priest and Going Home",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 30,
+      "episodeNumber": 5,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -715,10 +777,12 @@
     },
     {
       "title": "The Abandoned Child of the Cathedral and Making Colors",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 31,
+      "episodeNumber": 6,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -738,10 +802,12 @@
     },
     {
       "title": "Delia and Dirk",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 32,
+      "episodeNumber": 7,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -761,10 +827,12 @@
     },
     {
       "title": "Ominous Developments",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 33,
+      "episodeNumber": 8,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -784,10 +852,12 @@
     },
     {
       "title": "The Black Protective Charm",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 34,
+      "episodeNumber": 9,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -807,10 +877,12 @@
     },
     {
       "title": "Blessing",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 35,
+      "episodeNumber": 10,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",

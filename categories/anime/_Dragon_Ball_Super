@@ -2,10 +2,12 @@
   "episodes": [
     {
       "title": "A Peacetime Reward: Who Gets the 100,000,000 Zeni?!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 0,
+      "episodeNumber": 1,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -25,10 +27,12 @@
     },
     {
       "title": "To the Promised Resort! Vegeta Takes a Family Trip!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 1,
+      "episodeNumber": 2,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -48,10 +52,12 @@
     },
     {
       "title": "Where Does the Dream Pick Up? Find the Super Saiyan God!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 2,
+      "episodeNumber": 3,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -71,10 +77,12 @@
     },
     {
       "title": "Bid for the Dragon Balls! Pilaf and Crew's Impossible Mission!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 3,
+      "episodeNumber": 4,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -94,10 +102,12 @@
     },
     {
       "title": "Showdown on King Kai's World! Goku vs. Beerus the Destroyer",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 4,
+      "episodeNumber": 5,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -117,10 +127,12 @@
     },
     {
       "title": "Don't Anger the Destroyer! A Heart-Pounding Birthday Party",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 5,
+      "episodeNumber": 6,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -140,10 +152,12 @@
     },
     {
       "title": "How Dare You Do That To My Bulma! Vegeta's Metamorphosis of Fury?!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 6,
+      "episodeNumber": 7,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -163,10 +177,12 @@
     },
     {
       "title": "Goku Makes an Entrance! A Last Chance from Lord Beerus?!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 7,
+      "episodeNumber": 8,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -186,10 +202,12 @@
     },
     {
       "title": "Thanks For Waiting, Lord Beerus! A Super Saiyan God is Born at Last!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 8,
+      "episodeNumber": 9,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -209,10 +227,12 @@
     },
     {
       "title": "Show Us, Goku! The Power of a Super Saiyan God!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 9,
+      "episodeNumber": 10,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -232,10 +252,12 @@
     },
     {
       "title": "Let's Keep Going, Lord Beerus! The Battle of Gods!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 10,
+      "episodeNumber": 11,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -255,10 +277,12 @@
     },
     {
       "title": "The Universe Will Shatter? Clash! Destroyer vs. Super Saiyan God!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 11,
+      "episodeNumber": 12,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -278,10 +302,12 @@
     },
     {
       "title": "Goku, Surpass Super Saiyan God!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 12,
+      "episodeNumber": 13,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -301,10 +327,12 @@
     },
     {
       "title": "This Is All the Power I've Got! A Settlement Between Gods",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 13,
+      "episodeNumber": 14,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 14. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -320,10 +348,12 @@
     },
     {
       "title": "Valiant Mr. Satan, Work a Miracle! A Challenge from Outer Space!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 14,
+      "episodeNumber": 15,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 15. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -343,10 +373,12 @@
     },
     {
       "title": "Vegeta Becomes a Pupil?! Win Over Whis!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 15,
+      "episodeNumber": 16,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 16. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -366,10 +398,12 @@
     },
     {
       "title": "Pan Is Born! And Goku Goes on a Training Journey?!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 16,
+      "episodeNumber": 17,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 17. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -389,10 +423,12 @@
     },
     {
       "title": "I’m Here Too! Training Commences on Beerus’ World!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 17,
+      "episodeNumber": 18,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 18. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -412,10 +448,12 @@
     },
     {
       "title": "Despair Redux! The Return of the Evil Emperor, Frieza!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 18,
+      "episodeNumber": 19,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 19. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -435,10 +473,12 @@
     },
     {
       "title": "A Warning From Jaco! Frieza and 1,000 Soldiers Close In!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 19,
+      "episodeNumber": 20,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 20. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -458,10 +498,12 @@
     },
     {
       "title": "The Start of Vengeance! The Frieza Force's Malice Strikes Gohan!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 20,
+      "episodeNumber": 21,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 21. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -481,10 +523,12 @@
     },
     {
       "title": "Change! An Unexpected Return! His Name Is Ginyu!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 21,
+      "episodeNumber": 22,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 22. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -504,10 +548,12 @@
     },
     {
       "title": "Earth! Gohan! Both on the Ropes! Hurry and Get Here, Goku!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 22,
+      "episodeNumber": 23,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 23. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -527,10 +573,12 @@
     },
     {
       "title": "Clash! Frieza vs. Goku This Is the Result of My Training!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 23,
+      "episodeNumber": 24,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 24. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -550,10 +598,12 @@
     },
     {
       "title": "A Full-Throttle Battle! The Vengeful Golden Frieza",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 24,
+      "episodeNumber": 25,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 25. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -573,10 +623,12 @@
     },
     {
       "title": "A Chance Appears in a Tight Spot! Launch a Counteroffensive, Goku!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 25,
+      "episodeNumber": 26,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 26. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -596,10 +648,12 @@
     },
     {
       "title": "The Earth Explodes?! A Decisive Kamehameha!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 26,
+      "episodeNumber": 27,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 27. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -619,10 +673,12 @@
     },
     {
       "title": "The 6th Universe’s Destroyer! His Name Is Champa!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 27,
+      "episodeNumber": 28,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 28. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -642,10 +698,12 @@
     },
     {
       "title": "Combat Matches Are a Go! The Captain Is Someone Stronger Than Goku!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 28,
+      "episodeNumber": 29,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 29. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -665,10 +723,12 @@
     },
     {
       "title": "A Run-Through For the Competition! Who Are the Last Two Members?!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 29,
+      "episodeNumber": 30,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 30. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -688,10 +748,12 @@
     },
     {
       "title": "Off to See Master Zuno! Find Out Where the Super Dragon Balls Are!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 30,
+      "episodeNumber": 31,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 31. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -711,10 +773,12 @@
     },
     {
       "title": "The Matches Begin! We're All Off to the 'Planet With no Name'!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 31,
+      "episodeNumber": 32,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 32. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -734,10 +798,12 @@
     },
     {
       "title": "Surprise, 6th Universe! This Is Super Saiyan Goku!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 32,
+      "episodeNumber": 33,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 33. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -757,10 +823,12 @@
     },
     {
       "title": "Piccolo vs. Frost - Stake It All on the Special Beam Cannon!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 33,
+      "episodeNumber": 34,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 34. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -780,10 +848,12 @@
     },
     {
       "title": "Turn Anger into Strength! Vegeta’s Full-Bore Battle",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 34,
+      "episodeNumber": 35,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 35. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -803,10 +873,12 @@
     },
     {
       "title": "An Unexpectedly Uphill Battle! Vegeta’s Great Blast of Fury!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 35,
+      "episodeNumber": 36,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 36. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -826,10 +898,12 @@
     },
     {
       "title": "Don't Forget Your Saiyan Pride! Vegeta vs. The 6th Universe's Saiyan!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 36,
+      "episodeNumber": 37,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 37. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -849,10 +923,12 @@
     },
     {
       "title": "The 6th Universe's Mightiest Warrior! Engage the Assassin Hit!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 37,
+      "episodeNumber": 38,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 38. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -872,10 +948,12 @@
     },
     {
       "title": "A Developed “Time-Skip” Counterstrike?! Here Comes Goku's New Move!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 38,
+      "episodeNumber": 39,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 39. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -895,10 +973,12 @@
     },
     {
       "title": "A Decision at Last! Is the Winner Beerus? Or Is It Champa?",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 39,
+      "episodeNumber": 40,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 40. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -918,10 +998,12 @@
     },
     {
       "title": "Come Forth, Divine Dragon! And Grant My Wish, Peas and Carrots!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 40,
+      "episodeNumber": 41,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 41. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -941,10 +1023,12 @@
     },
     {
       "title": "A Chaotic Victory Party! Showdown at Last?! Monaka vs Goku!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 41,
+      "episodeNumber": 42,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 42. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -964,10 +1048,12 @@
     },
     {
       "title": "Goku's Energy Is Out of Control?! The Struggle to Look After Pan",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 42,
+      "episodeNumber": 43,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 43. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -987,10 +1073,12 @@
     },
     {
       "title": "The Seal of Planet Pot-au-feu Secrets of the Unleashed Superhuman Water!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 43,
+      "episodeNumber": 44,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 44. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1010,10 +1098,12 @@
     },
     {
       "title": "Vegeta Disappears?! Menace of the Duplicate Vegeta!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 44,
+      "episodeNumber": 45,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 45. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1033,10 +1123,12 @@
     },
     {
       "title": "Goku vs Clone Vegeta! Who Will Win?",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 45,
+      "episodeNumber": 46,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 46. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1056,10 +1148,12 @@
     },
     {
       "title": "SOS From the Future! A Dark New Enemy Appears!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 46,
+      "episodeNumber": 47,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 47. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1079,10 +1173,12 @@
     },
     {
       "title": "Hope!! Redux Awaken in the Present, Trunks",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 47,
+      "episodeNumber": 48,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 48. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1102,10 +1198,12 @@
     },
     {
       "title": "A Message from the Future The Incursion of Goku Black!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 48,
+      "episodeNumber": 49,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 49. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1125,10 +1223,12 @@
     },
     {
       "title": "Goku vs. Black! A Closed-Off Road to the Future!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 49,
+      "episodeNumber": 50,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 50. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1148,10 +1248,12 @@
     },
     {
       "title": "Feelings That Transcend Time Trunks and Mai",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 50,
+      "episodeNumber": 51,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 51. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1171,10 +1273,12 @@
     },
     {
       "title": "Master and Pupil Reunited! Gohan and 'Future' Trunks!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 51,
+      "episodeNumber": 52,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 52. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1194,10 +1298,12 @@
     },
     {
       "title": "Uncover Black's Identity! Off to the 10th Universe's World of the Kai's!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 52,
+      "episodeNumber": 53,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 53. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1217,10 +1323,12 @@
     },
     {
       "title": "He Who is of Saiyan Blood Trunks' Resolve",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 53,
+      "episodeNumber": 54,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 54. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1240,10 +1348,12 @@
     },
     {
       "title": "I'd Like to See Goku, You See A Summons from Grand Zeno!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 54,
+      "episodeNumber": 55,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 55. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1263,10 +1373,12 @@
     },
     {
       "title": "Rematch With Goku Black! Enter Super Saiyan Rosé",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 55,
+      "episodeNumber": 56,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 56. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1286,10 +1398,12 @@
     },
     {
       "title": "A God with an Invincible Body - The Advent of Zamasu",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 56,
+      "episodeNumber": 57,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 57. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1309,10 +1423,12 @@
     },
     {
       "title": "Zamasu and Black - The Duo's Mystery Deepens",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 57,
+      "episodeNumber": 58,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 58. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1332,10 +1448,12 @@
     },
     {
       "title": "Protect The Supreme Kai Gowasu - Destroy Zamasu!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 58,
+      "episodeNumber": 59,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 59. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1355,10 +1473,12 @@
     },
     {
       "title": "Into the Future Again - Goku Black's True Identity Revealed!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 59,
+      "episodeNumber": 60,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 60. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1378,10 +1498,12 @@
     },
     {
       "title": "Zamasu’s Ambition - The Storied 'Project 0 Mortals' of Terror",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 60,
+      "episodeNumber": 61,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 61. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1401,10 +1523,12 @@
     },
     {
       "title": "I Will Defend the World! Trunks’ Furious Burst of Super Power!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 61,
+      "episodeNumber": 62,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 62. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1424,10 +1548,12 @@
     },
     {
       "title": "Don't You Disgrace Saiyan Cells! Vegeta's Fierce Battle Commences!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 62,
+      "episodeNumber": 63,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 63. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1447,10 +1573,12 @@
     },
     {
       "title": "Worship Me! Give Praise Unto Me! The Explosive Birth of a Merged Zamasu!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 63,
+      "episodeNumber": 64,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 64. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1470,10 +1598,12 @@
     },
     {
       "title": "Final Judgement?! The Ultimate Power of an Absolute God",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 64,
+      "episodeNumber": 65,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 65. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1493,10 +1623,12 @@
     },
     {
       "title": "Showdown! The Unyielding Warriors’ Miraculous Super Power",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 65,
+      "episodeNumber": 66,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 66. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1516,10 +1648,12 @@
     },
     {
       "title": "With New Hope in His Heart - Farewell, Trunks",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 66,
+      "episodeNumber": 67,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 67. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1539,10 +1673,12 @@
     },
     {
       "title": "Come Forth, Shenron! Whose Wish Shall Be Granted?!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 67,
+      "episodeNumber": 68,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 68. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1562,10 +1698,12 @@
     },
     {
       "title": "Goku vs. Arale! An Off-the-Wall Battle Spells the End of the Earth?",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 68,
+      "episodeNumber": 69,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 69. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1585,10 +1723,12 @@
     },
     {
       "title": "A Challenge from Champa! This Time, A Baseball Game!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 69,
+      "episodeNumber": 70,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 70. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1608,10 +1748,12 @@
     },
     {
       "title": "Goku Dies! An Assassination That Must Be Executed!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 70,
+      "episodeNumber": 71,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 71. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1631,10 +1773,12 @@
     },
     {
       "title": "Will He Strike Back?! The Unseen Killing Technique!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 71,
+      "episodeNumber": 72,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 72. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1654,10 +1798,12 @@
     },
     {
       "title": "Gohan’s Disaster! Great Saiyaman’s Unbelievable Movie Adaptation?!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 72,
+      "episodeNumber": 73,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 73. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1677,10 +1823,12 @@
     },
     {
       "title": "For My Beloved Ones! The Indomitable Great Saiyaman!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 73,
+      "episodeNumber": 74,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 74. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1700,10 +1848,12 @@
     },
     {
       "title": "Goku and Krillin! Back to the Old Familiar Training Ground!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 74,
+      "episodeNumber": 75,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 75. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1723,10 +1873,12 @@
     },
     {
       "title": "Conquer the Terrifying Foes! Krillin's Fighting Spirit Rebounds!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 75,
+      "episodeNumber": 76,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 76. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1746,10 +1898,12 @@
     },
     {
       "title": "Let's Do It, Grand Zeno! The Universes' Best Tournament!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 76,
+      "episodeNumber": 77,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 77. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1769,10 +1923,12 @@
     },
     {
       "title": "Even the Universes' Gods are Appalled?! The Lose-and-Perish 'Tournament of Power'",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 77,
+      "episodeNumber": 78,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 78. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1792,10 +1948,12 @@
     },
     {
       "title": "The 9th Universe's Kicking Basil vs. the 7th Universe's Majin Buu!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 78,
+      "episodeNumber": 79,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 79. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1815,10 +1973,12 @@
     },
     {
       "title": "Awaken Your Dormant Fighting Spirit! Gohan's Fight!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 79,
+      "episodeNumber": 80,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 80. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1838,10 +1998,12 @@
     },
     {
       "title": "Bergamo the Crusher vs. Goku! Whose Strength Reaches the Wild Blue Yonder?!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 80,
+      "episodeNumber": 81,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 81. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1861,10 +2023,12 @@
     },
     {
       "title": "Goku Must Pay! The Warrior of Justice Top Barges In!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 81,
+      "episodeNumber": 82,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 82. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1884,10 +2048,12 @@
     },
     {
       "title": "Field the All-7th Universe Team! Who Are the Mighty Ten?!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 82,
+      "episodeNumber": 83,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 83. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1907,10 +2073,12 @@
     },
     {
       "title": "Goku the Talent Scout - Recruit Krillin and Android 18",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 83,
+      "episodeNumber": 84,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 84. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1930,10 +2098,12 @@
     },
     {
       "title": "The Universes Go Into Action - Each With Their Own Motives",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 84,
+      "episodeNumber": 85,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 85. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1953,10 +2123,12 @@
     },
     {
       "title": "First Time Exchanging Blows! Android 17 vs. Goku!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 85,
+      "episodeNumber": 86,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 86. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1972,10 +2144,12 @@
     },
     {
       "title": "Hunt the Poaching Ring! Goku and Android 17's Joint Struggle!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 86,
+      "episodeNumber": 87,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 87. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1995,10 +2169,12 @@
     },
     {
       "title": "Gohan and Piccolo - Master and Pupil Clash in Max Training!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 87,
+      "episodeNumber": 88,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 88. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2018,10 +2194,12 @@
     },
     {
       "title": "A Mysterious Beauty Appears! The Enigma of the Tien Shin-Style Dojo?!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 88,
+      "episodeNumber": 89,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 89. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2041,10 +2219,12 @@
     },
     {
       "title": "Staring Down the Wall to Be Overcome! Goku vs. Gohan",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 89,
+      "episodeNumber": 90,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 90. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2064,10 +2244,12 @@
     },
     {
       "title": "Which Universe Will Prevail?! The Mightiest Warriors Assemble!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 90,
+      "episodeNumber": 91,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 91. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2087,10 +2269,12 @@
     },
     {
       "title": "A State of Emergency! Failure to Reach Ten Members!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 91,
+      "episodeNumber": 92,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 92. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2110,10 +2294,12 @@
     },
     {
       "title": "You're Our Tenth Warrior - Goku Approaches Frieza!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 92,
+      "episodeNumber": 93,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 93. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2133,10 +2319,12 @@
     },
     {
       "title": "The Evil Emperor Returns! A Reception From Mysterious Assassins?!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 93,
+      "episodeNumber": 94,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 94. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2156,10 +2344,12 @@
     },
     {
       "title": "Most Heinous! Most Evil! Frieza's Wild Rampage!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 94,
+      "episodeNumber": 95,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 95. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2179,10 +2369,12 @@
     },
     {
       "title": "The Time Has Come! To The Null Realm With The Universes On The Line!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 95,
+      "episodeNumber": 96,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 96. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2202,10 +2394,12 @@
     },
     {
       "title": "Survive! The 'Tournament of Power' Begins at Last!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 96,
+      "episodeNumber": 97,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 97. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2225,10 +2419,12 @@
     },
     {
       "title": "Ah, the Uncertainty! A Universe Despairs!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 97,
+      "episodeNumber": 98,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 98. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2248,10 +2444,12 @@
     },
     {
       "title": "Show Them! Krillin's Underlying Strength!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 98,
+      "episodeNumber": 99,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 99. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2271,10 +2469,12 @@
     },
     {
       "title": "Rampage! A Crazed Warrior's Savagery Awakens!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 99,
+      "episodeNumber": 100,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 100. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2294,10 +2494,12 @@
     },
     {
       "title": "Warriors of Justice Close In! The Pride Troopers!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 100,
+      "episodeNumber": 101,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 101. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2317,10 +2519,12 @@
     },
     {
       "title": "The Power of Love Explodes?! The 2nd Universe's Witchy Warriors!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 101,
+      "episodeNumber": 102,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 102. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2340,10 +2544,12 @@
     },
     {
       "title": "Gohan, Get Ruthless! Showdown With The 10th Universe!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 102,
+      "episodeNumber": 103,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 103. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2363,10 +2569,12 @@
     },
     {
       "title": "A Transcendent Light-Speed Battle Erupts! Goku And Hit’s United Front!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 103,
+      "episodeNumber": 104,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 104. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2386,10 +2594,12 @@
     },
     {
       "title": "A Valiant Fight! Master Roshi's Blaze Of Glory!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 104,
+      "episodeNumber": 105,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 105. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2409,10 +2619,12 @@
     },
     {
       "title": "Find Them Out! Deathmatch with a Furtive Attacker!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 105,
+      "episodeNumber": 106,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 106. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2432,10 +2644,12 @@
     },
     {
       "title": "Revenge 'F'! A Cunning Trap is Set?!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 106,
+      "episodeNumber": 107,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 107. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2455,10 +2669,12 @@
     },
     {
       "title": "Frieza and Frost! A Mutual Malevolence?!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 107,
+      "episodeNumber": 108,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 108. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2478,10 +2694,12 @@
     },
     {
       "title": "The Mightiest Enemy Zeroes in on Goku! Launch The Knockout Spirit Bomb Now!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 108,
+      "episodeNumber": 109,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 109. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2501,10 +2719,12 @@
     },
     {
       "title": "Goku Enkindled! The Awakened One's New Ultra Instinct!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 109,
+      "episodeNumber": 110,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 110. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2524,10 +2744,12 @@
     },
     {
       "title": "An Extra-Dimensional Ultimate Battle! Hit vs. Jiren!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 110,
+      "episodeNumber": 111,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 111. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2547,10 +2769,12 @@
     },
     {
       "title": "A Saiyan Oath! Vegeta's Resolve!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 111,
+      "episodeNumber": 112,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 112. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2570,10 +2794,12 @@
     },
     {
       "title": "With Great Joy! The Fighting Freak Saiyans' Battle Rejoined!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 112,
+      "episodeNumber": 113,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 113. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2593,10 +2819,12 @@
     },
     {
       "title": "Bloodcurdling! The Explosive Birth Of A New Super Warrior!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 113,
+      "episodeNumber": 114,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 114. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2616,10 +2844,12 @@
     },
     {
       "title": "Goku vs. Kefla! Super Saiyan Blue Beaten?!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 114,
+      "episodeNumber": 115,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 115. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2639,10 +2869,12 @@
     },
     {
       "title": "Signs Of A Turnabout! The Autonomous Ultra Instinct Erupts!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 115,
+      "episodeNumber": 116,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 116. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2662,10 +2894,12 @@
     },
     {
       "title": "Showdown Of Love! The Androids vs. The 2nd Universe!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 116,
+      "episodeNumber": 117,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 117. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2685,10 +2919,12 @@
     },
     {
       "title": "Accelerating Tragedy - Vanishing Universes...",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 117,
+      "episodeNumber": 118,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 118. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2708,10 +2944,12 @@
     },
     {
       "title": "Unavoidable?!  The Ferocity of a Stealth Attack!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 118,
+      "episodeNumber": 119,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 119. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2731,10 +2969,12 @@
     },
     {
       "title": "A Perfect Survival Strategy! The 3rd Universe's Menacing Assassin!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 119,
+      "episodeNumber": 120,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 120. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2754,10 +2994,12 @@
     },
     {
       "title": "All Out War! The Ultimate Four-Fold Union vs. The 7th Universe's Total Offensive!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 120,
+      "episodeNumber": 121,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 121. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2777,10 +3019,12 @@
     },
     {
       "title": "With His Pride On The Line! Vegeta's Challenge To Be The Strongest!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 121,
+      "episodeNumber": 122,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 122. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2800,10 +3044,12 @@
     },
     {
       "title": "Body, Soul and Power Unleashed! Goku and Vegeta!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 122,
+      "episodeNumber": 123,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 123. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2823,10 +3069,12 @@
     },
     {
       "title": "A Storm-and-Stress Assault! Gohan's Last Stand!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 123,
+      "episodeNumber": 124,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 124. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2846,10 +3094,12 @@
     },
     {
       "title": "A Commanding Presence! The Advent of Top The Destroyer!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 124,
+      "episodeNumber": 125,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 125. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2869,10 +3119,12 @@
     },
     {
       "title": "Surpass Even a God! Vegeta's Sacrifice Strike!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 125,
+      "episodeNumber": 126,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 126. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2892,10 +3144,12 @@
     },
     {
       "title": "The Approaching Wall! A Hopeful Final Barrier!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 126,
+      "episodeNumber": 127,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 127. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2915,10 +3169,12 @@
     },
     {
       "title": "To The Noble, Proud End! Vegeta Falls!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 127,
+      "episodeNumber": 128,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 128. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2938,10 +3194,12 @@
     },
     {
       "title": "A Transcendent Limit Break! Autonomous Ultra Instinct Mastered!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 128,
+      "episodeNumber": 129,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 129. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2961,10 +3219,12 @@
     },
     {
       "title": "The Greatest Showdown of All Time! The Ultimate Survival Battle!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 129,
+      "episodeNumber": 130,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 130. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2984,10 +3244,12 @@
     },
     {
       "title": "A Miraculous Conclusion! Farewell Goku! Until We Meet Again!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 130,
+      "episodeNumber": 131,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 131. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",

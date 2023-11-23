@@ -2,10 +2,12 @@
   "episodes": [
     {
       "title": "I Will Make You Invite Me to a Movie / Kaguya Wants to Be Stopped / Kaguya Wants It",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 0,
+      "episodeNumber": 1,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -25,10 +27,12 @@
     },
     {
       "title": "Kaguya Wants to Trade / Chika Wants to Go Somewhere / Miyuki Wants to Hide His Ignorance",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 1,
+      "episodeNumber": 2,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -48,10 +52,12 @@
     },
     {
       "title": "Miyuki Shirogane Still Hasn’t Done It / Kaguya Wants to Be Figured Out / Kaguya Wants to Walk",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 2,
+      "episodeNumber": 3,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -70,80 +76,13 @@
       ]
     },
     {
-      "title": "Kaguya Wants Affection / The Student Council Wants It to Be Said / Kaguya Wants Him to Send It / Miyuki Shirogane Wants to Talk",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
-      "optionalSeasonText": "1. Sezon 4. Bölüm",
-      "autoQuality": false,
-      "sourceURL": [
-        {
-          "first": "480p",
-          "second": "https://hydra.genya-shinazugawa.gq/kaguya-sama-love-is-war/1/4/480.mp4"
-        },
-        {
-          "first": "1080p",
-          "second": "https://hydra.genya-shinazugawa.gq/kaguya-sama-love-is-war/1/4/1080.mp4"
-        }
-      ],
-      "sourceAuth": [
-        {
-          "first": "Referer",
-          "second": "https://diziwatch.net"
-        }
-      ]
-    },
-    {
-      "title": "Kaguya Wants to Handle It / Miyuki Shirogane Wants to Show Off / Kaguya Wants to Be Covered",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
-      "optionalSeasonText": "1. Sezon 5. Bölüm",
-      "autoQuality": false,
-      "sourceURL": [
-        {
-          "first": "480p",
-          "second": "https://hydra.kyojuro-rengoku.cf/kaguya-sama-love-is-war/1/5/480.mp4"
-        },
-        {
-          "first": "1080p",
-          "second": "https://hydra.kyojuro-rengoku.cf/kaguya-sama-love-is-war/1/5/1080.mp4"
-        }
-      ],
-      "sourceAuth": [
-        {
-          "first": "Referer",
-          "second": "https://diziwatch.net"
-        }
-      ]
-    },
-    {
-      "title": "Yu Ishigami Wants to Live / Chika Fujiwara Wants to Test You / Kaguya Wants to Be Noticed",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
-      "optionalSeasonText": "1. Sezon 6. Bölüm",
-      "autoQuality": false,
-      "sourceURL": [
-        {
-          "first": "480p",
-          "second": "https://hydra.fiona-frost.gq/kaguya-sama-love-is-war/1/6/480.mp4"
-        },
-        {
-          "first": "1080p",
-          "second": "https://hydra.fiona-frost.gq/kaguya-sama-love-is-war/1/6/1080.mp4"
-        }
-      ],
-      "sourceAuth": [
-        {
-          "first": "Referer",
-          "second": "https://diziwatch.net"
-        }
-      ]
-    },
-    {
       "title": "Miyuki Shirogane Wants to Work / Kaguya Wants Him to Join In / Kaguya Wants to Control It",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 6,
+      "episodeNumber": 7,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -162,19 +101,71 @@
       ]
     },
     {
-      "title": "Kaguya Wants Her to Say It / Miyuki Shirogane Can’t Lose / Ishigami Closes His Eyes",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
-      "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "title": "Yu Ishigami Wants to Live / Chika Fujiwara Wants to Test You / Kaguya Wants to Be Noticed",
+      "episodeID": 5,
+      "episodeNumber": 6,
+      "seasonNumber": 1,
+      "optionalSeasonText": "1. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
-          "second": "https://hydra.tanjiro-kamado.cf/kaguya-sama-love-is-war/1/8/480.mp4"
+          "second": "https://hydra.fiona-frost.gq/kaguya-sama-love-is-war/1/6/480.mp4"
         },
         {
           "first": "1080p",
-          "second": "https://hydra.tanjiro-kamado.cf/kaguya-sama-love-is-war/1/8/1080.mp4"
+          "second": "https://hydra.fiona-frost.gq/kaguya-sama-love-is-war/1/6/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Kaguya Wants to Handle It / Miyuki Shirogane Wants to Show Off / Kaguya Wants to Be Covered",
+      "episodeID": 4,
+      "episodeNumber": 5,
+      "seasonNumber": 1,
+      "optionalSeasonText": "1. Sezon 5. Bölüm",
+      "autoQuality": false,
+      "sourceType": 0,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kyojuro-rengoku.cf/kaguya-sama-love-is-war/1/5/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.kyojuro-rengoku.cf/kaguya-sama-love-is-war/1/5/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Kaguya Wants Affection / The Student Council Wants It to Be Said / Kaguya Wants Him to Send It / Miyuki Shirogane Wants to Talk",
+      "episodeID": 3,
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "optionalSeasonText": "1. Sezon 4. Bölüm",
+      "autoQuality": false,
+      "sourceType": 0,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.genya-shinazugawa.gq/kaguya-sama-love-is-war/1/4/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.genya-shinazugawa.gq/kaguya-sama-love-is-war/1/4/1080.mp4"
         }
       ],
       "sourceAuth": [
@@ -186,10 +177,12 @@
     },
     {
       "title": "Kaguya Wants to Give a Gift / Chika Fujiwara Wants to Pay a Visit / About Kaguya Shinomiya, Part 1",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 8,
+      "episodeNumber": 9,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -208,11 +201,38 @@
       ]
     },
     {
+      "title": "Kaguya Wants Her to Say It / Miyuki Shirogane Can’t Lose / Ishigami Closes His Eyes",
+      "episodeID": 7,
+      "episodeNumber": 8,
+      "seasonNumber": 1,
+      "optionalSeasonText": "1. Sezon 8. Bölüm",
+      "autoQuality": false,
+      "sourceType": 0,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tanjiro-kamado.cf/kaguya-sama-love-is-war/1/8/480.mp4"
+        },
+        {
+          "first": "1080p",
+          "second": "https://hydra.tanjiro-kamado.cf/kaguya-sama-love-is-war/1/8/1080.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
       "title": "Kaguya Won’t Forgive / Kaguya Wants to Forgive / Miyuki Shirogane Wants to Go Somewhere",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 9,
+      "episodeNumber": 10,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -232,10 +252,12 @@
     },
     {
       "title": "Ai Hayasaka Wants to Get Soaked / Chika Fujiwara Really Wants to Eat It / Miyuki Shirogane Wants to See You / I Can’t Hear the Fireworks, Part 1",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 10,
+      "episodeNumber": 11,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -255,10 +277,12 @@
     },
     {
       "title": "I Can’t Hear the Fireworks, Part 2 / Kaguya Doesn’t Want to Avoid Him",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 11,
+      "episodeNumber": 12,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -278,10 +302,12 @@
     },
     {
       "title": "Ai Hayasaka Wants to Stave Them Off / The Student Council Has Not Achieved Nirvana / Kaguya Wants to Get Married / Kaguya Wants to Celebrate",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 12,
+      "episodeNumber": 1,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -301,10 +327,12 @@
     },
     {
       "title": "Kaguya Wants to Know / Kaguya Wants to Give a Gift / Chika Fujiwara Wants to Confirm It",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 13,
+      "episodeNumber": 2,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -324,10 +352,12 @@
     },
     {
       "title": "Miyuki Shirogane Wants to Gaze at the Moon / The 67th Student Council / Kaguya Doesn’t Want to Say It",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 14,
+      "episodeNumber": 3,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -347,10 +377,12 @@
     },
     {
       "title": "Ai Hayasaka Wants Him to Fall for Her / Kaguya Wants to Be Confessed To / Miko Iino Wants to Set Things Right",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 15,
+      "episodeNumber": 4,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -370,10 +402,12 @@
     },
     {
       "title": "Miyuki Shirogane Wants Girls to Fall for Him / Nagisa Kashiwagi Wants to Console / Miyuki Shirogane Wants to Sing / Kaguya Wants to Kick Them Down",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 16,
+      "episodeNumber": 5,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -393,10 +427,12 @@
     },
     {
       "title": "I Don’t Want to Make Miko Iino Smile / I Want to Make Miko Iino Smile / Kaguya Isn’t Getting Called",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 17,
+      "episodeNumber": 6,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -416,10 +452,12 @@
     },
     {
       "title": "Kaguya Wants to Undress Him / Kaguya Wants to Make Him Let Go / Miyuki Shirogane Wants to Make Her Read / Kaguya ♡ Aquarium",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 18,
+      "episodeNumber": 7,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -439,10 +477,12 @@
     },
     {
       "title": "Miko Iino Wants to Control Herself / Kaguya Doesn’t Scare Easily / Kaguya Wants to Be Examined",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 19,
+      "episodeNumber": 8,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -462,10 +502,12 @@
     },
     {
       "title": "Yu Ishigami Closes His Eyes, Part 2 / Kaguya Wants to Touch / Kaguya Doesn’t Say No",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 20,
+      "episodeNumber": 9,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -485,10 +527,12 @@
     },
     {
       "title": "Kei Shirogane Can’t Speak / Miyuki Shirogane Wants to Dance / Kobachi Osaragi Wants to Crack Down / Miyuki Shirogane’s Dad Wants to Find Out",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 21,
+      "episodeNumber": 10,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -508,10 +552,12 @@
     },
     {
       "title": "Yu Ishigami Closes His Eyes, Part 3 / Miyuki Shirogane and Yu Ishigami / Kyoko Otomo Doesn’t Realize",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 22,
+      "episodeNumber": 11,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -531,10 +577,12 @@
     },
     {
       "title": "The Student Council Would Like a Group Photo / The Student Council Is Going to Get That Group Photo / Chika Fujiwara Wants to Inflate",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 23,
+      "episodeNumber": 12,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -554,10 +602,12 @@
     },
     {
       "title": "Kaguya Darkness Volume 1 / Kaguya Darkness Volume 2 / Kaguya Wants Him to Eat",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 24,
+      "episodeNumber": 1,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon OVA-1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -577,10 +627,12 @@
     },
     {
       "title": "Miko Iino Wants to Be Soothed / Kaguya Doesn’t Realize / Chika Fujiwara Wants to Battle",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 25,
+      "episodeNumber": 1,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -600,10 +652,12 @@
     },
     {
       "title": "Miyuki Shirogane Wants to Mediate / Kaguya Wants to Distract Him / Kaguya Preemptively Strikes",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 26,
+      "episodeNumber": 2,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -623,10 +677,12 @@
     },
     {
       "title": "Nagisa Kashiwagi Wants to Kill / Maki Shijo Wants to Take Action / Miyuki Shirogane Wants to Be Believed",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 27,
+      "episodeNumber": 3,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -646,10 +702,12 @@
     },
     {
       "title": "Kaguya Shinomiya's Impossible Demand: 'A Cowrie a Swallow Gave Birth To' Part 1 / Yu Ishigami Wants to Prove Himself Worthy / Chika Fujiwara Wants to Stay Over",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 28,
+      "episodeNumber": 4,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -669,10 +727,12 @@
     },
     {
       "title": "Chika Fujiwara Wants to Beat a Rhythm / Ai Hayasaka Wants to Talk / Maki Shijo Wants Some Help",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 29,
+      "episodeNumber": 5,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -692,10 +752,12 @@
     },
     {
       "title": "The Student Council Wants to Move Forward / Miyuki Shirogane Wants to Make Her Confess, Part 2 / Miyuki Shirogane Wants to Make Her Confess, Part 3",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 30,
+      "episodeNumber": 6,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -715,10 +777,12 @@
     },
     {
       "title": "Miko Iino Can't Love, Part 1 / Students Wish to Discuss the Culture Festival / Miyuki Shirogane Wants to Blow It Up",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 31,
+      "episodeNumber": 7,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -738,10 +802,12 @@
     },
     {
       "title": "Kei Shirogane Wants to Show Off / About Kaguya Shinomiya, Part 2 / Kaguya Wants to Confess",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 32,
+      "episodeNumber": 8,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -761,10 +827,12 @@
     },
     {
       "title": "Spring of First Year / Kaguya's Culture Festival / Yu Ishigami's Culture Festival",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 33,
+      "episodeNumber": 9,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -784,10 +852,12 @@
     },
     {
       "title": "Kozue Makihara Wants to Have Fun / Chika Fujiwara Wants to Unmask / Miyuki Shirogane's Culture Festival",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 34,
+      "episodeNumber": 10,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -807,10 +877,12 @@
     },
     {
       "title": "Miyuki Shirogane Wants to Make Her Confess, Part 4 / Tsubame Koyasu Wants to Say No / Miyuki Shirogane Wants to Make Her Confess, Part 5",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 35,
+      "episodeNumber": 11,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -830,10 +902,12 @@
     },
     {
       "title": "Kaguya Wants to Confess (2) / Kaguya Wants to Confess (3) / Dual Confessions (1)",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 36,
+      "episodeNumber": 12,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -853,10 +927,12 @@
     },
     {
       "title": "Dual Confessions (2) / The Shuchiin Afterparty",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 37,
+      "episodeNumber": 13,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",

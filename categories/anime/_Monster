@@ -2,10 +2,12 @@
   "episodes": [
     {
       "title": "Herr Dr. Tenma",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 0,
+      "episodeNumber": 1,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -21,10 +23,12 @@
     },
     {
       "title": "Downfall",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 1,
+      "episodeNumber": 2,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -40,10 +44,12 @@
     },
     {
       "title": "Murder Case",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 2,
+      "episodeNumber": 3,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -59,10 +65,12 @@
     },
     {
       "title": "Night of the Execution",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 3,
+      "episodeNumber": 4,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -78,10 +86,12 @@
     },
     {
       "title": "The Girl From Heidelberg",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 4,
+      "episodeNumber": 5,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -97,10 +107,12 @@
     },
     {
       "title": "Disappearance Report",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 5,
+      "episodeNumber": 6,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -116,10 +128,12 @@
     },
     {
       "title": "Mansion of Tragedy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 6,
+      "episodeNumber": 7,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -135,10 +149,12 @@
     },
     {
       "title": "The Fugitive",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 7,
+      "episodeNumber": 8,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -154,10 +170,12 @@
     },
     {
       "title": "The Girl and the Seasoned Soldier",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 8,
+      "episodeNumber": 9,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -173,10 +191,12 @@
     },
     {
       "title": "A Past Erased",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 9,
+      "episodeNumber": 10,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -192,10 +212,12 @@
     },
     {
       "title": "511 Kinderheim",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 10,
+      "episodeNumber": 11,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -211,10 +233,12 @@
     },
     {
       "title": "A Little Experiment",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 11,
+      "episodeNumber": 12,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -230,10 +254,12 @@
     },
     {
       "title": "Petra and Schumann",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 12,
+      "episodeNumber": 13,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -248,68 +274,13 @@
       ]
     },
     {
-      "title": "Left Behind",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
-      "optionalSeasonText": "1. Sezon 14. Bölüm",
-      "autoQuality": false,
-      "sourceURL": [
-        {
-          "first": "480p",
-          "second": "https://hydra.sorimachi.cf/monster/1/14/480.mp4"
-        }
-      ],
-      "sourceAuth": [
-        {
-          "first": "Referer",
-          "second": "https://diziwatch.net"
-        }
-      ]
-    },
-    {
-      "title": "Be My Baby",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
-      "optionalSeasonText": "1. Sezon 15. Bölüm",
-      "autoQuality": false,
-      "sourceURL": [
-        {
-          "first": "480p",
-          "second": "https://hydra.kyojuro-rengoku.cf/monster/1/15/480.mp4"
-        }
-      ],
-      "sourceAuth": [
-        {
-          "first": "Referer",
-          "second": "https://diziwatch.net"
-        }
-      ]
-    },
-    {
-      "title": "Wolf's Confession",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
-      "optionalSeasonText": "1. Sezon 16. Bölüm",
-      "autoQuality": false,
-      "sourceURL": [
-        {
-          "first": "480p",
-          "second": "https://hydra.donovan-desmond.gq/monster/1/16/480.mp4"
-        }
-      ],
-      "sourceAuth": [
-        {
-          "first": "Referer",
-          "second": "https://diziwatch.net"
-        }
-      ]
-    },
-    {
       "title": "Reunion",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 16,
+      "episodeNumber": 17,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 17. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -324,11 +295,55 @@
       ]
     },
     {
+      "title": "Wolf's Confession",
+      "episodeID": 15,
+      "episodeNumber": 16,
+      "seasonNumber": 1,
+      "optionalSeasonText": "1. Sezon 16. Bölüm",
+      "autoQuality": false,
+      "sourceType": 0,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.donovan-desmond.gq/monster/1/16/480.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Be My Baby",
+      "episodeID": 14,
+      "episodeNumber": 15,
+      "seasonNumber": 1,
+      "optionalSeasonText": "1. Sezon 15. Bölüm",
+      "autoQuality": false,
+      "sourceType": 0,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.kyojuro-rengoku.cf/monster/1/15/480.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
       "title": "Five Sugars",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 17,
+      "episodeNumber": 18,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 18. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -343,11 +358,34 @@
       ]
     },
     {
+      "title": "Left Behind",
+      "episodeID": 13,
+      "episodeNumber": 14,
+      "seasonNumber": 1,
+      "optionalSeasonText": "1. Sezon 14. Bölüm",
+      "autoQuality": false,
+      "sourceType": 0,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.sorimachi.cf/monster/1/14/480.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
       "title": "Monster's Abyss",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 18,
+      "episodeNumber": 19,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 19. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -363,10 +401,12 @@
     },
     {
       "title": "Journey to Freiham",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 19,
+      "episodeNumber": 20,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 20. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -382,10 +422,12 @@
     },
     {
       "title": "Happy Holidays",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 20,
+      "episodeNumber": 21,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 21. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -401,10 +443,12 @@
     },
     {
       "title": "Lunge's Trap",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 21,
+      "episodeNumber": 22,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 22. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -420,10 +464,12 @@
     },
     {
       "title": "Eva's Confession",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 22,
+      "episodeNumber": 23,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 23. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -439,10 +485,12 @@
     },
     {
       "title": "Of Men and Dining",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 23,
+      "episodeNumber": 24,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 24. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -458,10 +506,12 @@
     },
     {
       "title": "Thursday's Boy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 24,
+      "episodeNumber": 25,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 25. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -477,10 +527,12 @@
     },
     {
       "title": "The Secret Woods",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 25,
+      "episodeNumber": 26,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 26. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -496,10 +548,12 @@
     },
     {
       "title": "Proof",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 26,
+      "episodeNumber": 27,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 27. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -515,10 +569,12 @@
     },
     {
       "title": "Just One Case",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 27,
+      "episodeNumber": 28,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 28. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -534,10 +590,12 @@
     },
     {
       "title": "Execution",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 28,
+      "episodeNumber": 29,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 29. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -553,10 +611,12 @@
     },
     {
       "title": "Decision",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 29,
+      "episodeNumber": 30,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 30. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -572,10 +632,12 @@
     },
     {
       "title": "In Broad Daylight",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 30,
+      "episodeNumber": 31,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 31. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -591,10 +653,12 @@
     },
     {
       "title": "Sanctuary",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 31,
+      "episodeNumber": 32,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 32. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -610,10 +674,12 @@
     },
     {
       "title": "A Child's View",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 32,
+      "episodeNumber": 33,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 33. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -629,10 +695,12 @@
     },
     {
       "title": "At the Edge of Darkness",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 33,
+      "episodeNumber": 34,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 34. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -648,10 +716,12 @@
     },
     {
       "title": "My Nameless Hero",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 34,
+      "episodeNumber": 35,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 35. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -667,10 +737,12 @@
     },
     {
       "title": "The Monster of Chaos",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 35,
+      "episodeNumber": 36,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 36. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -686,10 +758,12 @@
     },
     {
       "title": "A Nameless Monster",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 36,
+      "episodeNumber": 37,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 37. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -705,10 +779,12 @@
     },
     {
       "title": "The Demon in My Eyes",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 37,
+      "episodeNumber": 38,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 38. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -724,10 +800,12 @@
     },
     {
       "title": "The Hell in His Eyes",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 38,
+      "episodeNumber": 39,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 39. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -743,10 +821,12 @@
     },
     {
       "title": "Grimmer",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 39,
+      "episodeNumber": 40,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 40. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -762,10 +842,12 @@
     },
     {
       "title": "Ghosts of 511",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 40,
+      "episodeNumber": 41,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 41. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -781,10 +863,12 @@
     },
     {
       "title": "The Adventures of the Magnificent Steiner",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 41,
+      "episodeNumber": 42,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 42. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -800,10 +884,12 @@
     },
     {
       "title": "Detective Suk",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 42,
+      "episodeNumber": 43,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 43. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -819,10 +905,12 @@
     },
     {
       "title": "Double Darkness",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 43,
+      "episodeNumber": 44,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 44. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -838,10 +926,12 @@
     },
     {
       "title": "The Monster's Afterimage",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 44,
+      "episodeNumber": 45,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 45. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -857,10 +947,12 @@
     },
     {
       "title": "Contact",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 45,
+      "episodeNumber": 46,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 46. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -876,10 +968,12 @@
     },
     {
       "title": "The Door to Nightmares",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 46,
+      "episodeNumber": 47,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 47. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -895,10 +989,12 @@
     },
     {
       "title": "The Scariest Thing",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 47,
+      "episodeNumber": 48,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 48. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -914,10 +1010,12 @@
     },
     {
       "title": "The Cruelest Thing",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 48,
+      "episodeNumber": 49,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 49. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -933,10 +1031,12 @@
     },
     {
       "title": "The Rose Mansion",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 49,
+      "episodeNumber": 50,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 50. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -952,10 +1052,12 @@
     },
     {
       "title": "The Monster's Love Letter",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 50,
+      "episodeNumber": 51,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 51. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -971,10 +1073,12 @@
     },
     {
       "title": "The Lawyer",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 51,
+      "episodeNumber": 52,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 52. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -990,10 +1094,12 @@
     },
     {
       "title": "Determination",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 52,
+      "episodeNumber": 53,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 53. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1009,10 +1115,12 @@
     },
     {
       "title": "The Escape",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 53,
+      "episodeNumber": 54,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 54. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1028,10 +1136,12 @@
     },
     {
       "title": "Room 402",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 54,
+      "episodeNumber": 55,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 55. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1047,10 +1157,12 @@
     },
     {
       "title": "The Never-Ending Journey",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 55,
+      "episodeNumber": 56,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 56. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1066,10 +1178,12 @@
     },
     {
       "title": "That Night",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 56,
+      "episodeNumber": 57,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 57. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1085,10 +1199,12 @@
     },
     {
       "title": "I Hate This Job",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 57,
+      "episodeNumber": 58,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 58. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1104,10 +1220,12 @@
     },
     {
       "title": "The Man Who Saw the Devil",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 58,
+      "episodeNumber": 59,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 59. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1123,10 +1241,12 @@
     },
     {
       "title": "The Man Who Knew Too Much",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 59,
+      "episodeNumber": 60,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 60. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1142,10 +1262,12 @@
     },
     {
       "title": "The Door to Memories",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 60,
+      "episodeNumber": 61,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 61. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1161,10 +1283,12 @@
     },
     {
       "title": "A Pleasant Dinner Table",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 61,
+      "episodeNumber": 62,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 62. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1180,10 +1304,12 @@
     },
     {
       "title": "Unrelated Murders",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 62,
+      "episodeNumber": 63,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 63. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1199,10 +1325,12 @@
     },
     {
       "title": "The Baby's Depression",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 63,
+      "episodeNumber": 64,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 64. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1218,10 +1346,12 @@
     },
     {
       "title": "Johan's Footprints",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 64,
+      "episodeNumber": 65,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 65. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1237,10 +1367,12 @@
     },
     {
       "title": "Welcome Home",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 65,
+      "episodeNumber": 66,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 66. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1256,10 +1388,12 @@
     },
     {
       "title": "I'm Back",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 66,
+      "episodeNumber": 67,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 67. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1275,10 +1409,12 @@
     },
     {
       "title": "Ruhenheim",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 67,
+      "episodeNumber": 68,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 68. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1294,10 +1430,12 @@
     },
     {
       "title": "The Peaceful House",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 68,
+      "episodeNumber": 69,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 69. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1313,10 +1451,12 @@
     },
     {
       "title": "The Town Massacre",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 69,
+      "episodeNumber": 70,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 70. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1332,10 +1472,12 @@
     },
     {
       "title": "The Wrath of the Magnificent Steiner",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 70,
+      "episodeNumber": 71,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 71. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1351,10 +1493,12 @@
     },
     {
       "title": "A Nameless Man",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 71,
+      "episodeNumber": 72,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 72. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1370,10 +1514,12 @@
     },
     {
       "title": "Scenery for a Doomsday",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 72,
+      "episodeNumber": 73,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 73. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1389,10 +1535,12 @@
     },
     {
       "title": "The Real Monster",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 73,
+      "episodeNumber": 74,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 74. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",

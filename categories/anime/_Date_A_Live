@@ -2,10 +2,12 @@
   "episodes": [
     {
       "title": "April 1X",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 0,
+      "episodeNumber": 1,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -25,10 +27,12 @@
     },
     {
       "title": "Another Close Encounter",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 1,
+      "episodeNumber": 2,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -48,10 +52,12 @@
     },
     {
       "title": "For the Sky and the Sword",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 2,
+      "episodeNumber": 3,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -71,10 +77,12 @@
     },
     {
       "title": "Sullen Rain",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 3,
+      "episodeNumber": 4,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -94,10 +102,12 @@
     },
     {
       "title": "Frozen Ground",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 4,
+      "episodeNumber": 5,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -117,10 +127,12 @@
     },
     {
       "title": "Romantic Hot Springs",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 5,
+      "episodeNumber": 6,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -140,10 +152,12 @@
     },
     {
       "title": "Visitors",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 6,
+      "episodeNumber": 7,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -163,10 +177,12 @@
     },
     {
       "title": "Triple Capriccio",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 7,
+      "episodeNumber": 8,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -186,10 +202,12 @@
     },
     {
       "title": "Frenzied Nightmare",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 8,
+      "episodeNumber": 9,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -209,10 +227,12 @@
     },
     {
       "title": "Flame Spirit (Ifrit)",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 9,
+      "episodeNumber": 10,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -232,10 +252,12 @@
     },
     {
       "title": "Countdown",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 10,
+      "episodeNumber": 11,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -255,10 +277,12 @@
     },
     {
       "title": "That Which Cannot Be Forgiven",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 11,
+      "episodeNumber": 12,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -278,10 +302,12 @@
     },
     {
       "title": "Daily Life",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 12,
+      "episodeNumber": 1,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -301,10 +327,12 @@
     },
     {
       "title": "Hurricane Children",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 13,
+      "episodeNumber": 2,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -324,10 +352,12 @@
     },
     {
       "title": "Two Requests",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 14,
+      "episodeNumber": 3,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -347,10 +377,12 @@
     },
     {
       "title": "Manifestation",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 15,
+      "episodeNumber": 4,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -370,10 +402,12 @@
     },
     {
       "title": "Diva",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 16,
+      "episodeNumber": 5,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -393,10 +427,12 @@
     },
     {
       "title": "Girls' Music",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 17,
+      "episodeNumber": 6,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -416,10 +452,12 @@
     },
     {
       "title": "Gabriel",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 18,
+      "episodeNumber": 7,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -439,10 +477,12 @@
     },
     {
       "title": "The Promise to Keep",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 19,
+      "episodeNumber": 8,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -462,10 +502,12 @@
     },
     {
       "title": "The Truth About Miku",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 20,
+      "episodeNumber": 9,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -485,10 +527,12 @@
     },
     {
       "title": "Inversion",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 21,
+      "episodeNumber": 10,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -508,10 +552,12 @@
     },
     {
       "title": "The Seventh Spirit",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 22,
+      "episodeNumber": 1,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -531,10 +577,12 @@
     },
     {
       "title": "Can You Find Me?",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 23,
+      "episodeNumber": 2,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -554,10 +602,12 @@
     },
     {
       "title": "You're Natsumi",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 24,
+      "episodeNumber": 3,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -577,10 +627,12 @@
     },
     {
       "title": "Transformation",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 25,
+      "episodeNumber": 4,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -600,10 +652,12 @@
     },
     {
       "title": "Despair Comes Crashing Down",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 26,
+      "episodeNumber": 5,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -623,10 +677,12 @@
     },
     {
       "title": "Crossroads",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 27,
+      "episodeNumber": 6,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -646,10 +702,12 @@
     },
     {
       "title": "The Power Given",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 28,
+      "episodeNumber": 7,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -669,10 +727,12 @@
     },
     {
       "title": "Demon King of Descending Darkness",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 29,
+      "episodeNumber": 8,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -692,10 +752,12 @@
     },
     {
       "title": "Tengu City, Five Years Ago",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 30,
+      "episodeNumber": 9,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -715,10 +777,12 @@
     },
     {
       "title": "Another World, Another Girl",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 31,
+      "episodeNumber": 10,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -738,10 +802,12 @@
     },
     {
       "title": "Angel of the Starry Night",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 32,
+      "episodeNumber": 11,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -761,10 +827,12 @@
     },
     {
       "title": "Make Shido Itsuka Swoon",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 33,
+      "episodeNumber": 12,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -784,10 +852,12 @@
     },
     {
       "title": "Don't Panic. It's a Spirit's Trap.",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 34,
+      "episodeNumber": 1,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -807,10 +877,12 @@
     },
     {
       "title": "All right, then it's two-dimensional",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 35,
+      "episodeNumber": 2,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -830,10 +902,12 @@
     },
     {
       "title": "What's Yours Is Mine",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 36,
+      "episodeNumber": 3,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -853,10 +927,12 @@
     },
     {
       "title": "Space Spirit",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 37,
+      "episodeNumber": 4,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -876,10 +952,12 @@
     },
     {
       "title": "Fairy Tale",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 38,
+      "episodeNumber": 5,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -899,10 +977,12 @@
     },
     {
       "title": "An Opened Heart",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 39,
+      "episodeNumber": 6,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -922,10 +1002,12 @@
     },
     {
       "title": "Locked Memories",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 40,
+      "episodeNumber": 7,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -945,10 +1027,12 @@
     },
     {
       "title": "Key and Sword",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 41,
+      "episodeNumber": 8,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -968,10 +1052,12 @@
     },
     {
       "title": "Nightmare's Seduction",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 42,
+      "episodeNumber": 9,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -991,10 +1077,12 @@
     },
     {
       "title": "Girl Time",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 43,
+      "episodeNumber": 10,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1014,10 +1102,12 @@
     },
     {
       "title": "Past Sins",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 44,
+      "episodeNumber": 11,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1037,10 +1127,12 @@
     },
     {
       "title": "Cycle of Salvation",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 45,
+      "episodeNumber": 12,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",

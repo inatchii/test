@@ -2,10 +2,12 @@
   "episodes": [
     {
       "title": "The End & The Beginning",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 0,
+      "episodeNumber": 1,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -25,10 +27,12 @@
     },
     {
       "title": "Karasuno High School Volleyball Club",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 1,
+      "episodeNumber": 2,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -48,10 +52,12 @@
     },
     {
       "title": "The Formidable Ally",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 2,
+      "episodeNumber": 3,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -71,10 +77,12 @@
     },
     {
       "title": "The View from the Summit",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 3,
+      "episodeNumber": 4,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -94,10 +102,12 @@
     },
     {
       "title": "A Coward's Anxiety",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 4,
+      "episodeNumber": 5,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -117,10 +127,12 @@
     },
     {
       "title": "An Interesting Team",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 5,
+      "episodeNumber": 6,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -140,10 +152,12 @@
     },
     {
       "title": "Versus the Great King",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 6,
+      "episodeNumber": 7,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -163,10 +177,12 @@
     },
     {
       "title": "He Who is Called ''Ace''",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 7,
+      "episodeNumber": 8,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -186,10 +202,12 @@
     },
     {
       "title": "A Toss to the Ace",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 8,
+      "episodeNumber": 9,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -209,10 +227,12 @@
     },
     {
       "title": "Yearning",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 9,
+      "episodeNumber": 10,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -232,10 +252,12 @@
     },
     {
       "title": "Decision",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 10,
+      "episodeNumber": 11,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -255,10 +277,12 @@
     },
     {
       "title": "The Neko-Karasu Reunion",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 11,
+      "episodeNumber": 12,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -278,10 +302,12 @@
     },
     {
       "title": "Rival",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 12,
+      "episodeNumber": 13,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -301,10 +327,12 @@
     },
     {
       "title": "Formidable Opponents",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 13,
+      "episodeNumber": 14,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 14. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -324,10 +352,12 @@
     },
     {
       "title": "Revival",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 14,
+      "episodeNumber": 15,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 15. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -347,10 +377,12 @@
     },
     {
       "title": "Winners and Losers",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 15,
+      "episodeNumber": 16,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 16. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -370,10 +402,12 @@
     },
     {
       "title": "The Iron Wall",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 16,
+      "episodeNumber": 17,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 17. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -393,10 +427,12 @@
     },
     {
       "title": "Guarding Your Back",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 17,
+      "episodeNumber": 18,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 18. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -416,10 +452,12 @@
     },
     {
       "title": "Conductors",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 18,
+      "episodeNumber": 19,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 19. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -439,10 +477,12 @@
     },
     {
       "title": "Oikawa Toru Is Not a Genius",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 19,
+      "episodeNumber": 20,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 20. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -462,10 +502,12 @@
     },
     {
       "title": "Senpai's True Abilities",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 20,
+      "episodeNumber": 21,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 21. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -485,10 +527,12 @@
     },
     {
       "title": "Evolution",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 21,
+      "episodeNumber": 22,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 22. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -508,10 +552,12 @@
     },
     {
       "title": "The Point that Changes the Momentum",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 22,
+      "episodeNumber": 23,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 23. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -531,10 +577,12 @@
     },
     {
       "title": "Removing The Solitary King",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 23,
+      "episodeNumber": 24,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 24. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -554,10 +602,12 @@
     },
     {
       "title": "The Third Day",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 24,
+      "episodeNumber": 25,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 25. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -577,10 +627,12 @@
     },
     {
       "title": "Let's Go To Tokyo!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 25,
+      "episodeNumber": 1,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -600,10 +652,12 @@
     },
     {
       "title": "Direct Sunlight",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 26,
+      "episodeNumber": 2,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -623,10 +677,12 @@
     },
     {
       "title": "Townsperson B",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 27,
+      "episodeNumber": 3,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -646,10 +702,12 @@
     },
     {
       "title": "Center Ace",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 28,
+      "episodeNumber": 4,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -669,10 +727,12 @@
     },
     {
       "title": "Greed",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 29,
+      "episodeNumber": 5,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -692,10 +752,12 @@
     },
     {
       "title": "Tempo",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 30,
+      "episodeNumber": 6,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -715,10 +777,12 @@
     },
     {
       "title": "Moonrise",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 31,
+      "episodeNumber": 7,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -738,10 +802,12 @@
     },
     {
       "title": "Illusionary Hero",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 32,
+      "episodeNumber": 8,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -761,10 +827,12 @@
     },
     {
       "title": "VS 'Umbrella'",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 33,
+      "episodeNumber": 9,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -784,10 +852,12 @@
     },
     {
       "title": "Cogs",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 34,
+      "episodeNumber": 10,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -807,10 +877,12 @@
     },
     {
       "title": "Above",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 35,
+      "episodeNumber": 11,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -830,10 +902,12 @@
     },
     {
       "title": "Let the Games Begin!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 36,
+      "episodeNumber": 12,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -853,10 +927,12 @@
     },
     {
       "title": "A Simple and Pure Strength",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 37,
+      "episodeNumber": 13,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -876,10 +952,12 @@
     },
     {
       "title": "Still Growing",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 38,
+      "episodeNumber": 14,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 14. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -899,10 +977,12 @@
     },
     {
       "title": "Place to Play",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 39,
+      "episodeNumber": 15,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 15. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -922,10 +1002,12 @@
     },
     {
       "title": "Next",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 40,
+      "episodeNumber": 16,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 16. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -945,10 +1027,12 @@
     },
     {
       "title": "The Battle Without Will Power",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 41,
+      "episodeNumber": 17,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 17. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -968,10 +1052,12 @@
     },
     {
       "title": "The Losers",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 42,
+      "episodeNumber": 18,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 18. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -991,10 +1077,12 @@
     },
     {
       "title": "The Iron Wall Can Be Rebuilt Again and Again",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 43,
+      "episodeNumber": 19,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 19. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1014,10 +1102,12 @@
     },
     {
       "title": "Wiping Out",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 44,
+      "episodeNumber": 20,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 20. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1037,10 +1127,12 @@
     },
     {
       "title": "The Destroyer",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 45,
+      "episodeNumber": 21,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 21. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1060,10 +1152,12 @@
     },
     {
       "title": "The Former Coward's Fight",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 46,
+      "episodeNumber": 22,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 22. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1083,10 +1177,12 @@
     },
     {
       "title": "Team",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 47,
+      "episodeNumber": 23,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 23. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1106,10 +1202,12 @@
     },
     {
       "title": "The Absolute Limit Switch",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 48,
+      "episodeNumber": 24,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 24. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1129,10 +1227,12 @@
     },
     {
       "title": "Declaration of War",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 49,
+      "episodeNumber": 25,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 25. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1152,10 +1252,12 @@
     },
     {
       "title": "Greetings",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 50,
+      "episodeNumber": 1,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1175,10 +1277,12 @@
     },
     {
       "title": "The Threat of the Left",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 51,
+      "episodeNumber": 2,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1198,10 +1302,12 @@
     },
     {
       "title": "Guess-Monster",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 52,
+      "episodeNumber": 3,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1221,10 +1327,12 @@
     },
     {
       "title": "The Halo Around the Moon",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 53,
+      "episodeNumber": 4,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1244,10 +1352,12 @@
     },
     {
       "title": "Individual vs. Numbers",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 54,
+      "episodeNumber": 5,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1267,10 +1377,12 @@
     },
     {
       "title": "The Chemical Change of Encounters",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 55,
+      "episodeNumber": 6,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1290,10 +1402,12 @@
     },
     {
       "title": "Obsession",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 56,
+      "episodeNumber": 7,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1313,10 +1427,12 @@
     },
     {
       "title": "An Annoying Guy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 57,
+      "episodeNumber": 8,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1336,10 +1452,12 @@
     },
     {
       "title": "The Volleyball Idiots",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 58,
+      "episodeNumber": 9,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1359,10 +1477,12 @@
     },
     {
       "title": "The Battle of Concepts",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 59,
+      "episodeNumber": 10,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1382,10 +1502,12 @@
     },
     {
       "title": "Introductions",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 60,
+      "episodeNumber": 1,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1405,10 +1527,12 @@
     },
     {
       "title": "Lost",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 61,
+      "episodeNumber": 2,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1428,10 +1552,12 @@
     },
     {
       "title": "Perspective",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 62,
+      "episodeNumber": 3,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1451,10 +1577,12 @@
     },
     {
       "title": "Take it Easy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 63,
+      "episodeNumber": 4,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1474,10 +1602,12 @@
     },
     {
       "title": "Hunger",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 64,
+      "episodeNumber": 5,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1497,10 +1627,12 @@
     },
     {
       "title": "Enhancements",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 65,
+      "episodeNumber": 6,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1520,10 +1652,12 @@
     },
     {
       "title": "Return",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 66,
+      "episodeNumber": 7,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1543,10 +1677,12 @@
     },
     {
       "title": "Challenger",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 67,
+      "episodeNumber": 8,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1566,10 +1702,12 @@
     },
     {
       "title": "Everyone's Night",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 68,
+      "episodeNumber": 9,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1589,10 +1727,12 @@
     },
     {
       "title": "Battle Lines",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 69,
+      "episodeNumber": 10,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1612,10 +1752,12 @@
     },
     {
       "title": "A Chance To Connect",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 70,
+      "episodeNumber": 11,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1635,10 +1777,12 @@
     },
     {
       "title": "Vivid",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 71,
+      "episodeNumber": 12,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1658,10 +1802,12 @@
     },
     {
       "title": "The Second Day",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 72,
+      "episodeNumber": 13,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1681,10 +1827,12 @@
     },
     {
       "title": "Rhythm",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 73,
+      "episodeNumber": 1,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1704,10 +1852,12 @@
     },
     {
       "title": "Found",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 74,
+      "episodeNumber": 2,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1727,10 +1877,12 @@
     },
     {
       "title": "Broken Heart",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 75,
+      "episodeNumber": 3,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1750,10 +1902,12 @@
     },
     {
       "title": "Cats vs. Monkeys",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 76,
+      "episodeNumber": 4,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1773,10 +1927,12 @@
     },
     {
       "title": "Trap",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 77,
+      "episodeNumber": 5,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1796,10 +1952,12 @@
     },
     {
       "title": "The Ultimate Challengers",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 78,
+      "episodeNumber": 6,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1819,10 +1977,12 @@
     },
     {
       "title": "Leader",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 79,
+      "episodeNumber": 7,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1842,10 +2002,12 @@
     },
     {
       "title": "Hero",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 80,
+      "episodeNumber": 8,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1865,10 +2027,12 @@
     },
     {
       "title": "Pitons",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 81,
+      "episodeNumber": 9,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1888,10 +2052,12 @@
     },
     {
       "title": "The Birth of the Serene King",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 82,
+      "episodeNumber": 10,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1911,10 +2077,12 @@
     },
     {
       "title": "Monsters' Ball",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 83,
+      "episodeNumber": 11,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1934,10 +2102,12 @@
     },
     {
       "title": "The Promised Land",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 84,
+      "episodeNumber": 12,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",

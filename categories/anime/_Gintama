@@ -2,10 +2,12 @@
   "episodes": [
     {
       "title": "You Guys!! Do You Even Have a Gintama?! (1)",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 0,
+      "episodeNumber": 1,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -21,10 +23,12 @@
     },
     {
       "title": "You Guys!! Do You Even Have a Gintama?! (2)",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 1,
+      "episodeNumber": 2,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -40,10 +44,12 @@
     },
     {
       "title": "Nobody with Naturally Wavy Hair Can be That Bad!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 2,
+      "episodeNumber": 3,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -59,10 +65,12 @@
     },
     {
       "title": "Watch Out! Weekly Shonen JUMP Sometimes Comes Out on Saturdays!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 3,
+      "episodeNumber": 4,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -78,10 +86,12 @@
     },
     {
       "title": "Make Friends You Can Call by Their Nicknames, Even When You're an Old Fart!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 4,
+      "episodeNumber": 5,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -97,10 +107,12 @@
     },
     {
       "title": "Keep Your Promise Even If It Kills You",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 5,
+      "episodeNumber": 6,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -116,10 +128,12 @@
     },
     {
       "title": "Responsible Owners Should Clean Up After Their Pets!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 6,
+      "episodeNumber": 7,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -135,10 +149,12 @@
     },
     {
       "title": "There Is Butt a Fine Line Between Persistence and Stubbornness",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 7,
+      "episodeNumber": 8,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -154,10 +170,12 @@
     },
     {
       "title": "Fighting Should Be Done With Fists!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 8,
+      "episodeNumber": 9,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -173,10 +191,12 @@
     },
     {
       "title": "Eat Something Sour When You're Tired!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 9,
+      "episodeNumber": 10,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -192,10 +212,12 @@
     },
     {
       "title": "Look, Overly Sticky Sweet Dumplings Are Not Real Dumplings, You Idiot!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 10,
+      "episodeNumber": 11,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -211,10 +233,12 @@
     },
     {
       "title": "People Who Make Good First Impressions Usually Suck!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 11,
+      "episodeNumber": 12,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -230,10 +254,12 @@
     },
     {
       "title": "If You're Going to Cosplay, Go All Out!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 12,
+      "episodeNumber": 13,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -249,10 +275,12 @@
     },
     {
       "title": "Boys Have a Weird Ritual that Makes Them Think They Turn Into Men When They Touch Frogs! / You Only Gotta Wash Under Your Armpits - Just the Armpits",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 13,
+      "episodeNumber": 14,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 14. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -268,10 +296,12 @@
     },
     {
       "title": "Pets Resemble Their Owners!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 14,
+      "episodeNumber": 15,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 15. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -287,10 +317,12 @@
     },
     {
       "title": "If You Stop and Think About It, Your Life’s a Lot Longer as an Old Guy Than a Kid! Whoa, Scary!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 15,
+      "episodeNumber": 16,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 16. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -305,49 +337,13 @@
       ]
     },
     {
-      "title": "Sons Only Take After Their Fathers' Negative Attributes",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
-      "optionalSeasonText": "1. Sezon 17. Bölüm",
-      "autoQuality": false,
-      "sourceURL": [
-        {
-          "first": "480p",
-          "second": "https://hydra.nute-gunray.gq/gintama/1/17/480.mp4"
-        }
-      ],
-      "sourceAuth": [
-        {
-          "first": "Referer",
-          "second": "https://diziwatch.net"
-        }
-      ]
-    },
-    {
-      "title": "Oh Yeah! Our Crib is Number One!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
-      "optionalSeasonText": "1. Sezon 18. Bölüm",
-      "autoQuality": false,
-      "sourceURL": [
-        {
-          "first": "480p",
-          "second": "https://hydra.tanjiro-kamado.cf/gintama/1/18/480.mp4"
-        }
-      ],
-      "sourceAuth": [
-        {
-          "first": "Referer",
-          "second": "https://diziwatch.net"
-        }
-      ]
-    },
-    {
       "title": "Why is the Sea So Salty? Because You City Folk Pee Whenever You Go Swimming!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 18,
+      "episodeNumber": 19,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 19. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -363,10 +359,12 @@
     },
     {
       "title": "Watch Out For Conveyor Belts!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 19,
+      "episodeNumber": 20,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 20. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -381,11 +379,55 @@
       ]
     },
     {
+      "title": "Sons Only Take After Their Fathers' Negative Attributes",
+      "episodeID": 16,
+      "episodeNumber": 17,
+      "seasonNumber": 1,
+      "optionalSeasonText": "1. Sezon 17. Bölüm",
+      "autoQuality": false,
+      "sourceType": 0,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.nute-gunray.gq/gintama/1/17/480.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
+      "title": "Oh Yeah! Our Crib is Number One!",
+      "episodeID": 17,
+      "episodeNumber": 18,
+      "seasonNumber": 1,
+      "optionalSeasonText": "1. Sezon 18. Bölüm",
+      "autoQuality": false,
+      "sourceType": 0,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.tanjiro-kamado.cf/gintama/1/18/480.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
       "title": "If You're a Man, Try the Swordfish / If You Go to Sleep With the Fan On, You'll Get a Stomachache, So Be Careful",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 20,
+      "episodeNumber": 21,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 21. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -401,10 +443,12 @@
     },
     {
       "title": "Marriage is Prolonging an Illusion for Your Whole Life",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 21,
+      "episodeNumber": 22,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 22. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -420,10 +464,12 @@
     },
     {
       "title": "When You're In a Fix, Keep On Laughing, Laughing...",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 22,
+      "episodeNumber": 23,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 23. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -439,10 +485,12 @@
     },
     {
       "title": "Cute Faces Are Always Hiding Something",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 23,
+      "episodeNumber": 24,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 24. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -458,10 +506,12 @@
     },
     {
       "title": "A Shared Soup Pot is a Microcosm of Life",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 24,
+      "episodeNumber": 25,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 25. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -477,10 +527,12 @@
     },
     {
       "title": "Don't Be Shy - Just Raise Your Hand and Say It",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 25,
+      "episodeNumber": 26,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 26. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -496,10 +548,12 @@
     },
     {
       "title": "Some Things Can’t Be Cut with a Sword",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 26,
+      "episodeNumber": 27,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 27. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -515,10 +569,12 @@
     },
     {
       "title": "Good Things Never Come in Twos (but Bad Things Do)",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 27,
+      "episodeNumber": 28,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 28. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -534,10 +590,12 @@
     },
     {
       "title": "Don’t Panic – There’s a Return Policy! / I Told You to Pay Attention to the News!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 28,
+      "episodeNumber": 29,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 29. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -553,10 +611,12 @@
     },
     {
       "title": "Even Teen Idols Act Like You Guys",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 29,
+      "episodeNumber": 30,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 30. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -572,10 +632,12 @@
     },
     {
       "title": "You Always Remember the Things that Matter the Least",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 30,
+      "episodeNumber": 31,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 31. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -591,10 +653,12 @@
     },
     {
       "title": "Life Moves on Like a Conveyor Belt",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 31,
+      "episodeNumber": 32,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 32. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -610,10 +674,12 @@
     },
     {
       "title": "Mistaking Someone’s Name is Rude!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 32,
+      "episodeNumber": 33,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 33. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -629,10 +695,12 @@
     },
     {
       "title": "Love Doesn’t Require a Manual (1)",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 33,
+      "episodeNumber": 34,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 34. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -648,10 +716,12 @@
     },
     {
       "title": "Love Doesn’t Require a Manual (2) / You Can't Judge a Person by His Appearance, Either",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 34,
+      "episodeNumber": 35,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 35. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -667,10 +737,12 @@
     },
     {
       "title": "People with Dark Pasts Can't Shut Up",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 35,
+      "episodeNumber": 36,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 36. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -686,10 +758,12 @@
     },
     {
       "title": "People Who Say that Santa Doesn’t Really Exist Actually Want to Believe in Him / Prayer Won't Make Your Worldly Desires Go Away! Control Yourself",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 36,
+      "episodeNumber": 37,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 37. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -705,10 +779,12 @@
     },
     {
       "title": "Only Children Play in the Snow / Eating Ice Cream In Winter Is Awesome",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 37,
+      "episodeNumber": 38,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 38. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -724,10 +800,12 @@
     },
     {
       "title": "Ramen Shops with Long Menus Never Do Well",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 38,
+      "episodeNumber": 39,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 39. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -743,10 +821,12 @@
     },
     {
       "title": "Give a Thought to Planned Pregnancy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 39,
+      "episodeNumber": 40,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 40. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -762,10 +842,12 @@
     },
     {
       "title": "You Can't Judge a Movie by Its Title",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 40,
+      "episodeNumber": 41,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 41. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -781,10 +863,12 @@
     },
     {
       "title": "You Know What Happens if You Pee on a Worm",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 41,
+      "episodeNumber": 42,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 42. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -800,10 +884,12 @@
     },
     {
       "title": "Make Characters So Anybody Can Tell Who They Are by Just Their Silhouettes",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 42,
+      "episodeNumber": 43,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 43. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -819,10 +905,12 @@
     },
     {
       "title": "Mom’s Busy, Too, So Quit Complaining About What’s for Dinner",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 43,
+      "episodeNumber": 44,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 44. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -838,10 +926,12 @@
     },
     {
       "title": "Walk Your Dog at an Appropriate Speed",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 44,
+      "episodeNumber": 45,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 45. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -857,10 +947,12 @@
     },
     {
       "title": "Adults Only. We Wouldn’t Want Anyone Immature in Here",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 45,
+      "episodeNumber": 46,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 46. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -876,10 +968,12 @@
     },
     {
       "title": "Do Cherries Come from Cherry Trees?",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 46,
+      "episodeNumber": 47,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 47. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -895,10 +989,12 @@
     },
     {
       "title": "The More You're Alike, the More You Fight / Whatever You Play, Play to Win",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 47,
+      "episodeNumber": 48,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 48. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -914,10 +1010,12 @@
     },
     {
       "title": "A Life Without Gambling is Like Sushi Without Wasabi",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 48,
+      "episodeNumber": 49,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 49. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -933,10 +1031,12 @@
     },
     {
       "title": "Pending Means Pending, It's Not Final",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 49,
+      "episodeNumber": 50,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 50. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -952,10 +1052,12 @@
     },
     {
       "title": "Milk Should Be Served at Body Temperature",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 50,
+      "episodeNumber": 51,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 51. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -971,10 +1073,12 @@
     },
     {
       "title": "If You Want to See Someone, Make an Appo First",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 51,
+      "episodeNumber": 52,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 52. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -990,10 +1094,12 @@
     },
     {
       "title": "Stress Makes You Bald, but It's Stressful to Avoid Stress, So You End Up Stressed Out Anyway, So in the End There's Nothing You Can Do",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 52,
+      "episodeNumber": 53,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 53. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1008,30 +1114,13 @@
       ]
     },
     {
-      "title": "Mothers Everywhere Are All the Same",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
-      "optionalSeasonText": "1. Sezon 54. Bölüm",
-      "autoQuality": false,
-      "sourceURL": [
-        {
-          "first": "480p",
-          "second": "https://hydra.jinta-hanakari.cf/gintama/1/54/480.mp4"
-        }
-      ],
-      "sourceAuth": [
-        {
-          "first": "Referer",
-          "second": "https://diziwatch.net"
-        }
-      ]
-    },
-    {
       "title": "Don't Make Munching Noises When You Eat",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 54,
+      "episodeNumber": 55,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 55. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1046,11 +1135,34 @@
       ]
     },
     {
+      "title": "Mothers Everywhere Are All the Same",
+      "episodeID": 53,
+      "episodeNumber": 54,
+      "seasonNumber": 1,
+      "optionalSeasonText": "1. Sezon 54. Bölüm",
+      "autoQuality": false,
+      "sourceType": 0,
+      "sourceURL": [
+        {
+          "first": "480p",
+          "second": "https://hydra.jinta-hanakari.cf/gintama/1/54/480.mp4"
+        }
+      ],
+      "sourceAuth": [
+        {
+          "first": "Referer",
+          "second": "https://diziwatch.net"
+        }
+      ]
+    },
+    {
       "title": "Keep an Eye on the Chief for the Day",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 55,
+      "episodeNumber": 56,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 56. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1066,10 +1178,12 @@
     },
     {
       "title": "When Looking For Things You've Lost, Remember What You Were Doing On The Day You Lost It",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 56,
+      "episodeNumber": 57,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 57. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1085,10 +1199,12 @@
     },
     {
       "title": "Croquette Sandwiches Are Always the Most Popular Food Sold at the Stalls",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 57,
+      "episodeNumber": 58,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 58. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1104,10 +1220,12 @@
     },
     {
       "title": "Be Careful Not to Leave Your Umbrella Somewhere",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 58,
+      "episodeNumber": 59,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 59. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1123,10 +1241,12 @@
     },
     {
       "title": "The Sun Will Rise Again",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 59,
+      "episodeNumber": 60,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 60. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1142,10 +1262,12 @@
     },
     {
       "title": "On a Moonless Night, Insects Are Drawn to the Light",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 60,
+      "episodeNumber": 61,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 61. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1161,10 +1283,12 @@
     },
     {
       "title": "Even Mummy Hunters Sometimes Turn into Mummys",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 61,
+      "episodeNumber": 62,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 62. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1180,10 +1304,12 @@
     },
     {
       "title": "The Preview Section in JUMP is Always Unreliable",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 62,
+      "episodeNumber": 63,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 63. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1199,10 +1325,12 @@
     },
     {
       "title": "Eating Nmaibo Can Make You Full in No Time!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 63,
+      "episodeNumber": 64,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 64. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1218,10 +1346,12 @@
     },
     {
       "title": "Rhinoceros Beetles Teach Boys that Life is Precious",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 64,
+      "episodeNumber": 65,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 65. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1237,10 +1367,12 @@
     },
     {
       "title": "Dango Over Flowers",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 65,
+      "episodeNumber": 66,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 66. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1256,10 +1388,12 @@
     },
     {
       "title": "For the Wind Is the Life / The Ideal Girlfriend Is Always Minami",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 66,
+      "episodeNumber": 67,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 67. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1275,10 +1409,12 @@
     },
     {
       "title": "Like a Haunted House, Life is Filled with Horrors",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 67,
+      "episodeNumber": 68,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 68. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1294,10 +1430,12 @@
     },
     {
       "title": "Please Help by Separating Your Trash",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 68,
+      "episodeNumber": 69,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 69. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1313,10 +1451,12 @@
     },
     {
       "title": "Too Many Cuties Can Make You Sick",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 69,
+      "episodeNumber": 70,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 70. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1332,10 +1472,12 @@
     },
     {
       "title": "Some Data Cannot Be Erased",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 70,
+      "episodeNumber": 71,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 71. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1351,10 +1493,12 @@
     },
     {
       "title": "A Dog's Paws Smell Fragrant / Drive With a 'Might' Attitude",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 71,
+      "episodeNumber": 72,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 72. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1370,10 +1514,12 @@
     },
     {
       "title": "Think for a Minute Now, Do Matsutake Mushrooms Really Taste All that Good?",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 72,
+      "episodeNumber": 73,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 73. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1389,10 +1535,12 @@
     },
     {
       "title": "The Manga Writer Becomes a Pro, After Doing a Stock of Manuscripts",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 73,
+      "episodeNumber": 74,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 74. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1408,10 +1556,12 @@
     },
     {
       "title": "Don’t Complain About Your Job at Home, Do It Somewhere Else",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 74,
+      "episodeNumber": 75,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 75. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1427,10 +1577,12 @@
     },
     {
       "title": "In Those Situations, Keep Quiet and Cook Red Rice With Beans",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 75,
+      "episodeNumber": 76,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 76. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1446,10 +1598,12 @@
     },
     {
       "title": "Yesterday’s Enemy, After All Is Said and Done, Is Still the Enemy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 76,
+      "episodeNumber": 77,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 77. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1465,10 +1619,12 @@
     },
     {
       "title": "People Who Are Picky About Food Are Also Picky About People, Too",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 77,
+      "episodeNumber": 78,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 78. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1484,10 +1640,12 @@
     },
     {
       "title": "Four Heads are Better than One",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 78,
+      "episodeNumber": 79,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 79. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1503,10 +1661,12 @@
     },
     {
       "title": "When Someone Who Wears Glasses Takes Them Off, It Looks Like Something’s Missing",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 79,
+      "episodeNumber": 80,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 80. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1522,10 +1682,12 @@
     },
     {
       "title": "A Woman's Best Make-up Is Her Smile",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 80,
+      "episodeNumber": 81,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 81. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1541,10 +1703,12 @@
     },
     {
       "title": "You Say Kawaii so Often, You Must Really Think You’re Cute Stuff",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 81,
+      "episodeNumber": 82,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 82. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1560,10 +1724,12 @@
     },
     {
       "title": "Rank has nothing to do with luck",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 82,
+      "episodeNumber": 83,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 83. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1579,10 +1745,12 @@
     },
     {
       "title": "Hard-boiled Egg on a Man's Heart",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 83,
+      "episodeNumber": 84,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 84. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1598,10 +1766,12 @@
     },
     {
       "title": "Hard-Boiled Eggs Don't Crack",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 84,
+      "episodeNumber": 85,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 85. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1617,10 +1787,12 @@
     },
     {
       "title": "It's Often Difficult to Sleep When You're Engrossed With Counting Sheep",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 85,
+      "episodeNumber": 86,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 86. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1636,10 +1808,12 @@
     },
     {
       "title": "Perform a German Suplex on a Woman Who Asks If She or the Job Is More Important",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 86,
+      "episodeNumber": 87,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 87. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1655,10 +1829,12 @@
     },
     {
       "title": "The Most Exciting Part of a Group Date is Before it Starts",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 87,
+      "episodeNumber": 88,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 88. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1674,10 +1850,12 @@
     },
     {
       "title": "What Happens Twice, Happens Thrice",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 88,
+      "episodeNumber": 89,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 89. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1693,10 +1871,12 @@
     },
     {
       "title": "The More Delicious the Food, the Nastier It Is When It Goes Bad",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 89,
+      "episodeNumber": 90,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 90. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1712,10 +1892,12 @@
     },
     {
       "title": "If You Want To Lose Weight, Then Stop Eating and Start Moving",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 90,
+      "episodeNumber": 91,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 91. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1731,10 +1913,12 @@
     },
     {
       "title": "Be a Person Who Can See People's Strong Points and Not Their Weak Points",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 91,
+      "episodeNumber": 92,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 92. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1750,10 +1934,12 @@
     },
     {
       "title": "Even a hero has issues",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 92,
+      "episodeNumber": 93,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 93. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1769,10 +1955,12 @@
     },
     {
       "title": "When Riding A Train, Make Sure You Grab the Straps With Both Hands",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 93,
+      "episodeNumber": 94,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 94. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1788,10 +1976,12 @@
     },
     {
       "title": "Men, Be a Madao",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 94,
+      "episodeNumber": 95,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 95. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1807,10 +1997,12 @@
     },
     {
       "title": "If You're a Man, Don't Give Up",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 95,
+      "episodeNumber": 96,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 96. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1826,10 +2018,12 @@
     },
     {
       "title": "Exaggerate the Tales of Your Exploits by a Third, So Everyone Has a Good Time / Men Have a Weakness for Girls Who Sell Flowers and Work in Pastry Shops",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 96,
+      "episodeNumber": 97,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 97. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1845,10 +2039,12 @@
     },
     {
       "title": "Play Video Games for Only an Hour a Day",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 97,
+      "episodeNumber": 98,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 98. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1864,10 +2060,12 @@
     },
     {
       "title": "Life and Video Games are Full of Bugs",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 98,
+      "episodeNumber": 99,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 99. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1883,10 +2081,12 @@
     },
     {
       "title": "The More Something Is Disliked, the More Lovely It Is",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 99,
+      "episodeNumber": 100,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 100. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1902,10 +2102,12 @@
     },
     {
       "title": "Rules Are Made to be Broken",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 100,
+      "episodeNumber": 101,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 101. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1921,10 +2123,12 @@
     },
     {
       "title": "Otaku Are Talkative",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 101,
+      "episodeNumber": 102,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 102. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1940,10 +2144,12 @@
     },
     {
       "title": "There's a Thin Line Between Strengths and Weaknesses",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 102,
+      "episodeNumber": 103,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 103. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1959,10 +2165,12 @@
     },
     {
       "title": "Important Things Are Hard To See",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 103,
+      "episodeNumber": 104,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 104. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1978,10 +2186,12 @@
     },
     {
       "title": "It’s All About the Beat and Timing",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 104,
+      "episodeNumber": 105,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 105. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1997,10 +2207,12 @@
     },
     {
       "title": "Love Is Often Played Out In Sudden Death",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 105,
+      "episodeNumber": 106,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 106. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2016,10 +2228,12 @@
     },
     {
       "title": "Kids Don’t Understand How Their Parents Feel",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 106,
+      "episodeNumber": 107,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 107. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2035,10 +2249,12 @@
     },
     {
       "title": "Some Things Are Better Left Unsaid",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 107,
+      "episodeNumber": 108,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 108. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2054,10 +2270,12 @@
     },
     {
       "title": "Life is a test",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 108,
+      "episodeNumber": 109,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 109. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2073,10 +2291,12 @@
     },
     {
       "title": "People Are All Escapees of Their Own Inner Prisons",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 109,
+      "episodeNumber": 110,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 110. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2092,10 +2312,12 @@
     },
     {
       "title": "Definitely Do Not Let Your Girlfriend See the Things You Use for Cross-Dressing / There's Almost a 100% Chance You’ll Forget Your Umbrella and Hate Yourself For It",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 110,
+      "episodeNumber": 111,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 111. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2111,10 +2333,12 @@
     },
     {
       "title": "A Birthday in Your Twenties Has No Deep Meaning / Lucky Is a Man Who Gets Up and Goes to Work",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 111,
+      "episodeNumber": 112,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 112. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2130,10 +2354,12 @@
     },
     {
       "title": "Cleaning the Toilet Cleanses the Soul",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 112,
+      "episodeNumber": 113,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 113. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2149,10 +2375,12 @@
     },
     {
       "title": "They Say Soy Sauce On Pudding Tastes Like Sea Urchin, But Soy Sauce On Pudding Only Tastes Like Pudding and Soy Sauce",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 113,
+      "episodeNumber": 114,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 114. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2168,10 +2396,12 @@
     },
     {
       "title": "Summer Vacation is the Most Fun Right Before It Begins",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 114,
+      "episodeNumber": 115,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 115. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2187,10 +2417,12 @@
     },
     {
       "title": "The older, the wiser",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 115,
+      "episodeNumber": 116,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 116. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2206,10 +2438,12 @@
     },
     {
       "title": "Beauty is like a summer fruit",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 116,
+      "episodeNumber": 117,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 117. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2225,10 +2459,12 @@
     },
     {
       "title": "Even if Your Back is Bent, Go Straight Forward",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 117,
+      "episodeNumber": 118,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 118. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2244,10 +2480,12 @@
     },
     {
       "title": "Within Each Box of Cigarettes, Are One or Two Cigarettes That Smell Like Horse Dung",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 118,
+      "episodeNumber": 119,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 119. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2263,10 +2501,12 @@
     },
     {
       "title": "Japanese Restaurants Abroad Taste Pretty Much Like School Cafeteria Lunches / Once You've Taken a Dish, You Can't Put It Back",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 119,
+      "episodeNumber": 120,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 120. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2282,10 +2522,12 @@
     },
     {
       "title": "Novices Only Need a Flathead and a Phillips",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 120,
+      "episodeNumber": 121,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 121. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2301,10 +2543,12 @@
     },
     {
       "title": "Imagination Is Nurtured In the 8th Grade",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 121,
+      "episodeNumber": 122,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 122. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2320,10 +2564,12 @@
     },
     {
       "title": "Always Keep a Screwdriver In Your Heart",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 122,
+      "episodeNumber": 123,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 123. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2339,10 +2585,12 @@
     },
     {
       "title": "When Nagging Goes Too Far It Becomes Intimidating",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 123,
+      "episodeNumber": 124,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 124. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2358,10 +2606,12 @@
     },
     {
       "title": "Entering the Final Chapter!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 124,
+      "episodeNumber": 125,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 125. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2377,10 +2627,12 @@
     },
     {
       "title": "Some Things Can Only Be Conveyed Through the Written Word",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 125,
+      "episodeNumber": 126,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 126. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2396,10 +2648,12 @@
     },
     {
       "title": "Sometimes You Must Meet to Understand",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 126,
+      "episodeNumber": 127,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 127. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2415,10 +2669,12 @@
     },
     {
       "title": "Sometimes You Can’t Tell Just By Meeting Someone",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 127,
+      "episodeNumber": 128,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 128. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2434,10 +2690,12 @@
     },
     {
       "title": "Beware of Food You Pick Up Off the Ground",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 128,
+      "episodeNumber": 129,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 129. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2453,10 +2711,12 @@
     },
     {
       "title": "Cat Lovers and Dog Lovers Are Mutually Exclusive",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 129,
+      "episodeNumber": 130,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 130. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2472,10 +2732,12 @@
     },
     {
       "title": "Fights Often Ensue During Trips",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 130,
+      "episodeNumber": 131,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 131. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2491,10 +2753,12 @@
     },
     {
       "title": "Briefs Will Unavoidably Get Skidmarks",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 131,
+      "episodeNumber": 132,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 132. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2510,10 +2774,12 @@
     },
     {
       "title": "Gin and His Excellency's Good-for-Nothings",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 132,
+      "episodeNumber": 133,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 133. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2529,10 +2795,12 @@
     },
     {
       "title": "Be Very Careful When Using Ghost Stories",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 133,
+      "episodeNumber": 134,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 134. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2548,10 +2816,12 @@
     },
     {
       "title": "Before Thinking About the Earth, Think About the More Endangered Gintaman’s Future!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 134,
+      "episodeNumber": 135,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 135. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2567,10 +2837,12 @@
     },
     {
       "title": "It's your house, you build it",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 135,
+      "episodeNumber": 136,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 136. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2586,10 +2858,12 @@
     },
     {
       "title": "99% Of Men Are Not Confident In Confessing Their Love",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 136,
+      "episodeNumber": 137,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 137. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2605,10 +2879,12 @@
     },
     {
       "title": "Let's Talk About the Old Days Once in a While",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 137,
+      "episodeNumber": 138,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 138. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2624,10 +2900,12 @@
     },
     {
       "title": "Don't Put Your Wallet In Your Back Pocket",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 138,
+      "episodeNumber": 139,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 139. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2643,10 +2921,12 @@
     },
     {
       "title": "Beware of Those Who Use an Umbrella on a Sunny Day!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 139,
+      "episodeNumber": 140,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 140. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2662,10 +2942,12 @@
     },
     {
       "title": "Butting Into a Fight is Dangerous",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 140,
+      "episodeNumber": 141,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 141. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2681,10 +2963,12 @@
     },
     {
       "title": "Life is about making consecutive decisions",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 141,
+      "episodeNumber": 142,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 142. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2700,10 +2984,12 @@
     },
     {
       "title": "Those Who Stand On Four Legs Are Beasts. Those Who Stand on Two Legs, Guts, and Glory, Are Men",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 142,
+      "episodeNumber": 143,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 143. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2719,10 +3005,12 @@
     },
     {
       "title": "Don’t Trust Bedtime Stories",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 143,
+      "episodeNumber": 144,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 144. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2738,10 +3026,12 @@
     },
     {
       "title": "The Color for Each Person’s Bond Comes in Various Colors",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 144,
+      "episodeNumber": 145,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 145. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2757,10 +3047,12 @@
     },
     {
       "title": "The taste of drinking under broad daylight is something special",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 145,
+      "episodeNumber": 146,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 146. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2776,10 +3068,12 @@
     },
     {
       "title": "All Adults are Instructors for All Children",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 146,
+      "episodeNumber": 147,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 147. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2795,10 +3089,12 @@
     },
     {
       "title": "Zip Up Your Fly Nice and Slowly",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 147,
+      "episodeNumber": 148,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 148. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2814,10 +3110,12 @@
     },
     {
       "title": "When breaking a Chuubert in half, the end with the knob should be better. It's also tasty to drink from there",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 148,
+      "episodeNumber": 149,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 149. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2833,10 +3131,12 @@
     },
     {
       "title": "If You Can’t Beat Them, Join Them",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 149,
+      "episodeNumber": 150,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 150. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2852,10 +3152,12 @@
     },
     {
       "title": "A Conversation With a Barber During a Haircut is The Most Pointless Thing in The World",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 150,
+      "episodeNumber": 151,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 151. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2871,10 +3173,12 @@
     },
     {
       "title": "The Heavens Created Chonmage Above Man Instead of Another Man",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 151,
+      "episodeNumber": 152,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 152. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2890,10 +3194,12 @@
     },
     {
       "title": "Sleep Helps a Child Grow",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 152,
+      "episodeNumber": 153,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 153. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2909,10 +3215,12 @@
     },
     {
       "title": "That person looks different from usual during a birthday party",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 153,
+      "episodeNumber": 154,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 154. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2928,10 +3236,12 @@
     },
     {
       "title": "The other side of the other side of the other side would be the other side",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 154,
+      "episodeNumber": 155,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 155. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2947,10 +3257,12 @@
     },
     {
       "title": "It Takes a Bit of Courage to Enter a Street Vendor's Stand",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 155,
+      "episodeNumber": 156,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 156. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2966,10 +3278,12 @@
     },
     {
       "title": "Any Place Can Become a Battlefield When Men Gather",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 156,
+      "episodeNumber": 157,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 157. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2985,10 +3299,12 @@
     },
     {
       "title": "If a Friend Gets Injured, Take Him to the Hospital, Stat!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 157,
+      "episodeNumber": 158,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 158. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3004,10 +3320,12 @@
     },
     {
       "title": "If one orange in the box is rotten, the rest of them will become rotten before you realize it!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 158,
+      "episodeNumber": 159,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 159. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3023,10 +3341,12 @@
     },
     {
       "title": "From a foreigner's perspective, you're the foreigner. From an alien's perspective, you're the alien",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 159,
+      "episodeNumber": 160,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 160. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3042,10 +3362,12 @@
     },
     {
       "title": "Laputa's still good after seeing it so many times",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 160,
+      "episodeNumber": 161,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 161. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3061,10 +3383,12 @@
     },
     {
       "title": "Love Is Unconditional",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 161,
+      "episodeNumber": 162,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 162. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3080,10 +3404,12 @@
     },
     {
       "title": "The Black Ships Even Make A Scene When They Sink",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 162,
+      "episodeNumber": 163,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 163. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3099,10 +3425,12 @@
     },
     {
       "title": "That Matsutake Soup Stuff Tastes Better than the Real Deal / If a Person Is Dead, They Can't Come Back to Life",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 163,
+      "episodeNumber": 164,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 164. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3118,10 +3446,12 @@
     },
     {
       "title": "If It Works Once, It'll Work Over And Over Again",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 164,
+      "episodeNumber": 165,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 165. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3137,10 +3467,12 @@
     },
     {
       "title": "Two Is Better Than One. Two People Are Better Than One",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 165,
+      "episodeNumber": 166,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 166. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3156,10 +3488,12 @@
     },
     {
       "title": "Smooth Polygons Smooth Men's Hearts Too",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 166,
+      "episodeNumber": 167,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 167. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3175,10 +3509,12 @@
     },
     {
       "title": "A Human Body Is Like a Little Universe",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 167,
+      "episodeNumber": 168,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 168. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3194,10 +3530,12 @@
     },
     {
       "title": "The Chosen Idiots",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 168,
+      "episodeNumber": 169,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 169. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3213,10 +3551,12 @@
     },
     {
       "title": "And into the Legend...",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 169,
+      "episodeNumber": 170,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 170. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3232,10 +3572,12 @@
     },
     {
       "title": "If You Keep Copying, They Will Retaliate / A Loss Opens Your Eyes to the Love You Have",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 170,
+      "episodeNumber": 171,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 171. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3251,10 +3593,12 @@
     },
     {
       "title": "Using the Carrot and the Stick Method Depends on the Situation",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 171,
+      "episodeNumber": 172,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 172. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3270,10 +3614,12 @@
     },
     {
       "title": "It's What's On The Inside That Counts / It's What's On The Inside That Counts, But Only To A Certain Extent",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 172,
+      "episodeNumber": 173,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 173. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3289,10 +3635,12 @@
     },
     {
       "title": "Are There Still People Who Go to the Ocean and Yell 'Bakayaro!'? / When a Person Is Trapped, Their Inner Door Opens",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 173,
+      "episodeNumber": 174,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 174. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3308,10 +3656,12 @@
     },
     {
       "title": "No Matter How Old You Get, You Still Hate the Dentist",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 174,
+      "episodeNumber": 175,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 175. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3327,10 +3677,12 @@
     },
     {
       "title": "Countdown Begins",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 175,
+      "episodeNumber": 176,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 176. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3346,10 +3698,12 @@
     },
     {
       "title": "It's Bad Luck to See a Spider at Night",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 176,
+      "episodeNumber": 177,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 177. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3365,10 +3719,12 @@
     },
     {
       "title": "Once You’re Entangled in a Spiderweb, It’s Hard to Get It Off",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 177,
+      "episodeNumber": 178,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 178. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3384,10 +3740,12 @@
     },
     {
       "title": "It's the Irresponsible One Who's Scary When Pissed",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 178,
+      "episodeNumber": 179,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 179. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3403,10 +3761,12 @@
     },
     {
       "title": "The More Precious the Burden, The Heavier and More Difficult it is to Shoulder",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 179,
+      "episodeNumber": 180,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 180. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3422,10 +3782,12 @@
     },
     {
       "title": "Watch Out For A Set of Women and A Drink",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 180,
+      "episodeNumber": 181,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 181. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3441,10 +3803,12 @@
     },
     {
       "title": "Screw Popularity Votes",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 181,
+      "episodeNumber": 182,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 182. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3460,10 +3824,12 @@
     },
     {
       "title": "Popularity Polls Can Burn in Hell",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 182,
+      "episodeNumber": 183,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 183. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3479,10 +3845,12 @@
     },
     {
       "title": "Popularity Polls Can...",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 183,
+      "episodeNumber": 184,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 184. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3498,10 +3866,12 @@
     },
     {
       "title": "Hometowns and Boobs Are Best Thought of from Afar / The Whole Peeing on a Bee Sting Is a Myth. You’ll Get Germs, So Don’t Do It!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 184,
+      "episodeNumber": 185,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 185. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3517,10 +3887,12 @@
     },
     {
       "title": "Beware of Foreshadows",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 185,
+      "episodeNumber": 186,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 186. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3536,10 +3908,12 @@
     },
     {
       "title": "It’s Goodbye Once a Flag Is Set",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 186,
+      "episodeNumber": 187,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 187. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3555,10 +3929,12 @@
     },
     {
       "title": "An Observation Journal Should Be Seen Through To The Very End",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 187,
+      "episodeNumber": 188,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 188. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3574,10 +3950,12 @@
     },
     {
       "title": "We Know It’s Best to Finish Yearly Tasks Before the End of the Year, But then You Put It Off Till Next Year for a Fresh Start. That’s How the End of the Year Goes / Radio Exercises are Socials for Boys and Girls",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 188,
+      "episodeNumber": 189,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 189. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3593,10 +3971,12 @@
     },
     {
       "title": "When Looking For Something, Try Using its Perspective",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 189,
+      "episodeNumber": 190,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 190. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3612,10 +3992,12 @@
     },
     {
       "title": "Freedom Means to Live True to Yourself, not Without Law!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 190,
+      "episodeNumber": 191,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 191. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3631,10 +4013,12 @@
     },
     {
       "title": "Kabukicho Stray Cat Blues",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 191,
+      "episodeNumber": 192,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 192. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3650,10 +4034,12 @@
     },
     {
       "title": "Cooking is About Guts",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 192,
+      "episodeNumber": 193,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 193. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3669,10 +4055,12 @@
     },
     {
       "title": "Whenever I Hear Leviathan, I Think of Sazae-san. Stupid Me!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 193,
+      "episodeNumber": 194,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 194. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3688,10 +4076,12 @@
     },
     {
       "title": "Not Losing to the Rain",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 194,
+      "episodeNumber": 195,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 195. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3707,10 +4097,12 @@
     },
     {
       "title": "Not Losing to the Wind",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 195,
+      "episodeNumber": 196,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 196. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3726,10 +4118,12 @@
     },
     {
       "title": "Not Losing to the Storm",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 196,
+      "episodeNumber": 197,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 197. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3745,10 +4139,12 @@
     },
     {
       "title": "Never Losing that Smile",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 197,
+      "episodeNumber": 198,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 198. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3764,10 +4160,12 @@
     },
     {
       "title": "That’s How I Wish to Be, Beautiful and Strong",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 198,
+      "episodeNumber": 199,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 199. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3783,10 +4181,12 @@
     },
     {
       "title": "Santa Claus Red Is Blood Red",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 199,
+      "episodeNumber": 200,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 200. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3802,10 +4202,12 @@
     },
     {
       "title": "Everybody's a Santa!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 200,
+      "episodeNumber": 201,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 201. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3821,10 +4223,12 @@
     },
     {
       "title": "Everyone Looks a Little Grown Up After Spring Break",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 201,
+      "episodeNumber": 1,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3844,10 +4248,12 @@
     },
     {
       "title": "Everyone Looks Pretty Grown Up After Summer Break",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 202,
+      "episodeNumber": 2,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3867,10 +4273,12 @@
     },
     {
       "title": "Use a Calligraphy Pen for New Year Cards / The Heart Comes Before Chocolate",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 203,
+      "episodeNumber": 3,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3890,10 +4298,12 @@
     },
     {
       "title": "Meals Should Be Balanced / We Are All Warriors in the Battle Against Fate",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 204,
+      "episodeNumber": 4,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3913,10 +4323,12 @@
     },
     {
       "title": "It's Too Confusing When Talking About the Poster Girl for a Poster Store, So Call Her a Sandwich Board",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 205,
+      "episodeNumber": 5,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3936,10 +4348,12 @@
     },
     {
       "title": "Glasses Are Part of the Soul",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 206,
+      "episodeNumber": 6,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3959,10 +4373,12 @@
     },
     {
       "title": "Glasses Prevent You From Seeing Certain Things",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 207,
+      "episodeNumber": 7,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3982,10 +4398,12 @@
     },
     {
       "title": "Nothing Lasts Forever, Including Parents, Money, Youth, Your Room, Dress Shirts, Me, You and the Gintama Anime",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 208,
+      "episodeNumber": 8,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4005,10 +4423,12 @@
     },
     {
       "title": "A Lawless Town Tend To Attract a Bunch of Whoohooey Folk",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 209,
+      "episodeNumber": 9,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4028,10 +4448,12 @@
     },
     {
       "title": "Ghosts Aren't The Only Ones Who Run Wild Around Graveyards",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 210,
+      "episodeNumber": 10,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4051,10 +4473,12 @@
     },
     {
       "title": "Chains Of a Warrior",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 211,
+      "episodeNumber": 11,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4074,10 +4498,12 @@
     },
     {
       "title": "Iron Town",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 212,
+      "episodeNumber": 12,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4097,10 +4523,12 @@
     },
     {
       "title": "'Tis An Honor!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 213,
+      "episodeNumber": 13,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4120,10 +4548,12 @@
     },
     {
       "title": "Odds or Even",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 214,
+      "episodeNumber": 14,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 14. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4143,10 +4573,12 @@
     },
     {
       "title": "I Can't Remember a Damn Thing About the Factory Tour",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 215,
+      "episodeNumber": 15,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 15. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4166,10 +4598,12 @@
     },
     {
       "title": "What Happen Twice Can Happen Thrice",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 216,
+      "episodeNumber": 16,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 16. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4189,10 +4623,12 @@
     },
     {
       "title": "The Pincers of Crab Can Snip Through a Friendship",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 217,
+      "episodeNumber": 17,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 17. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4212,10 +4648,12 @@
     },
     {
       "title": "People Forget to Return Stuff All The Time Without Even Realizing It.",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 218,
+      "episodeNumber": 18,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 18. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4235,10 +4673,12 @@
     },
     {
       "title": "The Bathhouse , Where You're Naked In Body And Soul",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 219,
+      "episodeNumber": 19,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 19. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4258,10 +4698,12 @@
     },
     {
       "title": "Jugem",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 220,
+      "episodeNumber": 20,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 20. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4281,10 +4723,12 @@
     },
     {
       "title": "The Name Reveals the Person",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 221,
+      "episodeNumber": 21,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 21. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4304,10 +4748,12 @@
     },
     {
       "title": "The Man's Household Situation Is Hard , His Heart Is Soft",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 222,
+      "episodeNumber": 22,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 22. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4327,10 +4773,12 @@
     },
     {
       "title": "Blue And Red Ecstasy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 223,
+      "episodeNumber": 23,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 23. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4350,10 +4798,12 @@
     },
     {
       "title": "So In The Second Season Of Prison Break , They Already Broke Out Of Prison , But The Name Works When You Realize That Society Is A Prison",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 224,
+      "episodeNumber": 24,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 24. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4373,10 +4823,12 @@
     },
     {
       "title": "Everybody Loves Pajamas",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 225,
+      "episodeNumber": 25,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 25. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4396,10 +4848,12 @@
     },
     {
       "title": "Speaking Of Crossovers , Don't Forget About Alien Vs Predator",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 226,
+      "episodeNumber": 26,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 26. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4419,10 +4873,12 @@
     },
     {
       "title": "Love is Neither Plus No Minus",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 227,
+      "episodeNumber": 27,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 27. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4442,10 +4898,12 @@
     },
     {
       "title": "Making It Through Love",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 228,
+      "episodeNumber": 28,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 28. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4465,10 +4923,12 @@
     },
     {
       "title": "It Would Take Too Much Effort to Make This Title Sound Like a Text Message Subject",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 229,
+      "episodeNumber": 29,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 29. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4488,10 +4948,12 @@
     },
     {
       "title": "When You Go to a Funeral for the First Time, You're Surprised By How Happy the People Are",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 230,
+      "episodeNumber": 30,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 30. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4511,10 +4973,12 @@
     },
     {
       "title": "The People You Tend to Forget Tend to Show Up After You Forget Them",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 231,
+      "episodeNumber": 31,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 31. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4534,10 +4998,12 @@
     },
     {
       "title": "The Legendary Mercenary Tribe, Renho.  Elizabeth Was in Fact, One of Those White Demons",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 232,
+      "episodeNumber": 32,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 32. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4557,10 +5023,12 @@
     },
     {
       "title": "Piggy Banks and Trash Cans",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 233,
+      "episodeNumber": 33,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 33. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4580,10 +5048,12 @@
     },
     {
       "title": "Empty Planet",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 234,
+      "episodeNumber": 34,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 34. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4603,10 +5073,12 @@
     },
     {
       "title": "Goodbye Lionel, Why Don't You Say Something!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 235,
+      "episodeNumber": 35,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 35. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4626,10 +5098,12 @@
     },
     {
       "title": "Please Take Me Skiing",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 236,
+      "episodeNumber": 36,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 36. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4649,10 +5123,12 @@
     },
     {
       "title": "A Vacation in Disorientation",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 237,
+      "episodeNumber": 37,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 37. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4672,10 +5148,12 @@
     },
     {
       "title": "There are Some Things You Should Not Forget When Drinking away the Past Year at Year-end Parties",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 238,
+      "episodeNumber": 38,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 38. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4695,10 +5173,12 @@
     },
     {
       "title": "People Can Only Live By Forgetting the Bad",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 239,
+      "episodeNumber": 39,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 39. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4718,10 +5198,12 @@
     },
     {
       "title": "We Are All Hosts, In Capital Letters",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 240,
+      "episodeNumber": 40,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 40. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4741,10 +5223,12 @@
     },
     {
       "title": "Girls like Vegeta, Guys like Piccolo",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 241,
+      "episodeNumber": 41,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 41. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4764,10 +5248,12 @@
     },
     {
       "title": "Draw Your Life on the Canvas We Call Manga",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 242,
+      "episodeNumber": 42,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 42. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4787,10 +5273,12 @@
     },
     {
       "title": "Check It Out!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 243,
+      "episodeNumber": 43,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 43. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4810,10 +5298,12 @@
     },
     {
       "title": "Thorny and Rosy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 244,
+      "episodeNumber": 44,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 44. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4833,10 +5323,12 @@
     },
     {
       "title": "Festival of Thornies",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 245,
+      "episodeNumber": 45,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 45. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4856,10 +5348,12 @@
     },
     {
       "title": "Letter From Thorny",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 246,
+      "episodeNumber": 46,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 46. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4879,10 +5373,12 @@
     },
     {
       "title": "Madaodog Madaonaire",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 247,
+      "episodeNumber": 47,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 47. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4902,10 +5398,12 @@
     },
     {
       "title": "Presents Are Meant To Be Given Early",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 248,
+      "episodeNumber": 48,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 48. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4925,10 +5423,12 @@
     },
     {
       "title": "New Year's Envelopes Are Perfect for Dirty Jokes",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 249,
+      "episodeNumber": 49,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 49. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4948,10 +5448,12 @@
     },
     {
       "title": "When Sleeping Under a Kotatsu, Make Sure You Don't Burn Your Balls",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 250,
+      "episodeNumber": 50,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 50. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4971,10 +5473,12 @@
     },
     {
       "title": "We're Sorry",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 251,
+      "episodeNumber": 51,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 51. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4994,10 +5498,12 @@
     },
     {
       "title": "Nobody with Natural Straight Hair Can Be That Bad",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 252,
+      "episodeNumber": 1,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5017,10 +5523,12 @@
     },
     {
       "title": "Kintoki and Gintoki",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 253,
+      "episodeNumber": 2,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5040,10 +5548,12 @@
     },
     {
       "title": "Kin-san's Kintama",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 254,
+      "episodeNumber": 3,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5063,10 +5573,12 @@
     },
     {
       "title": "The Meaning of a Main Character",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 255,
+      "episodeNumber": 4,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5086,10 +5598,12 @@
     },
     {
       "title": "Courtesan Turns the Tables",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 256,
+      "episodeNumber": 5,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5109,10 +5623,12 @@
     },
     {
       "title": "Inside the Palace!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 257,
+      "episodeNumber": 6,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5132,10 +5648,12 @@
     },
     {
       "title": "Five Pinkies",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 258,
+      "episodeNumber": 7,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5155,10 +5673,12 @@
     },
     {
       "title": "Pinky Swear",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 259,
+      "episodeNumber": 8,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5178,10 +5698,12 @@
     },
     {
       "title": "Unsetting Moon",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 260,
+      "episodeNumber": 9,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5201,10 +5723,12 @@
     },
     {
       "title": "The Sound of a Beam Can Pierce Every Heart",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 261,
+      "episodeNumber": 10,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5224,10 +5748,12 @@
     },
     {
       "title": "Two Brothers",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 262,
+      "episodeNumber": 11,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5247,10 +5773,12 @@
     },
     {
       "title": "Liquor and Gasoline, Smiles and Tears",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 263,
+      "episodeNumber": 12,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5270,10 +5798,12 @@
     },
     {
       "title": "Dog Food Doesn't Taste Like You Think",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 264,
+      "episodeNumber": 13,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5293,10 +5823,12 @@
     },
     {
       "title": "Jump Festa 2014 Special",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 265,
+      "episodeNumber": 1,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon OVA-1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5312,10 +5844,12 @@
     },
     {
       "title": "You Can Never Pause at the Perfect Time",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 266,
+      "episodeNumber": 1,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5335,10 +5869,12 @@
     },
     {
       "title": "Even a Matsui Stick Can't Handle Some Kinds of Dirt",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 267,
+      "episodeNumber": 2,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5358,10 +5894,12 @@
     },
     {
       "title": "An Inspector's Love Begins With an Inspection",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 268,
+      "episodeNumber": 3,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5381,10 +5919,12 @@
     },
     {
       "title": "Forget Dates, Remember People / You Can Hide Your Porn Mags, But You Can't Hide Your ***",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 269,
+      "episodeNumber": 4,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5404,10 +5944,12 @@
     },
     {
       "title": "A Mirror Provides a Frozen Reflection of Both Your Beautiful and Ugly Sides / Nobody Likes the Photo on Their License",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 270,
+      "episodeNumber": 5,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5427,10 +5969,12 @@
     },
     {
       "title": "Arriving Late to a Reunion Makes it Hard to Enter",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 271,
+      "episodeNumber": 6,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5450,10 +5994,12 @@
     },
     {
       "title": "A Reunion Also Brings to the Surface Things You Don't Want to Remember",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 272,
+      "episodeNumber": 7,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5473,10 +6019,12 @@
     },
     {
       "title": "When Compared to Time in the Heavens, Fifty Years of Human Life Resembles Naught but Dreams and Lottery Tickets",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 273,
+      "episodeNumber": 8,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5496,10 +6044,12 @@
     },
     {
       "title": "Guys With Big Nostrils Also Have Big Imaginations / You Never Accept a New Sentai Series at the Start, But By the Final Episode, You Don't Want It to End",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 274,
+      "episodeNumber": 9,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5519,10 +6069,12 @@
     },
     {
       "title": "9 + 1 = Yagyu Jyubei",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 275,
+      "episodeNumber": 10,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5542,10 +6094,12 @@
     },
     {
       "title": "Calories Come Back to Bite You Just When You've Forgotten About Them",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 276,
+      "episodeNumber": 11,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5565,10 +6119,12 @@
     },
     {
       "title": "10 - 1 =",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 277,
+      "episodeNumber": 12,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5588,10 +6144,12 @@
     },
     {
       "title": "All Mothers Pack Too Much Food Into a Lunch Box and Ruin the Shape",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 278,
+      "episodeNumber": 13,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5611,10 +6169,12 @@
     },
     {
       "title": "The Reaper by Day and the Reaper by Night",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 279,
+      "episodeNumber": 14,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 14. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5634,10 +6194,12 @@
     },
     {
       "title": "Human or Demon?",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 280,
+      "episodeNumber": 15,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 15. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5657,10 +6219,12 @@
     },
     {
       "title": "Farewell, Reaper",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 281,
+      "episodeNumber": 16,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 16. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5680,10 +6244,12 @@
     },
     {
       "title": "A Phoenix Rises from the Ashes  Over and Over",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 282,
+      "episodeNumber": 17,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 17. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5703,10 +6269,12 @@
     },
     {
       "title": "Amen",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 283,
+      "episodeNumber": 18,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 18. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5726,10 +6294,12 @@
     },
     {
       "title": "Being a Leader is Tough",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 284,
+      "episodeNumber": 19,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 19. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5749,10 +6319,12 @@
     },
     {
       "title": "Love is a Roach Motel",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 285,
+      "episodeNumber": 20,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 20. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5772,10 +6344,12 @@
     },
     {
       "title": "A Sizzle Summer / A Nothing Summer 2015",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 286,
+      "episodeNumber": 21,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 21. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5795,10 +6369,12 @@
     },
     {
       "title": "He's the Sweet Tooth, and I'm the Mayo Guy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 287,
+      "episodeNumber": 22,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 22. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5818,10 +6394,12 @@
     },
     {
       "title": "I'm a Failure as a Leader, and He's Also a Failure as a Leader",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 288,
+      "episodeNumber": 23,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 23. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5841,10 +6419,12 @@
     },
     {
       "title": "I'm Odd Jobs, and He's Shinsengumi",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 289,
+      "episodeNumber": 24,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 24. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5864,10 +6444,12 @@
     },
     {
       "title": "Always Leave Enough Room for Fifty Million in Your Bag",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 290,
+      "episodeNumber": 25,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 25. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5887,10 +6469,12 @@
     },
     {
       "title": "Always Leave Enough Room for Pebbles in Your Bag",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 291,
+      "episodeNumber": 26,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 26. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5910,10 +6494,12 @@
     },
     {
       "title": "Style Goes Out of Fashion the Moment It's Put Into Words / There Are Two Types of People In This World: Those Who Yell Out Their Attack Names, and Those Who Don't",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 292,
+      "episodeNumber": 27,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 27. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5933,10 +6519,12 @@
     },
     {
       "title": "The Two Apes",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 293,
+      "episodeNumber": 28,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 28. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5956,10 +6544,12 @@
     },
     {
       "title": "Afros of Life and Death",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 294,
+      "episodeNumber": 29,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 29. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5979,10 +6569,12 @@
     },
     {
       "title": "Afuro and Wolfro",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 295,
+      "episodeNumber": 30,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 30. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6002,10 +6594,12 @@
     },
     {
       "title": "Take the Initial Premise Lightly, and It'll Cost You",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 296,
+      "episodeNumber": 31,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 31. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6025,10 +6619,12 @@
     },
     {
       "title": "Keep Your Farewells Short",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 297,
+      "episodeNumber": 32,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 32. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6048,10 +6644,12 @@
     },
     {
       "title": "One Editor Is Enough / The G-Pen Is Capricious and the Maru Pen Is Stubborn",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 298,
+      "episodeNumber": 33,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 33. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6071,10 +6669,12 @@
     },
     {
       "title": "Strike When the Sword and Overlord are Hot / Oil Rain",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 299,
+      "episodeNumber": 34,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 34. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6094,10 +6694,12 @@
     },
     {
       "title": "Shoguns of Light and Shadow",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 300,
+      "episodeNumber": 35,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 35. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6117,10 +6719,12 @@
     },
     {
       "title": "Ninja Village",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 301,
+      "episodeNumber": 36,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 36. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6140,10 +6744,12 @@
     },
     {
       "title": "Ninja Soul",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 302,
+      "episodeNumber": 37,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 37. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6163,10 +6769,12 @@
     },
     {
       "title": "And Then There Were Five",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 303,
+      "episodeNumber": 38,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 38. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6186,10 +6794,12 @@
     },
     {
       "title": "Those Who Protect Against All Odds",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 304,
+      "episodeNumber": 39,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 39. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6209,10 +6819,12 @@
     },
     {
       "title": "Sworn Enemy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 305,
+      "episodeNumber": 40,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 40. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6232,10 +6844,12 @@
     },
     {
       "title": "The Crows Caw After the Battle Ends",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 306,
+      "episodeNumber": 41,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 41. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6255,10 +6869,12 @@
     },
     {
       "title": "Farewell, Buddy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 307,
+      "episodeNumber": 42,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 42. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6278,10 +6894,12 @@
     },
     {
       "title": "The Day the Demon Cried",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 308,
+      "episodeNumber": 43,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 43. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6301,10 +6919,12 @@
     },
     {
       "title": "Heroes Always Arrive Fashionably Late",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 309,
+      "episodeNumber": 44,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 44. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6324,10 +6944,12 @@
     },
     {
       "title": "Lost and Found",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 310,
+      "episodeNumber": 45,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 45. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6347,10 +6969,12 @@
     },
     {
       "title": "Prison Break",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 311,
+      "episodeNumber": 46,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 46. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6370,10 +6994,12 @@
     },
     {
       "title": "Stray Dogs",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 312,
+      "episodeNumber": 47,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 47. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6393,10 +7019,12 @@
     },
     {
       "title": "Undelivered Mail",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 313,
+      "episodeNumber": 48,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 48. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6416,10 +7044,12 @@
     },
     {
       "title": "Karma",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 314,
+      "episodeNumber": 49,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 49. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6439,10 +7069,12 @@
     },
     {
       "title": "Nobume",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 315,
+      "episodeNumber": 50,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 50. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6462,10 +7094,12 @@
     },
     {
       "title": "Farewell Shinsengumi",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 316,
+      "episodeNumber": 51,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon 51. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6485,10 +7119,12 @@
     },
     {
       "title": "A Heart Without Love Does Not Smoke",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 317,
+      "episodeNumber": 1,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon OVA-1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6508,10 +7144,12 @@
     },
     {
       "title": "An Everlasting Flower",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 318,
+      "episodeNumber": 2,
+      "seasonNumber": 4,
       "optionalSeasonText": "4. Sezon OVA-2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6531,10 +7169,12 @@
     },
     {
       "title": "The Monster and the Monster's Child",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 319,
+      "episodeNumber": 1,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6554,10 +7194,12 @@
     },
     {
       "title": "Leave Letter",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 320,
+      "episodeNumber": 2,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6577,10 +7219,12 @@
     },
     {
       "title": "The Song of a Samurai",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 321,
+      "episodeNumber": 3,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6600,10 +7244,12 @@
     },
     {
       "title": "Zura",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 322,
+      "episodeNumber": 4,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6623,10 +7269,12 @@
     },
     {
       "title": "The Two Fools",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 323,
+      "episodeNumber": 5,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6646,10 +7294,12 @@
     },
     {
       "title": "Ten Years",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 324,
+      "episodeNumber": 6,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6669,10 +7319,12 @@
     },
     {
       "title": "Path",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 325,
+      "episodeNumber": 7,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6692,10 +7344,12 @@
     },
     {
       "title": "Master of Kouan",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 326,
+      "episodeNumber": 8,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6715,10 +7369,12 @@
     },
     {
       "title": "The Lost Rabbit",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 327,
+      "episodeNumber": 9,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6738,10 +7394,12 @@
     },
     {
       "title": "Siblings",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 328,
+      "episodeNumber": 10,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6761,10 +7419,12 @@
     },
     {
       "title": "First Student",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 329,
+      "episodeNumber": 11,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6784,10 +7444,12 @@
     },
     {
       "title": "Hope",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 330,
+      "episodeNumber": 12,
+      "seasonNumber": 5,
       "optionalSeasonText": "5. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6807,10 +7469,12 @@
     },
     {
       "title": "The Stairs to Adulthood May Not Always Lead Up",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 331,
+      "episodeNumber": 1,
+      "seasonNumber": 6,
       "optionalSeasonText": "6. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6830,10 +7494,12 @@
     },
     {
       "title": "My Bald Dad, My Light-Haired Dad, and My Dad's Glasses",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 332,
+      "episodeNumber": 2,
+      "seasonNumber": 6,
       "optionalSeasonText": "6. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6853,10 +7519,12 @@
     },
     {
       "title": "A Bowl of Ramen",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 333,
+      "episodeNumber": 3,
+      "seasonNumber": 6,
       "optionalSeasonText": "6. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6876,10 +7544,12 @@
     },
     {
       "title": "A Family",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 334,
+      "episodeNumber": 4,
+      "seasonNumber": 6,
       "optionalSeasonText": "6. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6899,10 +7569,12 @@
     },
     {
       "title": "Life, Death, and Shades / All the Answers Can Be Found in the Field",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 335,
+      "episodeNumber": 5,
+      "seasonNumber": 6,
       "optionalSeasonText": "6. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6922,10 +7594,12 @@
     },
     {
       "title": "3000 Leagues in Search of a Scabbard",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 336,
+      "episodeNumber": 6,
+      "seasonNumber": 6,
       "optionalSeasonText": "6. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6945,10 +7619,12 @@
     },
     {
       "title": "The Super Sadist and the Super Sadist",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 337,
+      "episodeNumber": 7,
+      "seasonNumber": 6,
       "optionalSeasonText": "6. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6968,10 +7644,12 @@
     },
     {
       "title": "The Strongest Sword, and the Dullest Ass",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 338,
+      "episodeNumber": 8,
+      "seasonNumber": 6,
       "optionalSeasonText": "6. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6991,10 +7669,12 @@
     },
     {
       "title": "Wash Your Hands Before a Handshake",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 339,
+      "episodeNumber": 9,
+      "seasonNumber": 6,
       "optionalSeasonText": "6. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7014,10 +7694,12 @@
     },
     {
       "title": "Diamonds are Unscratchable",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 340,
+      "episodeNumber": 10,
+      "seasonNumber": 6,
       "optionalSeasonText": "6. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7037,10 +7719,12 @@
     },
     {
       "title": "An Idol's Badge of Honor",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 341,
+      "episodeNumber": 11,
+      "seasonNumber": 6,
       "optionalSeasonText": "6. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7060,10 +7744,12 @@
     },
     {
       "title": "The Line Between Godlike Games and Shitty Games is Paper-Thin",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 342,
+      "episodeNumber": 12,
+      "seasonNumber": 6,
       "optionalSeasonText": "6. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7083,10 +7769,12 @@
     },
     {
       "title": "Guardian Spirits Are Also a Part of the Soul",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 343,
+      "episodeNumber": 13,
+      "seasonNumber": 6,
       "optionalSeasonText": "6. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7106,10 +7794,12 @@
     },
     {
       "title": "Try As You Might to Make a Natural Perm Go Away, It Will Always Return",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 344,
+      "episodeNumber": 1,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7129,10 +7819,12 @@
     },
     {
       "title": "Flavoring is Best in Small Quantities",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 345,
+      "episodeNumber": 2,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7152,10 +7844,12 @@
     },
     {
       "title": "A Delinquent's Kid Has Long Neck Hair",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 346,
+      "episodeNumber": 3,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7175,10 +7869,12 @@
     },
     {
       "title": "The Line Between Tenacious and Annoying Is Paper-Thin",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 347,
+      "episodeNumber": 4,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7198,10 +7894,12 @@
     },
     {
       "title": "Geezers Carve the Things They Shouldn't Forget into Their Wrinkles",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 348,
+      "episodeNumber": 5,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7221,10 +7919,12 @@
     },
     {
       "title": "Machines That Pick Up Useless Habits Are Called People",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 349,
+      "episodeNumber": 6,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7244,10 +7944,12 @@
     },
     {
       "title": "Men Must Live Not Long or Thick, but Hard",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 350,
+      "episodeNumber": 7,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7267,10 +7969,12 @@
     },
     {
       "title": "Ogres Are Weak Against Tiny Heroes Like the Inch-High Samurai",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 351,
+      "episodeNumber": 8,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7290,10 +7994,12 @@
     },
     {
       "title": "Bragging About Your Own Heroic Deeds Will Make People Hate You, So Make Others Do It For You",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 352,
+      "episodeNumber": 9,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7313,10 +8019,12 @@
     },
     {
       "title": "Jump and Power Creep Go Hand-in-Hand",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 353,
+      "episodeNumber": 10,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7336,10 +8044,12 @@
     },
     {
       "title": "Peace and Destruction Are Two Sides of the Same Coin",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 354,
+      "episodeNumber": 11,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7359,10 +8069,12 @@
     },
     {
       "title": "Bushido Is Found One Second Before Death",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 355,
+      "episodeNumber": 12,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7382,10 +8094,12 @@
     },
     {
       "title": "The Evildoers Who Do Good",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 356,
+      "episodeNumber": 13,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7405,10 +8119,12 @@
     },
     {
       "title": "Rabbits Jump High on Moonlit Nights",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 357,
+      "episodeNumber": 14,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 14. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7428,10 +8144,12 @@
     },
     {
       "title": "Making a Dull World Interesting",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 358,
+      "episodeNumber": 15,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 15. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7451,10 +8169,12 @@
     },
     {
       "title": "Do something uncharacteristic, and something uncharacteristic will happen",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 359,
+      "episodeNumber": 16,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 16. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7474,10 +8194,12 @@
     },
     {
       "title": "Countless Kings",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 360,
+      "episodeNumber": 17,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 17. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7497,10 +8219,12 @@
     },
     {
       "title": "The Unemployed Cannot Be Stained By Anything",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 361,
+      "episodeNumber": 18,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 18. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7520,10 +8244,12 @@
     },
     {
       "title": "Always Hold On to Your Trump Cards",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 362,
+      "episodeNumber": 19,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 19. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7543,10 +8269,12 @@
     },
     {
       "title": "The Creatures Known as Humanity",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 363,
+      "episodeNumber": 20,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 20. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7566,10 +8294,12 @@
     },
     {
       "title": "Sign",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 364,
+      "episodeNumber": 21,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 21. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7589,10 +8319,12 @@
     },
     {
       "title": "Specter",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 365,
+      "episodeNumber": 22,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 22. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7612,10 +8344,12 @@
     },
     {
       "title": "Two in Girl Years Is Equal to Ten in Man Years",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 366,
+      "episodeNumber": 23,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 23. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7635,10 +8369,12 @@
     },
     {
       "title": "Salvation",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 367,
+      "episodeNumber": 24,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 24. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7658,10 +8394,12 @@
     },
     {
       "title": "Dun Dun",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 368,
+      "episodeNumber": 25,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 25. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7681,10 +8419,12 @@
     },
     {
       "title": "There Are Lines Even Villains Can't Cross",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 369,
+      "episodeNumber": 26,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon 26. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7704,10 +8444,12 @@
     },
     {
       "title": "The Semi Final (1) - Don't Spread the Furoshiki Without Thinking",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 370,
+      "episodeNumber": 1,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon OVA-1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7727,10 +8469,12 @@
     },
     {
       "title": "The Semi Final (2) - Don't Make Important Decisions at the Last Minute",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 371,
+      "episodeNumber": 2,
+      "seasonNumber": 7,
       "optionalSeasonText": "7. Sezon OVA-2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",

@@ -2,10 +2,12 @@
   "episodes": [
     {
       "title": "The Fairy Tail",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 0,
+      "episodeNumber": 1,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -25,10 +27,12 @@
     },
     {
       "title": "Fire Dragon, Monkey, and Bull",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 1,
+      "episodeNumber": 2,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -48,10 +52,12 @@
     },
     {
       "title": "Infiltrate the Everlue Mansion",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 2,
+      "episodeNumber": 3,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -71,10 +77,12 @@
     },
     {
       "title": "Dear Kaby",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 3,
+      "episodeNumber": 4,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -94,10 +102,12 @@
     },
     {
       "title": "The Wizard in Armor",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 4,
+      "episodeNumber": 5,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -117,10 +127,12 @@
     },
     {
       "title": "Fairies in the Wind",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 5,
+      "episodeNumber": 6,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -140,10 +152,12 @@
     },
     {
       "title": "Flame and Wind",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 6,
+      "episodeNumber": 7,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -163,10 +177,12 @@
     },
     {
       "title": "The Strongest Team",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 7,
+      "episodeNumber": 8,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -186,10 +202,12 @@
     },
     {
       "title": "Natsu Devours a Village",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 8,
+      "episodeNumber": 9,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -209,10 +227,12 @@
     },
     {
       "title": "Natsu vs. Erza",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 9,
+      "episodeNumber": 10,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -232,10 +252,12 @@
     },
     {
       "title": "The Cursed Island",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 10,
+      "episodeNumber": 11,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -255,10 +277,12 @@
     },
     {
       "title": "Moon Drip",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 11,
+      "episodeNumber": 12,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -278,10 +302,12 @@
     },
     {
       "title": "Natsu vs. Yuka the Wave User",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 12,
+      "episodeNumber": 13,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -301,10 +327,12 @@
     },
     {
       "title": "Just Do Whatever!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 13,
+      "episodeNumber": 14,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 14. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -324,10 +352,12 @@
     },
     {
       "title": "Eternal Magic",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 14,
+      "episodeNumber": 15,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 15. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -347,10 +377,12 @@
     },
     {
       "title": "The Final Showdown on Galuna Island",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 15,
+      "episodeNumber": 16,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 16. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -370,10 +402,12 @@
     },
     {
       "title": "Burst",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 16,
+      "episodeNumber": 17,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 17. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -393,10 +427,12 @@
     },
     {
       "title": "Reach the Sky Above",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 17,
+      "episodeNumber": 18,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 18. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -416,10 +452,12 @@
     },
     {
       "title": "Changeling",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 18,
+      "episodeNumber": 19,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 19. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -439,10 +477,12 @@
     },
     {
       "title": "Natsu and the Dragon Egg",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 19,
+      "episodeNumber": 20,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 20. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -462,10 +502,12 @@
     },
     {
       "title": "The Phantom Lord",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 20,
+      "episodeNumber": 21,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 21. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -485,10 +527,12 @@
     },
     {
       "title": "Lucy Heartfilia",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 21,
+      "episodeNumber": 22,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 22. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -508,10 +552,12 @@
     },
     {
       "title": "15 Minutes",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 22,
+      "episodeNumber": 23,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 23. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -531,10 +577,12 @@
     },
     {
       "title": "To Keep From Seeing Those Tears",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 23,
+      "episodeNumber": 24,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 24. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -554,10 +602,12 @@
     },
     {
       "title": "A Flower Blooms in the Rain",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 24,
+      "episodeNumber": 25,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 25. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -577,10 +627,12 @@
     },
     {
       "title": "Wings of Flame",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 25,
+      "episodeNumber": 26,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 26. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -600,10 +652,12 @@
     },
     {
       "title": "The Two Dragon Slayers",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 26,
+      "episodeNumber": 27,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 27. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -623,10 +677,12 @@
     },
     {
       "title": "Fairy Law",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 27,
+      "episodeNumber": 28,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 28. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -646,10 +702,12 @@
     },
     {
       "title": "My Resolve",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 28,
+      "episodeNumber": 29,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 29. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -669,10 +727,12 @@
     },
     {
       "title": "Next Generation",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 29,
+      "episodeNumber": 30,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 30. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -692,10 +752,12 @@
     },
     {
       "title": "A Star Removed from the Sky",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 30,
+      "episodeNumber": 31,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 31. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -715,10 +777,12 @@
     },
     {
       "title": "Celestial Spirit King",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 31,
+      "episodeNumber": 32,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 32. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -738,10 +802,12 @@
     },
     {
       "title": "The Tower of Heaven ",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 32,
+      "episodeNumber": 33,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 33. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -761,10 +827,12 @@
     },
     {
       "title": "Jellal",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 33,
+      "episodeNumber": 34,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 34. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -784,10 +852,12 @@
     },
     {
       "title": "Voice of Darkness",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 34,
+      "episodeNumber": 35,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 35. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -807,10 +877,12 @@
     },
     {
       "title": "Heaven's Game",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 35,
+      "episodeNumber": 36,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 36. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -830,10 +902,12 @@
     },
     {
       "title": "Armor of the Heart",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 36,
+      "episodeNumber": 37,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 37. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -853,10 +927,12 @@
     },
     {
       "title": "Destiny",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 37,
+      "episodeNumber": 38,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 38. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -876,10 +952,12 @@
     },
     {
       "title": "Give Our Prayers to the Sacred Light",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 38,
+      "episodeNumber": 39,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 39. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -899,10 +977,12 @@
     },
     {
       "title": "Titania Falls",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 39,
+      "episodeNumber": 40,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 40. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -922,10 +1002,12 @@
     },
     {
       "title": "Home",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 40,
+      "episodeNumber": 41,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 41. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -945,10 +1027,12 @@
     },
     {
       "title": "Battle of Fairy Tail",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 41,
+      "episodeNumber": 42,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 42. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -968,10 +1052,12 @@
     },
     {
       "title": "Defeat Your Friends to Save Your Friends",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 42,
+      "episodeNumber": 43,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 43. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -991,10 +1077,12 @@
     },
     {
       "title": "Thunder Palace",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 43,
+      "episodeNumber": 44,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 44. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1014,10 +1102,12 @@
     },
     {
       "title": "Advent of Satan",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 44,
+      "episodeNumber": 45,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 45. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1037,10 +1127,12 @@
     },
     {
       "title": "Clash at Kardia Cathedral!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 45,
+      "episodeNumber": 46,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 46. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1060,10 +1152,12 @@
     },
     {
       "title": "Triple Dragons",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 46,
+      "episodeNumber": 47,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 47. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1083,10 +1177,12 @@
     },
     {
       "title": "Fantasia",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 47,
+      "episodeNumber": 48,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 48. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1106,10 +1202,12 @@
     },
     {
       "title": "The Day of the Fateful Encounter",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 48,
+      "episodeNumber": 49,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 49. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1129,10 +1227,12 @@
     },
     {
       "title": "Special Request. Watch Out for the Guy You Like!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 49,
+      "episodeNumber": 50,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 50. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1152,10 +1252,12 @@
     },
     {
       "title": "Love & Lucky",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 50,
+      "episodeNumber": 51,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 51. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1175,10 +1277,12 @@
     },
     {
       "title": "Allied Forces, Assemble!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 51,
+      "episodeNumber": 52,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 52. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1198,10 +1302,12 @@
     },
     {
       "title": "Enter the Oración Seis!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 52,
+      "episodeNumber": 53,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 53. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1221,10 +1327,12 @@
     },
     {
       "title": "Maiden of the Sky",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 53,
+      "episodeNumber": 54,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 54. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1244,10 +1352,12 @@
     },
     {
       "title": "The Girl and the Ghost",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 54,
+      "episodeNumber": 55,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 55. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1267,10 +1377,12 @@
     },
     {
       "title": "Dead Grand Prix",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 55,
+      "episodeNumber": 56,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 56. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1290,10 +1402,12 @@
     },
     {
       "title": "Darkness",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 56,
+      "episodeNumber": 57,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 57. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1313,10 +1427,12 @@
     },
     {
       "title": "Celestial Skirmish",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 57,
+      "episodeNumber": 58,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 58. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1336,10 +1452,12 @@
     },
     {
       "title": "Jellal of Days Gone By",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 58,
+      "episodeNumber": 59,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 59. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1359,10 +1477,12 @@
     },
     {
       "title": "March of Destruction",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 59,
+      "episodeNumber": 60,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 60. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1382,10 +1502,12 @@
     },
     {
       "title": "Super Aerial Battle: Natsu vs. Cobra!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 60,
+      "episodeNumber": 61,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 61. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1405,10 +1527,12 @@
     },
     {
       "title": "Wizard Saint Jura",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 61,
+      "episodeNumber": 62,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 62. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1428,10 +1552,12 @@
     },
     {
       "title": "Your Words",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 62,
+      "episodeNumber": 63,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 63. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1451,10 +1577,12 @@
     },
     {
       "title": "Zero",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 63,
+      "episodeNumber": 64,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 64. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1474,10 +1602,12 @@
     },
     {
       "title": "From Pegasus to Fairies",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 64,
+      "episodeNumber": 65,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 65. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1497,10 +1627,12 @@
     },
     {
       "title": "The Power of Feelings",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 65,
+      "episodeNumber": 66,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 66. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1520,10 +1652,12 @@
     },
     {
       "title": "I'm With You",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 66,
+      "episodeNumber": 67,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 67. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1543,10 +1677,12 @@
     },
     {
       "title": "A Guild for One",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 67,
+      "episodeNumber": 68,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 68. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1566,10 +1702,12 @@
     },
     {
       "title": "Call of the Dragon",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 68,
+      "episodeNumber": 69,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 69. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1589,10 +1727,12 @@
     },
     {
       "title": "Natsu vs Gray!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 69,
+      "episodeNumber": 70,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 70. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1612,10 +1752,12 @@
     },
     {
       "title": "Friendship Overcomes the Dead",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 70,
+      "episodeNumber": 71,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 71. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1635,10 +1777,12 @@
     },
     {
       "title": "A Fairy Tail Wizard",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 71,
+      "episodeNumber": 72,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 72. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1658,10 +1802,12 @@
     },
     {
       "title": "Rainbow Cherry Blossoms",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 72,
+      "episodeNumber": 73,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 73. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1681,10 +1827,12 @@
     },
     {
       "title": "Wendy's First Big Job!?",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 73,
+      "episodeNumber": 74,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 74. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1704,10 +1852,12 @@
     },
     {
       "title": "24-Hour Endurance Road Race",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 74,
+      "episodeNumber": 75,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 75. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1727,10 +1877,12 @@
     },
     {
       "title": "Gildarts",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 75,
+      "episodeNumber": 76,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 76. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1750,10 +1902,12 @@
     },
     {
       "title": "Earth Land",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 76,
+      "episodeNumber": 77,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 77. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1773,10 +1927,12 @@
     },
     {
       "title": "Edolas",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 77,
+      "episodeNumber": 78,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 78. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1796,10 +1952,12 @@
     },
     {
       "title": "Fairy Hunter",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 78,
+      "episodeNumber": 79,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 79. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1819,10 +1977,12 @@
     },
     {
       "title": "Key of Hope",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 79,
+      "episodeNumber": 80,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 80. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1842,10 +2002,12 @@
     },
     {
       "title": "Fireball",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 80,
+      "episodeNumber": 81,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 81. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1865,10 +2027,12 @@
     },
     {
       "title": "Welcome Home",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 81,
+      "episodeNumber": 82,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 82. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1888,10 +2052,12 @@
     },
     {
       "title": "Extalia",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 82,
+      "episodeNumber": 83,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 83. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1911,10 +2077,12 @@
     },
     {
       "title": "Fly, to Our Friends!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 83,
+      "episodeNumber": 84,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 84. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1934,10 +2102,12 @@
     },
     {
       "title": "Code ETD",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 84,
+      "episodeNumber": 85,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 85. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1957,10 +2127,12 @@
     },
     {
       "title": "Erza vs. Erza",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 85,
+      "episodeNumber": 86,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 86. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1980,10 +2152,12 @@
     },
     {
       "title": "We're Talking About Lives Here!!!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 86,
+      "episodeNumber": 87,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 87. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2003,10 +2177,12 @@
     },
     {
       "title": "For Pride's Sake, the River of Stars",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 87,
+      "episodeNumber": 88,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 88. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2026,10 +2202,12 @@
     },
     {
       "title": "The Apocalyptic Dragon Chain Cannon",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 88,
+      "episodeNumber": 89,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 89. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2049,10 +2227,12 @@
     },
     {
       "title": "The Boy Back Then",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 89,
+      "episodeNumber": 90,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 90. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2072,10 +2252,12 @@
     },
     {
       "title": "Dragon Sense",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 90,
+      "episodeNumber": 91,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 91. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2095,10 +2277,12 @@
     },
     {
       "title": "O Living Ones",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 91,
+      "episodeNumber": 92,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 92. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2118,10 +2302,12 @@
     },
     {
       "title": "I’m Standing Right Here",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 92,
+      "episodeNumber": 93,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 93. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2141,10 +2327,12 @@
     },
     {
       "title": "Bye-Bye, Edolas",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 93,
+      "episodeNumber": 94,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 94. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2164,10 +2352,12 @@
     },
     {
       "title": "Lisanna",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 94,
+      "episodeNumber": 95,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 95. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2187,10 +2377,12 @@
     },
     {
       "title": "He Who Extinguishes Life",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 95,
+      "episodeNumber": 96,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 96. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2210,10 +2402,12 @@
     },
     {
       "title": "Best Partners",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 96,
+      "episodeNumber": 97,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 97. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2233,10 +2427,12 @@
     },
     {
       "title": "Who's the Lucky One?",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 97,
+      "episodeNumber": 98,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 98. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2256,10 +2452,12 @@
     },
     {
       "title": "Natsu vs. Gildarts",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 98,
+      "episodeNumber": 99,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 99. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2279,10 +2477,12 @@
     },
     {
       "title": "Mest",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 99,
+      "episodeNumber": 100,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 100. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2302,10 +2502,12 @@
     },
     {
       "title": "Black Wizard",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 100,
+      "episodeNumber": 101,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 101. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2325,10 +2527,12 @@
     },
     {
       "title": "Iron Soul",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 101,
+      "episodeNumber": 102,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 102. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2348,10 +2552,12 @@
     },
     {
       "title": "Makarov Charges",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 102,
+      "episodeNumber": 103,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 103. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2371,10 +2577,12 @@
     },
     {
       "title": "Lost Magic",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 103,
+      "episodeNumber": 104,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 104. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2394,10 +2602,12 @@
     },
     {
       "title": "Fire Dragon vs. Flame God",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 104,
+      "episodeNumber": 105,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 105. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2417,10 +2627,12 @@
     },
     {
       "title": "Grand Magic World",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 105,
+      "episodeNumber": 106,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 106. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2440,10 +2652,12 @@
     },
     {
       "title": "Arc of Embodiment",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 106,
+      "episodeNumber": 107,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 107. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2463,10 +2677,12 @@
     },
     {
       "title": "Human Gate",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 107,
+      "episodeNumber": 108,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 108. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2486,10 +2702,12 @@
     },
     {
       "title": "Lucy Fire",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 108,
+      "episodeNumber": 109,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 109. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2509,10 +2727,12 @@
     },
     {
       "title": "Dead-End of Despair",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 109,
+      "episodeNumber": 110,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 110. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2532,10 +2752,12 @@
     },
     {
       "title": "Tears of Love and Vitality",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 110,
+      "episodeNumber": 111,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 111. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2555,10 +2777,12 @@
     },
     {
       "title": "The One Thing I Couldn't Say",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 111,
+      "episodeNumber": 112,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 112. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2578,10 +2802,12 @@
     },
     {
       "title": "Tenrou Tree",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 112,
+      "episodeNumber": 113,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 113. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2601,10 +2827,12 @@
     },
     {
       "title": "Erza vs Azuma",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 113,
+      "episodeNumber": 114,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 114. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2624,10 +2852,12 @@
     },
     {
       "title": "Freezing Fighting Spirit",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 114,
+      "episodeNumber": 115,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 115. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2647,10 +2877,12 @@
     },
     {
       "title": "Power of Life",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 115,
+      "episodeNumber": 116,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 116. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2670,10 +2902,12 @@
     },
     {
       "title": "Rolling Thunder",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 116,
+      "episodeNumber": 117,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 117. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2693,10 +2927,12 @@
     },
     {
       "title": "The Man Without an Emblem",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 117,
+      "episodeNumber": 118,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 118. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2716,10 +2952,12 @@
     },
     {
       "title": "Realm of the Abyss",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 118,
+      "episodeNumber": 119,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 119. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2739,10 +2977,12 @@
     },
     {
       "title": "Daybreak on Tenrou Island",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 119,
+      "episodeNumber": 120,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 120. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2762,10 +3002,12 @@
     },
     {
       "title": "The Right to Love",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 120,
+      "episodeNumber": 121,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 121. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2785,10 +3027,12 @@
     },
     {
       "title": "Let’s Hold Hands",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 121,
+      "episodeNumber": 122,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 122. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2808,10 +3052,12 @@
     },
     {
       "title": "Fairy Tail, Year X791",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 122,
+      "episodeNumber": 123,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 123. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2831,10 +3077,12 @@
     },
     {
       "title": "The Seven Year Gap",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 123,
+      "episodeNumber": 124,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 124. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2854,10 +3102,12 @@
     },
     {
       "title": "The Magic Ball",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 124,
+      "episodeNumber": 125,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 125. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2877,10 +3127,12 @@
     },
     {
       "title": "True Scoundrels - The Butt Jiggle Gang",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 125,
+      "episodeNumber": 126,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 126. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2900,10 +3152,12 @@
     },
     {
       "title": "The Terror of Invisible Lucy!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 126,
+      "episodeNumber": 127,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 127. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2923,10 +3177,12 @@
     },
     {
       "title": "Father's Memento",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 127,
+      "episodeNumber": 128,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 128. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2946,10 +3202,12 @@
     },
     {
       "title": "Turbulent Showdown! Natsu vs. Laxus",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 128,
+      "episodeNumber": 129,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 129. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2969,10 +3227,12 @@
     },
     {
       "title": "Target: Lucy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 129,
+      "episodeNumber": 130,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 130. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2992,10 +3252,12 @@
     },
     {
       "title": "The Fury of Legion",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 130,
+      "episodeNumber": 131,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 131. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3015,10 +3277,12 @@
     },
     {
       "title": "Key of the Starry Heavens",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 131,
+      "episodeNumber": 132,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 132. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3038,10 +3302,12 @@
     },
     {
       "title": "Travel Companions",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 132,
+      "episodeNumber": 133,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 133. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3061,10 +3327,12 @@
     },
     {
       "title": "Labyrinth Capriccio",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 133,
+      "episodeNumber": 134,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 134. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3084,10 +3352,12 @@
     },
     {
       "title": "Footprints of the Myth!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 134,
+      "episodeNumber": 135,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 135. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3107,10 +3377,12 @@
     },
     {
       "title": "True Scoundrels, Once Again",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 135,
+      "episodeNumber": 136,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 136. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3130,10 +3402,12 @@
     },
     {
       "title": "Defying Calculation",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 136,
+      "episodeNumber": 137,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 137. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3153,10 +3427,12 @@
     },
     {
       "title": "The Course of the Holy War",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 137,
+      "episodeNumber": 138,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 138. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3176,10 +3452,12 @@
     },
     {
       "title": "Time Begins to Tick",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 138,
+      "episodeNumber": 139,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 139. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3199,10 +3477,12 @@
     },
     {
       "title": "Enter the Neo-Oración Seis!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 139,
+      "episodeNumber": 140,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 140. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3222,10 +3502,12 @@
     },
     {
       "title": "Get the Infinity Clock!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 140,
+      "episodeNumber": 141,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 141. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3245,10 +3527,12 @@
     },
     {
       "title": "Dissonance of Battle",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 141,
+      "episodeNumber": 142,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 142. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3268,10 +3552,12 @@
     },
     {
       "title": "Anti-Link",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 142,
+      "episodeNumber": 143,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 143. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3291,10 +3577,12 @@
     },
     {
       "title": "Despair Unleashed",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 143,
+      "episodeNumber": 144,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 144. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3314,10 +3602,12 @@
     },
     {
       "title": "Real Nightmare",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 144,
+      "episodeNumber": 145,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 145. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3337,10 +3627,12 @@
     },
     {
       "title": "Time Spiral",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 145,
+      "episodeNumber": 146,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 146. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3360,10 +3652,12 @@
     },
     {
       "title": "To the Infinity Castle!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 146,
+      "episodeNumber": 147,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 147. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3383,10 +3677,12 @@
     },
     {
       "title": "Angel Tears",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 147,
+      "episodeNumber": 148,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 148. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3406,10 +3702,12 @@
     },
     {
       "title": "I Hear the Voice of My Friend",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 148,
+      "episodeNumber": 149,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 149. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3429,10 +3727,12 @@
     },
     {
       "title": "Lucy and Michelle",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 149,
+      "episodeNumber": 150,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 150. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3452,10 +3752,12 @@
     },
     {
       "title": "Sabertooth",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 150,
+      "episodeNumber": 151,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 151. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3475,10 +3777,12 @@
     },
     {
       "title": "And So We Aim for the Top",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 151,
+      "episodeNumber": 152,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 152. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3498,10 +3802,12 @@
     },
     {
       "title": "Song of the Stars",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 152,
+      "episodeNumber": 153,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 153. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3521,10 +3827,12 @@
     },
     {
       "title": "For All the Time We Missed Each Other",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 153,
+      "episodeNumber": 154,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 154. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3544,10 +3852,12 @@
     },
     {
       "title": "Crocus, the Flower-Blooming Capital",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 154,
+      "episodeNumber": 155,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 155. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3567,10 +3877,12 @@
     },
     {
       "title": "Sky Labyrinth",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 155,
+      "episodeNumber": 156,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 156. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3590,10 +3902,12 @@
     },
     {
       "title": "New Guild",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 156,
+      "episodeNumber": 157,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 157. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3613,10 +3927,12 @@
     },
     {
       "title": "Night of Shooting Stars",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 157,
+      "episodeNumber": 158,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 158. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3636,10 +3952,12 @@
     },
     {
       "title": "Lucy vs. Flare",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 158,
+      "episodeNumber": 159,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 159. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3659,10 +3977,12 @@
     },
     {
       "title": "Bad Omen",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 159,
+      "episodeNumber": 160,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 160. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3682,10 +4002,12 @@
     },
     {
       "title": "Chariots",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 160,
+      "episodeNumber": 161,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 161. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3705,10 +4027,12 @@
     },
     {
       "title": "Elfman vs. Bacchus",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 161,
+      "episodeNumber": 162,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 162. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3728,10 +4052,12 @@
     },
     {
       "title": "Mirajane vs. Jenny",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 162,
+      "episodeNumber": 163,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 163. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3751,10 +4077,12 @@
     },
     {
       "title": "Kagura vs. Yukino",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 163,
+      "episodeNumber": 164,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 164. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3774,10 +4102,12 @@
     },
     {
       "title": "Malice Is Concealed by the Veil of Darkness",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 164,
+      "episodeNumber": 165,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 165. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3797,10 +4127,12 @@
     },
     {
       "title": "Pandemonium",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 165,
+      "episodeNumber": 166,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 166. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3820,10 +4152,12 @@
     },
     {
       "title": "100 Versus 1",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 166,
+      "episodeNumber": 167,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 167. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3843,10 +4177,12 @@
     },
     {
       "title": "Laxus vs. Alexei",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 167,
+      "episodeNumber": 168,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 168. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3866,10 +4202,12 @@
     },
     {
       "title": "Wendy vs. Shelia",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 168,
+      "episodeNumber": 169,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 169. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3889,10 +4227,12 @@
     },
     {
       "title": "Small Fists",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 169,
+      "episodeNumber": 170,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 170. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3912,10 +4252,12 @@
     },
     {
       "title": "Naval Battle",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 170,
+      "episodeNumber": 171,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 171. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3935,10 +4277,12 @@
     },
     {
       "title": "A Parfum For You",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 171,
+      "episodeNumber": 172,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 172. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3958,10 +4302,12 @@
     },
     {
       "title": "Battle of Dragon Slayers",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 172,
+      "episodeNumber": 173,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 173. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3981,10 +4327,12 @@
     },
     {
       "title": "Four Dragons",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 173,
+      "episodeNumber": 174,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 174. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4004,10 +4352,12 @@
     },
     {
       "title": "Natsu vs. the Twin Dragons",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 174,
+      "episodeNumber": 175,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 175. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4027,10 +4377,12 @@
     },
     {
       "title": "King of the Dragons",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 175,
+      "episodeNumber": 1,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4050,10 +4402,12 @@
     },
     {
       "title": "The Eclipse Project",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 176,
+      "episodeNumber": 2,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4073,10 +4427,12 @@
     },
     {
       "title": "Fairy Tactician",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 177,
+      "episodeNumber": 3,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4096,10 +4452,12 @@
     },
     {
       "title": "Gray vs. Rufus",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 178,
+      "episodeNumber": 4,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4119,10 +4477,12 @@
     },
     {
       "title": "The Hungry Wolf Knights",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 179,
+      "episodeNumber": 5,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4142,10 +4502,12 @@
     },
     {
       "title": "Fairy Tail vs. Executioners",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 180,
+      "episodeNumber": 6,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4165,10 +4527,12 @@
     },
     {
       "title": "Scorching Earth",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 181,
+      "episodeNumber": 7,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4188,10 +4552,12 @@
     },
     {
       "title": "Our Place",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 182,
+      "episodeNumber": 8,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4211,10 +4577,12 @@
     },
     {
       "title": "The Kingdom 'til Tomorrow",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 183,
+      "episodeNumber": 9,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4234,10 +4602,12 @@
     },
     {
       "title": "Erza vs. Kagura",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 184,
+      "episodeNumber": 10,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4257,10 +4627,12 @@
     },
     {
       "title": "A Future Racing Toward Despair",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 185,
+      "episodeNumber": 11,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4280,10 +4652,12 @@
     },
     {
       "title": "Frog",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 186,
+      "episodeNumber": 12,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4303,10 +4677,12 @@
     },
     {
       "title": "Roaring Thunder!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 187,
+      "episodeNumber": 13,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4326,10 +4702,12 @@
     },
     {
       "title": "Gloria",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 188,
+      "episodeNumber": 14,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 14. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4349,10 +4727,12 @@
     },
     {
       "title": "The One Who Closes the Gate",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 189,
+      "episodeNumber": 15,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 15. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4372,10 +4752,12 @@
     },
     {
       "title": "Natsu vs. Rogue",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 190,
+      "episodeNumber": 16,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 16. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4395,10 +4777,12 @@
     },
     {
       "title": "For Me, Too",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 191,
+      "episodeNumber": 17,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 17. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4418,10 +4802,12 @@
     },
     {
       "title": "Seven Dragons",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 192,
+      "episodeNumber": 18,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 18. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4441,10 +4827,12 @@
     },
     {
       "title": "Zirconis' Magic",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 193,
+      "episodeNumber": 19,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 19. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4464,10 +4852,12 @@
     },
     {
       "title": "People and People, Dragons and Dragons, People and Dragons",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 194,
+      "episodeNumber": 20,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 20. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4487,10 +4877,12 @@
     },
     {
       "title": "Sin and Sacrifice",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 195,
+      "episodeNumber": 21,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 21. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4510,10 +4902,12 @@
     },
     {
       "title": "Time of Life",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 196,
+      "episodeNumber": 22,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 22. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4533,10 +4927,12 @@
     },
     {
       "title": "Fields of Gold",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 197,
+      "episodeNumber": 23,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 23. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4556,10 +4952,12 @@
     },
     {
       "title": "The Grand Banquet",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 198,
+      "episodeNumber": 24,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 24. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4579,10 +4977,12 @@
     },
     {
       "title": "Droplets of Time",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 199,
+      "episodeNumber": 25,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 25. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4602,10 +5002,12 @@
     },
     {
       "title": "A Gift",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 200,
+      "episodeNumber": 26,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 26. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4625,10 +5027,12 @@
     },
     {
       "title": "Welcome Back, Frosch",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 201,
+      "episodeNumber": 27,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 27. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4648,10 +5052,12 @@
     },
     {
       "title": "Moulin Rouge",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 202,
+      "episodeNumber": 28,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 28. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4671,10 +5077,12 @@
     },
     {
       "title": "Full Effort Hospitality!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 203,
+      "episodeNumber": 29,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 29. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4694,10 +5102,12 @@
     },
     {
       "title": "Signal of Rebellion",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 204,
+      "episodeNumber": 30,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 30. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4717,10 +5127,12 @@
     },
     {
       "title": "Library Panic",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 205,
+      "episodeNumber": 31,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 31. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4740,10 +5152,12 @@
     },
     {
       "title": "Hisui Rises!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 206,
+      "episodeNumber": 32,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 32. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4763,10 +5177,12 @@
     },
     {
       "title": "Astral Spiritus",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 207,
+      "episodeNumber": 33,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 33. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4786,10 +5202,12 @@
     },
     {
       "title": "Wendy vs. Aquarius - Let's Have Fun in the Amusement Park!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 208,
+      "episodeNumber": 34,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 34. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4809,10 +5227,12 @@
     },
     {
       "title": "Guild Deck vs. Celestial Deck",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 209,
+      "episodeNumber": 35,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 35. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4832,10 +5252,12 @@
     },
     {
       "title": "Gray vs. Cancer! Dance Battle!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 210,
+      "episodeNumber": 36,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 36. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4855,10 +5277,12 @@
     },
     {
       "title": "Juvia vs. Aries! Desert Death Match!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 211,
+      "episodeNumber": 37,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 37. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4878,10 +5302,12 @@
     },
     {
       "title": "Erza vs. Sagittarius! Horseback Showdown!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 212,
+      "episodeNumber": 38,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 38. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4901,10 +5327,12 @@
     },
     {
       "title": "Natsu vs. Leo",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 213,
+      "episodeNumber": 39,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 39. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4924,10 +5352,12 @@
     },
     {
       "title": "Ophiuchus, the Snake Charmer",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 214,
+      "episodeNumber": 40,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 40. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4947,10 +5377,12 @@
     },
     {
       "title": "When the Stars Fall",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 215,
+      "episodeNumber": 41,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 41. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4970,10 +5402,12 @@
     },
     {
       "title": "Celestial Spirit Beast",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 216,
+      "episodeNumber": 42,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 42. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4993,10 +5427,12 @@
     },
     {
       "title": "Believe",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 217,
+      "episodeNumber": 43,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 43. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5016,10 +5452,12 @@
     },
     {
       "title": "What a Pure Heart Weaves",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 218,
+      "episodeNumber": 44,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 44. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5039,10 +5477,12 @@
     },
     {
       "title": "413 Days",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 219,
+      "episodeNumber": 45,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 45. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5062,10 +5502,12 @@
     },
     {
       "title": "The Labyrinth of White",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 220,
+      "episodeNumber": 46,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 46. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5085,10 +5527,12 @@
     },
     {
       "title": "Transform!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 221,
+      "episodeNumber": 47,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 47. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5108,10 +5552,12 @@
     },
     {
       "title": "It's Kemo-Kemo!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 222,
+      "episodeNumber": 48,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 48. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5131,10 +5577,12 @@
     },
     {
       "title": "The Place You Came To",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 223,
+      "episodeNumber": 49,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 49. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5154,10 +5602,12 @@
     },
     {
       "title": "Lightning Man",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 224,
+      "episodeNumber": 50,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 50. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5177,10 +5627,12 @@
     },
     {
       "title": "Fairy Tail of the Dead Meeeeeeeeen",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 225,
+      "episodeNumber": 51,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 51. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5200,10 +5652,12 @@
     },
     {
       "title": "Morning of a New Adventure",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 226,
+      "episodeNumber": 52,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 52. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5223,10 +5677,12 @@
     },
     {
       "title": "Wizards vs. Hunters",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 227,
+      "episodeNumber": 53,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 53. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5246,10 +5702,12 @@
     },
     {
       "title": "Art of Regression",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 228,
+      "episodeNumber": 54,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 54. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5269,10 +5727,12 @@
     },
     {
       "title": "The Demon Returns",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 229,
+      "episodeNumber": 55,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 55. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5292,10 +5752,12 @@
     },
     {
       "title": "Gray vs. Doriate",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 230,
+      "episodeNumber": 56,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 56. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5315,10 +5777,12 @@
     },
     {
       "title": "Voice of the Flame",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 231,
+      "episodeNumber": 57,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 57. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5338,10 +5802,12 @@
     },
     {
       "title": "Song of the Fairies",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 232,
+      "episodeNumber": 58,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 58. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5361,10 +5827,12 @@
     },
     {
       "title": "Tartaros Chapter, Prologue - The Nine Demon Gates",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 233,
+      "episodeNumber": 59,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 59. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5384,10 +5852,12 @@
     },
     {
       "title": "Tartaros Chapter, Prologue - Fairies vs. Netherworld",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 234,
+      "episodeNumber": 60,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 60. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5407,10 +5877,12 @@
     },
     {
       "title": "Tartaros Chapter, Prologue - The White Legacy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 235,
+      "episodeNumber": 61,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 61. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5430,10 +5902,12 @@
     },
     {
       "title": "Tartaros Chapter, Prologue - Natsu vs. Jackal",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 236,
+      "episodeNumber": 62,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 62. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5453,10 +5927,12 @@
     },
     {
       "title": "Tartaros Chapter - Immorality and Sinners",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 237,
+      "episodeNumber": 63,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 63. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5476,10 +5952,12 @@
     },
     {
       "title": "Tartaros Chapter - Jellal vs. Oración Seis",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 238,
+      "episodeNumber": 64,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 64. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5499,10 +5977,12 @@
     },
     {
       "title": "Tartaros Chapter - A Place Reached by Prayer",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 239,
+      "episodeNumber": 65,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 65. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5522,10 +6002,12 @@
     },
     {
       "title": "Tartaros Chapter - The Demon's Rebirth",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 240,
+      "episodeNumber": 66,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 66. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5545,10 +6027,12 @@
     },
     {
       "title": "Tartaros Chapter - To Let Live or Die",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 241,
+      "episodeNumber": 67,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 67. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5568,10 +6052,12 @@
     },
     {
       "title": "Tartaros Chapter - Wendy vs. Ezel",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 242,
+      "episodeNumber": 68,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 68. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5591,10 +6077,12 @@
     },
     {
       "title": "Tartaros Chapter - Friends Forever",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 243,
+      "episodeNumber": 69,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 69. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5614,10 +6102,12 @@
     },
     {
       "title": "Tartaros Chapter - Hell's Core",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 244,
+      "episodeNumber": 70,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 70. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5637,10 +6127,12 @@
     },
     {
       "title": "Tartaros Chapter - Underworld King",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 245,
+      "episodeNumber": 71,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 71. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5660,10 +6152,12 @@
     },
     {
       "title": "Tartaros Chapter - Alegria",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 246,
+      "episodeNumber": 72,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 72. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5683,10 +6177,12 @@
     },
     {
       "title": "Tartaros Chapter - A Strike from the Stars",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 247,
+      "episodeNumber": 73,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 73. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5706,10 +6202,12 @@
     },
     {
       "title": "Tartaros Chapter - Celestial Spirit King vs. Underworld King",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 248,
+      "episodeNumber": 74,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 74. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5729,10 +6227,12 @@
     },
     {
       "title": "Tartaros Chapter - Erza vs. Minerva",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 249,
+      "episodeNumber": 75,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 75. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5752,10 +6252,12 @@
     },
     {
       "title": "Tartaros Chapter - The Boy's Tale",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 250,
+      "episodeNumber": 76,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 76. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5775,10 +6277,12 @@
     },
     {
       "title": "Tartaros Chapter - Gray vs. Silver",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 251,
+      "episodeNumber": 77,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 77. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5798,10 +6302,12 @@
     },
     {
       "title": "Tartaros Chapter - A Silver Wish",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 252,
+      "episodeNumber": 78,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 78. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5821,10 +6327,12 @@
     },
     {
       "title": "Tartaros Chapter - Air",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 253,
+      "episodeNumber": 79,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 79. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5844,10 +6352,12 @@
     },
     {
       "title": "Tartaros Chapter - Steel",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 254,
+      "episodeNumber": 80,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 80. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5867,10 +6377,12 @@
     },
     {
       "title": "Tartaros Chapter - Final Duels",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 255,
+      "episodeNumber": 81,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 81. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5890,10 +6402,12 @@
     },
     {
       "title": "Tartaros Chapter - Wings of Despair",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 256,
+      "episodeNumber": 82,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 82. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5913,10 +6427,12 @@
     },
     {
       "title": "Tartaros Chapter - Fire Dragon Iron Fist",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 257,
+      "episodeNumber": 83,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 83. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5936,10 +6452,12 @@
     },
     {
       "title": "Tartaros Chapter - 00:00",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 258,
+      "episodeNumber": 84,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 84. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5959,10 +6477,12 @@
     },
     {
       "title": "Tartaros Chapter - The Girl in the Crystal",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 259,
+      "episodeNumber": 85,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 85. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5982,10 +6502,12 @@
     },
     {
       "title": "Tartaros Chapter - Absolute Demon",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 260,
+      "episodeNumber": 86,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 86. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6005,10 +6527,12 @@
     },
     {
       "title": "Tartaros Chapter - Memento Mori",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 261,
+      "episodeNumber": 87,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 87. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6028,10 +6552,12 @@
     },
     {
       "title": "Tartaros Chapter - Soaring Above Ishgar",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 262,
+      "episodeNumber": 88,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 88. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6051,10 +6577,12 @@
     },
     {
       "title": "Tartaros Chapter - Drops of Fire",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 263,
+      "episodeNumber": 89,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 89. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6074,10 +6602,12 @@
     },
     {
       "title": "Tartaros Chapter, Finale - Where the Power of Life Lies",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 264,
+      "episodeNumber": 90,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 90. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6097,10 +6627,12 @@
     },
     {
       "title": "The Fairy In Your Heart",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 265,
+      "episodeNumber": 91,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 91. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6120,10 +6652,12 @@
     },
     {
       "title": "The Adventure Begins",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 266,
+      "episodeNumber": 92,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 92. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6143,10 +6677,12 @@
     },
     {
       "title": "Treasure Hunt",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 267,
+      "episodeNumber": 93,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 93. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6166,10 +6702,12 @@
     },
     {
       "title": " Dancing with Blades",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 268,
+      "episodeNumber": 94,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 94. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6189,10 +6727,12 @@
     },
     {
       "title": "Moonlit Lake",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 269,
+      "episodeNumber": 95,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 95. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6212,10 +6752,12 @@
     },
     {
       "title": "Blue Skull",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 270,
+      "episodeNumber": 96,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 96. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6235,10 +6777,12 @@
     },
     {
       "title": "Conveyer of Magic",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 271,
+      "episodeNumber": 97,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 97. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6258,10 +6802,12 @@
     },
     {
       "title": "Treasure",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 272,
+      "episodeNumber": 98,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 98. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6281,10 +6827,12 @@
     },
     {
       "title": "Law",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 273,
+      "episodeNumber": 99,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 99. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6304,10 +6852,12 @@
     },
     {
       "title": "Eternal Adventure",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 274,
+      "episodeNumber": 100,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 100. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6327,10 +6877,12 @@
     },
     {
       "title": "Challenger",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 275,
+      "episodeNumber": 101,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 101. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6350,10 +6902,12 @@
     },
     {
       "title": "Message of Flame",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 276,
+      "episodeNumber": 102,
+      "seasonNumber": 2,
       "optionalSeasonText": "2. Sezon 102. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6373,10 +6927,12 @@
     },
     {
       "title": "The Lamia Scale Thanksgiving Festival",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 277,
+      "episodeNumber": 1,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6396,10 +6952,12 @@
     },
     {
       "title": "Because of Love",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 278,
+      "episodeNumber": 2,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6419,10 +6977,12 @@
     },
     {
       "title": "Avatar",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 279,
+      "episodeNumber": 3,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6442,10 +7002,12 @@
     },
     {
       "title": "Underground Fight",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 280,
+      "episodeNumber": 4,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6465,10 +7027,12 @@
     },
     {
       "title": "Purification Strategy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 281,
+      "episodeNumber": 5,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6488,10 +7052,12 @@
     },
     {
       "title": "Ikusatsunagi",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 282,
+      "episodeNumber": 6,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6511,10 +7077,12 @@
     },
     {
       "title": "Memories",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 283,
+      "episodeNumber": 7,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6534,10 +7102,12 @@
     },
     {
       "title": "The Seventh Guild Master",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 284,
+      "episodeNumber": 8,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6557,10 +7127,12 @@
     },
     {
       "title": "Law of Space",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 285,
+      "episodeNumber": 9,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6580,10 +7152,12 @@
     },
     {
       "title": "Emperor Spriggan",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 286,
+      "episodeNumber": 10,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6603,10 +7177,12 @@
     },
     {
       "title": "To The Land Abandoned by Gods",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 287,
+      "episodeNumber": 11,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6626,10 +7202,12 @@
     },
     {
       "title": "Mavis and Zeref",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 288,
+      "episodeNumber": 12,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6649,10 +7227,12 @@
     },
     {
       "title": "Fairy Heart",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 289,
+      "episodeNumber": 13,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6672,10 +7252,12 @@
     },
     {
       "title": "The Magnolia Defensive War",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 290,
+      "episodeNumber": 14,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 14. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6695,10 +7277,12 @@
     },
     {
       "title": "Morning Star",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 291,
+      "episodeNumber": 15,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 15. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6718,10 +7302,12 @@
     },
     {
       "title": "For Whom the Parfum Flows",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 292,
+      "episodeNumber": 16,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 16. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6741,10 +7327,12 @@
     },
     {
       "title": "Natsu vs. Zeref",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 293,
+      "episodeNumber": 17,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 17. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6764,10 +7352,12 @@
     },
     {
       "title": "Across 400 Years",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 294,
+      "episodeNumber": 18,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 18. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6787,10 +7377,12 @@
     },
     {
       "title": "What I Want to Do",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 295,
+      "episodeNumber": 19,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 19. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6810,10 +7402,12 @@
     },
     {
       "title": "Not Until the Battle is Over",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 296,
+      "episodeNumber": 20,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 20. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6833,10 +7427,12 @@
     },
     {
       "title": "In a Silent Time",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 297,
+      "episodeNumber": 21,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 21. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6856,10 +7452,12 @@
     },
     {
       "title": "Natsu, Revived!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 298,
+      "episodeNumber": 22,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 22. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6879,10 +7477,12 @@
     },
     {
       "title": "Historia of Corpses",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 299,
+      "episodeNumber": 23,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 23. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6902,10 +7502,12 @@
     },
     {
       "title": "Mettle",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 300,
+      "episodeNumber": 24,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 24. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6925,10 +7527,12 @@
     },
     {
       "title": "The Third Seal",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 301,
+      "episodeNumber": 25,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 25. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6948,10 +7552,12 @@
     },
     {
       "title": "Together, Always",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 302,
+      "episodeNumber": 26,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 26. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6971,10 +7577,12 @@
     },
     {
       "title": "Fairy Tail Zero",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 303,
+      "episodeNumber": 27,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 27. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6994,10 +7602,12 @@
     },
     {
       "title": "White Dragneel",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 304,
+      "episodeNumber": 28,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 28. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7017,10 +7627,12 @@
     },
     {
       "title": "The Winter Wizard",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 305,
+      "episodeNumber": 29,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 29. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7040,10 +7652,12 @@
     },
     {
       "title": "Gray and Juvia",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 306,
+      "episodeNumber": 30,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 30. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7063,10 +7677,12 @@
     },
     {
       "title": "The Mightiest Demon of the Book of Zeref",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 307,
+      "episodeNumber": 31,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 31. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7086,10 +7702,12 @@
     },
     {
       "title": "Broken Bonds",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 308,
+      "episodeNumber": 32,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 32. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7109,10 +7727,12 @@
     },
     {
       "title": "Pleasure and Pain",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 309,
+      "episodeNumber": 33,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 33. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7132,10 +7752,12 @@
     },
     {
       "title": "Natsu's Mind",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 310,
+      "episodeNumber": 34,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 34. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7155,10 +7777,12 @@
     },
     {
       "title": "Sting, the White Shadow Dragon",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 311,
+      "episodeNumber": 35,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 35. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7178,10 +7802,12 @@
     },
     {
       "title": "Dragon Seed",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 312,
+      "episodeNumber": 36,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 36. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7201,10 +7827,12 @@
     },
     {
       "title": "Master Enchant",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 313,
+      "episodeNumber": 37,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 37. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7224,10 +7852,12 @@
     },
     {
       "title": "Dragon or Demon",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 314,
+      "episodeNumber": 38,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 38. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7247,10 +7877,12 @@
     },
     {
       "title": "Gray's Trump Card",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 315,
+      "episodeNumber": 39,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 39. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7270,10 +7902,12 @@
     },
     {
       "title": "Dark Future",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 316,
+      "episodeNumber": 40,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 40. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7293,10 +7927,12 @@
     },
     {
       "title": "My Name Is...",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 317,
+      "episodeNumber": 41,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 41. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7316,10 +7952,12 @@
     },
     {
       "title": "Compassion",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 318,
+      "episodeNumber": 42,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 42. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7339,10 +7977,12 @@
     },
     {
       "title": "Neo Eclipse",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 319,
+      "episodeNumber": 43,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 43. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7362,10 +8002,12 @@
     },
     {
       "title": "Blind to Love",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 320,
+      "episodeNumber": 44,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 44. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7385,10 +8027,12 @@
     },
     {
       "title": "The Door of Vows",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 321,
+      "episodeNumber": 45,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 45. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7408,10 +8052,12 @@
     },
     {
       "title": "Raging Fire of the Dragon",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 322,
+      "episodeNumber": 46,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 46. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7431,10 +8077,12 @@
     },
     {
       "title": "When the Fire Dies",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 323,
+      "episodeNumber": 47,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 47. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7454,10 +8102,12 @@
     },
     {
       "title": "World Destruction",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 324,
+      "episodeNumber": 48,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 48. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7477,10 +8127,12 @@
     },
     {
       "title": "Magic of Hope",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 325,
+      "episodeNumber": 49,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 49. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7500,10 +8152,12 @@
     },
     {
       "title": "Hearts Connected",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 326,
+      "episodeNumber": 50,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 50. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7523,10 +8177,12 @@
     },
     {
       "title": "Dearest Friends",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 327,
+      "episodeNumber": 51,
+      "seasonNumber": 3,
       "optionalSeasonText": "3. Sezon 51. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",

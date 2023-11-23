@@ -2,10 +2,12 @@
   "episodes": [
     {
       "title": "Homecoming",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 0,
+      "episodeNumber": 1,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 1. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -21,10 +23,12 @@
     },
     {
       "title": "The Akatsuki Makes Its Move",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 1,
+      "episodeNumber": 2,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 2. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -40,10 +44,12 @@
     },
     {
       "title": "The Results of Training",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 2,
+      "episodeNumber": 3,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 3. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -59,10 +65,12 @@
     },
     {
       "title": "The Jinchuriki of the Sand",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 3,
+      "episodeNumber": 4,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 4. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -78,10 +86,12 @@
     },
     {
       "title": "The Kazekage Stands Tall",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 4,
+      "episodeNumber": 5,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 5. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -97,10 +107,12 @@
     },
     {
       "title": "Mission Cleared",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 5,
+      "episodeNumber": 6,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 6. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -116,10 +128,12 @@
     },
     {
       "title": "Run, Kankuro",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 6,
+      "episodeNumber": 7,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 7. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -135,10 +149,12 @@
     },
     {
       "title": "Team Kakashi, Deployed",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 7,
+      "episodeNumber": 8,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 8. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -154,10 +170,12 @@
     },
     {
       "title": "The Jinchuriki's Tears",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 8,
+      "episodeNumber": 9,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 9. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -173,10 +191,12 @@
     },
     {
       "title": "Sealing Jutsu: Nine Phantom Dragons",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 9,
+      "episodeNumber": 10,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 10. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -192,10 +212,12 @@
     },
     {
       "title": "The Medical Ninja's Student",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 10,
+      "episodeNumber": 11,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 11. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -211,10 +233,12 @@
     },
     {
       "title": "The Retired Granny's Determination",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 11,
+      "episodeNumber": 12,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 12. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -230,10 +254,12 @@
     },
     {
       "title": "A Meeting With Destiny",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 12,
+      "episodeNumber": 13,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 13. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -249,10 +275,12 @@
     },
     {
       "title": "Naruto's Growth",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 13,
+      "episodeNumber": 14,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 14. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -268,10 +296,12 @@
     },
     {
       "title": "The Secret Weapon is Called...",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 14,
+      "episodeNumber": 15,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 15. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -287,10 +317,12 @@
     },
     {
       "title": "The Secret of Jinchuriki",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 15,
+      "episodeNumber": 16,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 16. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -306,10 +338,12 @@
     },
     {
       "title": "The Death of Gaara!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 16,
+      "episodeNumber": 17,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 17. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -325,10 +359,12 @@
     },
     {
       "title": "Charge Tactic! Button Hook Entry!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 17,
+      "episodeNumber": 18,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 18. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -344,10 +380,12 @@
     },
     {
       "title": "Traps Activate! Team Guy's Enemy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 18,
+      "episodeNumber": 19,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 19. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -363,10 +401,12 @@
     },
     {
       "title": "Hiruko Vs. Two Kunoichi!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 19,
+      "episodeNumber": 20,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 20. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -382,10 +422,12 @@
     },
     {
       "title": "Sasori's Real Face",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 20,
+      "episodeNumber": 21,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 21. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -401,10 +443,12 @@
     },
     {
       "title": "Chiyo's Secret Skills",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 21,
+      "episodeNumber": 22,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 22. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -420,10 +464,12 @@
     },
     {
       "title": "Father and Mother",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 22,
+      "episodeNumber": 23,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 23. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -439,10 +485,12 @@
     },
     {
       "title": "The Third Kazekage",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 23,
+      "episodeNumber": 24,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 24. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -458,10 +506,12 @@
     },
     {
       "title": "Three Minutes Between Life and Death",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 24,
+      "episodeNumber": 25,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 25. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -477,10 +527,12 @@
     },
     {
       "title": "Puppet Fight: 10 vs. 100!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 25,
+      "episodeNumber": 26,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 26. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -496,10 +548,12 @@
     },
     {
       "title": "Impossible Dream",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 26,
+      "episodeNumber": 27,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 27. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -515,10 +569,12 @@
     },
     {
       "title": "Revival of the Beasts",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 27,
+      "episodeNumber": 28,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 28. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -534,10 +590,12 @@
     },
     {
       "title": "Kakashi's Enlightened!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 28,
+      "episodeNumber": 29,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 29. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -553,10 +611,12 @@
     },
     {
       "title": "Aesthetics of an Instant",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 29,
+      "episodeNumber": 30,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 30. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -572,10 +632,12 @@
     },
     {
       "title": "The Legacy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 30,
+      "episodeNumber": 31,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 31. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -591,10 +653,12 @@
     },
     {
       "title": "Return of the Kazekage",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 31,
+      "episodeNumber": 32,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 32. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -610,10 +674,12 @@
     },
     {
       "title": "The New Target",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 32,
+      "episodeNumber": 33,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 33. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -629,10 +695,12 @@
     },
     {
       "title": "Formation! New Team Kakashi",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 33,
+      "episodeNumber": 34,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 34. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -648,10 +716,12 @@
     },
     {
       "title": "An Unneeded Addition",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 34,
+      "episodeNumber": 35,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 35. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -667,10 +737,12 @@
     },
     {
       "title": "The Fake Smile",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 35,
+      "episodeNumber": 36,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 36. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -686,10 +758,12 @@
     },
     {
       "title": "Untitled",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 36,
+      "episodeNumber": 37,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 37. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -705,10 +779,12 @@
     },
     {
       "title": "Simulation",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 37,
+      "episodeNumber": 38,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 38. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -724,10 +800,12 @@
     },
     {
       "title": "The Tenchi Bridge",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 38,
+      "episodeNumber": 39,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 39. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -743,10 +821,12 @@
     },
     {
       "title": "The Nine-Tails Unleashed!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 39,
+      "episodeNumber": 40,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 40. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -762,10 +842,12 @@
     },
     {
       "title": "The Top-Secret Mission Begins",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 40,
+      "episodeNumber": 41,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 41. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -781,10 +863,12 @@
     },
     {
       "title": "Orochimaru vs. Jinchuriki",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 41,
+      "episodeNumber": 42,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 42. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -800,10 +884,12 @@
     },
     {
       "title": "Sakura's Tears",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 42,
+      "episodeNumber": 43,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 43. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -819,10 +905,12 @@
     },
     {
       "title": "The Secret of the Battle!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 43,
+      "episodeNumber": 44,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 44. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -838,10 +926,12 @@
     },
     {
       "title": "The Consequences of Betrayal",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 44,
+      "episodeNumber": 45,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 45. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -857,10 +947,12 @@
     },
     {
       "title": "The Unfinished Page",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 45,
+      "episodeNumber": 46,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 46. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -876,10 +968,12 @@
     },
     {
       "title": "Infiltration: The Den of the Snake!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 46,
+      "episodeNumber": 47,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 47. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -895,10 +989,12 @@
     },
     {
       "title": "Bonds",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 47,
+      "episodeNumber": 48,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 48. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -914,10 +1010,12 @@
     },
     {
       "title": "Something Important...",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 48,
+      "episodeNumber": 49,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 49. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -933,10 +1031,12 @@
     },
     {
       "title": "The Picture Book's Story",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 49,
+      "episodeNumber": 50,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 50. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -952,10 +1052,12 @@
     },
     {
       "title": "Reunion",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 50,
+      "episodeNumber": 51,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 51. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -971,10 +1073,12 @@
     },
     {
       "title": "The Power of Uchiha",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 51,
+      "episodeNumber": 52,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 52. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -990,10 +1094,12 @@
     },
     {
       "title": "Title",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 52,
+      "episodeNumber": 53,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 53. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1009,10 +1115,12 @@
     },
     {
       "title": "Nightmare",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 53,
+      "episodeNumber": 54,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 54. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1028,10 +1136,12 @@
     },
     {
       "title": "Wind",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 54,
+      "episodeNumber": 55,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 55. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1047,10 +1157,12 @@
     },
     {
       "title": "Writhe",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 55,
+      "episodeNumber": 56,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 56. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1066,10 +1178,12 @@
     },
     {
       "title": "Deprived of Eternal Sleep",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 56,
+      "episodeNumber": 57,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 57-58. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1089,10 +1203,12 @@
     },
     {
       "title": "A New Enemy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 57,
+      "episodeNumber": 59,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 59. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1112,10 +1228,12 @@
     },
     {
       "title": "Impermanence",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 58,
+      "episodeNumber": 60,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 60. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1135,10 +1253,12 @@
     },
     {
       "title": "Contact",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 59,
+      "episodeNumber": 61,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 61. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1158,10 +1278,12 @@
     },
     {
       "title": "Teammate",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 60,
+      "episodeNumber": 62,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 62. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1181,10 +1303,12 @@
     },
     {
       "title": "The Two Kings",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 61,
+      "episodeNumber": 63,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 63. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1204,10 +1328,12 @@
     },
     {
       "title": "Jet-Black Signal Fire",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 62,
+      "episodeNumber": 64,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 64-65. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1227,10 +1353,12 @@
     },
     {
       "title": "Revived Souls",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 63,
+      "episodeNumber": 66,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 66. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1250,10 +1378,12 @@
     },
     {
       "title": "Everyone's Struggle to the Death",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 64,
+      "episodeNumber": 67,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 67. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1273,10 +1403,12 @@
     },
     {
       "title": "Moment of Awakening",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 65,
+      "episodeNumber": 68,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 68-69. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1296,10 +1428,12 @@
     },
     {
       "title": "Resonance",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 66,
+      "episodeNumber": 70,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 70. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1319,10 +1453,12 @@
     },
     {
       "title": "My Friend",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 67,
+      "episodeNumber": 71,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 71. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1342,10 +1478,12 @@
     },
     {
       "title": "The Quietly Approaching Threat",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 68,
+      "episodeNumber": 72,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 72. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1365,10 +1503,12 @@
     },
     {
       "title": "Akatsuki's Invasion",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 69,
+      "episodeNumber": 73,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 73. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1388,10 +1528,12 @@
     },
     {
       "title": "Under the Starry Sky",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 70,
+      "episodeNumber": 74,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 74. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1411,10 +1553,12 @@
     },
     {
       "title": "The Old Monk's Prayer",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 71,
+      "episodeNumber": 75,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 75. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1434,10 +1578,12 @@
     },
     {
       "title": "The Next Step",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 72,
+      "episodeNumber": 76,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 76-77. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1457,10 +1603,12 @@
     },
     {
       "title": "The Judgment",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 73,
+      "episodeNumber": 78,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 78-79. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1480,10 +1628,12 @@
     },
     {
       "title": "Last Words",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 74,
+      "episodeNumber": 80,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 80. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1503,10 +1653,12 @@
     },
     {
       "title": "The Sad News",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 75,
+      "episodeNumber": 81,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 81. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1526,10 +1678,12 @@
     },
     {
       "title": "Team Ten",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 76,
+      "episodeNumber": 82,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 82. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1549,10 +1703,12 @@
     },
     {
       "title": "Target: Locked On",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 77,
+      "episodeNumber": 83,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 83. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1572,10 +1728,12 @@
     },
     {
       "title": "Kakuzu's Abilities",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 78,
+      "episodeNumber": 84,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 84. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1595,10 +1753,12 @@
     },
     {
       "title": "The Terrifying Secret",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 79,
+      "episodeNumber": 85,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 85. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1618,10 +1778,12 @@
     },
     {
       "title": "Shikamaru's Genius",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 80,
+      "episodeNumber": 86,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 86-87. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1641,10 +1803,12 @@
     },
     {
       "title": "Wind Style: Rasen Shuriken!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 81,
+      "episodeNumber": 88,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 88. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1664,10 +1828,12 @@
     },
     {
       "title": "The Price of Power",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 82,
+      "episodeNumber": 89,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 89. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1687,10 +1853,12 @@
     },
     {
       "title": "A Shinobi's Determination",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 83,
+      "episodeNumber": 90,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 90. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1710,10 +1878,12 @@
     },
     {
       "title": "Orochimaru's Hideout Discovered",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 84,
+      "episodeNumber": 91,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 91. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1733,10 +1903,12 @@
     },
     {
       "title": "Encounter",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 85,
+      "episodeNumber": 92,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 92. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1756,10 +1928,12 @@
     },
     {
       "title": "Connecting Hearts",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 86,
+      "episodeNumber": 93,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 93. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1775,10 +1949,12 @@
     },
     {
       "title": "A Night of Rain",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 87,
+      "episodeNumber": 94,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 94. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1794,10 +1970,12 @@
     },
     {
       "title": "The Two Charms",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 88,
+      "episodeNumber": 95,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 95. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1813,10 +1991,12 @@
     },
     {
       "title": "The Unseeing Enemy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 89,
+      "episodeNumber": 96,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 96. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1832,10 +2012,12 @@
     },
     {
       "title": "The Labyrinth of Distorted Reflection",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 90,
+      "episodeNumber": 97,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 97. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1855,10 +2037,12 @@
     },
     {
       "title": "The Target Appears",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 91,
+      "episodeNumber": 98,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 98. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1878,10 +2062,12 @@
     },
     {
       "title": "The Rampaging Tailed Beast",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 92,
+      "episodeNumber": 99,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 99. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1901,10 +2087,12 @@
     },
     {
       "title": "Inside the Mist",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 93,
+      "episodeNumber": 100,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 100. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1924,10 +2112,12 @@
     },
     {
       "title": "Everyone's Feelings",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 94,
+      "episodeNumber": 101,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 101-102. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1947,10 +2137,12 @@
     },
     {
       "title": "The Four-Corner Sealing Barrier",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 95,
+      "episodeNumber": 103,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 103-104. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1970,10 +2162,12 @@
     },
     {
       "title": "The Battle Over the Barrier",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 96,
+      "episodeNumber": 105,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 105. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -1993,10 +2187,12 @@
     },
     {
       "title": "Red Camellia",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 97,
+      "episodeNumber": 106,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 106. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2016,10 +2212,12 @@
     },
     {
       "title": "Strange Bedfellows",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 98,
+      "episodeNumber": 107,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 107. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2039,10 +2237,12 @@
     },
     {
       "title": "Guidepost of the Camellia",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 99,
+      "episodeNumber": 108,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 108. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2062,10 +2262,12 @@
     },
     {
       "title": "Counterattack of the Curse Mark",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 100,
+      "episodeNumber": 109,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 109. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2085,10 +2287,12 @@
     },
     {
       "title": "Memory of Guilt",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 101,
+      "episodeNumber": 110,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 110. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2108,10 +2312,12 @@
     },
     {
       "title": "Shattered Promise",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 102,
+      "episodeNumber": 111,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 111. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2131,10 +2337,12 @@
     },
     {
       "title": "The Place to Return To",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 103,
+      "episodeNumber": 112,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 112. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2154,10 +2362,12 @@
     },
     {
       "title": "The Serpent's Pupil",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 104,
+      "episodeNumber": 113,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 113. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2177,10 +2387,12 @@
     },
     {
       "title": "The Eye of the Hawk",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 105,
+      "episodeNumber": 114,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 114. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2200,10 +2412,12 @@
     },
     {
       "title": "Zabuza's Blade",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 106,
+      "episodeNumber": 115,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 115. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2223,10 +2437,12 @@
     },
     {
       "title": "Guardian of the Iron Wall",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 107,
+      "episodeNumber": 116,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 116. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2246,10 +2462,12 @@
     },
     {
       "title": "Jugo of the Northern Hideout",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 108,
+      "episodeNumber": 117,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 117. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2269,10 +2487,12 @@
     },
     {
       "title": "Formation!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 109,
+      "episodeNumber": 118,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 118. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2292,10 +2512,12 @@
     },
     {
       "title": "Kakashi Chronicles ~ Boys' Life on the Battlefield ~ Part 1",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 110,
+      "episodeNumber": 119,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 119-120. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2315,10 +2537,12 @@
     },
     {
       "title": "Assemble",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 111,
+      "episodeNumber": 121,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 121. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2338,10 +2562,12 @@
     },
     {
       "title": "The Hunt",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 112,
+      "episodeNumber": 122,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 122. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2361,10 +2587,12 @@
     },
     {
       "title": "Clash!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 113,
+      "episodeNumber": 123,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 123. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2384,10 +2612,12 @@
     },
     {
       "title": "Art",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 114,
+      "episodeNumber": 124,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 124. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2407,10 +2637,12 @@
     },
     {
       "title": "Disappearance",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 115,
+      "episodeNumber": 125,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 125. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2430,10 +2662,12 @@
     },
     {
       "title": "Twilight",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 116,
+      "episodeNumber": 126,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 126. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2453,10 +2687,12 @@
     },
     {
       "title": "Tales of a Gutsy Ninja ~Jiraiya Ninja Scroll ~ Part 1",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 117,
+      "episodeNumber": 127,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 127. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2476,10 +2712,12 @@
     },
     {
       "title": "Tales of a Gutsy Ninja  ~ Jiraiya Ninja Scroll ~ Part 2",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 118,
+      "episodeNumber": 128,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 128. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2499,10 +2737,12 @@
     },
     {
       "title": "Infiltrate! The Village Hidden in the Rain",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 119,
+      "episodeNumber": 129,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 129. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2522,10 +2762,12 @@
     },
     {
       "title": "The Man Who Became God",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 120,
+      "episodeNumber": 130,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 130. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2545,10 +2787,12 @@
     },
     {
       "title": "Honored Sage Mode!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 121,
+      "episodeNumber": 131,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 131. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2568,10 +2812,12 @@
     },
     {
       "title": "In Attendance, the Six Paths of Pain",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 122,
+      "episodeNumber": 132,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 132. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2591,10 +2837,12 @@
     },
     {
       "title": "The Tale of Jiraiya the Gallant",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 123,
+      "episodeNumber": 133,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 133. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2614,10 +2862,12 @@
     },
     {
       "title": "Banquet Invitation",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 124,
+      "episodeNumber": 134,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 134. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2637,10 +2887,12 @@
     },
     {
       "title": "The Longest Moment",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 125,
+      "episodeNumber": 135,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 135. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2660,10 +2912,12 @@
     },
     {
       "title": "The Light & Dark of the Mangekyo Sharingan",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 126,
+      "episodeNumber": 136,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 136. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2683,10 +2937,12 @@
     },
     {
       "title": "Amaterasu!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 127,
+      "episodeNumber": 137,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 137. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2706,10 +2962,12 @@
     },
     {
       "title": "The End",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 128,
+      "episodeNumber": 138,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 138. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2729,10 +2987,12 @@
     },
     {
       "title": "The Mystery of Tobi",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 129,
+      "episodeNumber": 139,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 139. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2752,10 +3012,12 @@
     },
     {
       "title": "Fate",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 130,
+      "episodeNumber": 140,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 140. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2775,10 +3037,12 @@
     },
     {
       "title": "Truth",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 131,
+      "episodeNumber": 141,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 141. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2798,10 +3062,12 @@
     },
     {
       "title": "Battle of Unraikyo",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 132,
+      "episodeNumber": 142,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 142. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2821,10 +3087,12 @@
     },
     {
       "title": "The Eight-Tails vs. Sasuke",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 133,
+      "episodeNumber": 143,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 143. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2844,10 +3112,12 @@
     },
     {
       "title": "The Wanderer",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 134,
+      "episodeNumber": 144,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 144. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2867,10 +3137,12 @@
     },
     {
       "title": "Successor of the Forbidden Jutsu",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 135,
+      "episodeNumber": 145,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 145. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2890,10 +3162,12 @@
     },
     {
       "title": "The Successor's Wish",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 136,
+      "episodeNumber": 146,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 146. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2913,10 +3187,12 @@
     },
     {
       "title": "Rogue Ninja's Past",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 137,
+      "episodeNumber": 147,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 147. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2936,10 +3212,12 @@
     },
     {
       "title": "The Heir to Darkness",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 138,
+      "episodeNumber": 148,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 148. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2959,10 +3237,12 @@
     },
     {
       "title": "Parting",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 139,
+      "episodeNumber": 149,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 149. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -2982,10 +3262,12 @@
     },
     {
       "title": "The Forbidden Jutsu Released",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 140,
+      "episodeNumber": 150,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 150. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3005,10 +3287,12 @@
     },
     {
       "title": "Master and Student",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 141,
+      "episodeNumber": 151,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 151. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3028,10 +3312,12 @@
     },
     {
       "title": "Somber News",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 142,
+      "episodeNumber": 152,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 152. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3051,10 +3337,12 @@
     },
     {
       "title": "Following the Master's Shadow",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 143,
+      "episodeNumber": 153,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 153. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3074,10 +3362,12 @@
     },
     {
       "title": "Decryption",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 144,
+      "episodeNumber": 154,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 154. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3097,10 +3387,12 @@
     },
     {
       "title": "The First Challenge",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 145,
+      "episodeNumber": 155,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 155. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3120,10 +3412,12 @@
     },
     {
       "title": "Surpassing the Master",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 146,
+      "episodeNumber": 156,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 156. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3143,10 +3437,12 @@
     },
     {
       "title": "Assault on the Leaf Village!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 147,
+      "episodeNumber": 157,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 157. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3166,10 +3462,12 @@
     },
     {
       "title": "Power to Believe",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 148,
+      "episodeNumber": 158,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 158. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3189,10 +3487,12 @@
     },
     {
       "title": "Pain vs. Kakashi",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 149,
+      "episodeNumber": 159,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 159. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3212,10 +3512,12 @@
     },
     {
       "title": "Mystery of Pain",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 150,
+      "episodeNumber": 160,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 160. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3235,10 +3537,12 @@
     },
     {
       "title": "Surname Is Sarutobi. Given Name, Konohamaru!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 151,
+      "episodeNumber": 161,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 161. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3258,10 +3562,12 @@
     },
     {
       "title": "Pain to the World",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 152,
+      "episodeNumber": 162,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 162. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3281,10 +3587,12 @@
     },
     {
       "title": "Explode! Sage Mode",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 153,
+      "episodeNumber": 163,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 163. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3304,10 +3612,12 @@
     },
     {
       "title": "Danger! Sage Mode Limit Reached",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 154,
+      "episodeNumber": 164,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 164. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3327,10 +3637,12 @@
     },
     {
       "title": "Nine-Tails, Captured!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 155,
+      "episodeNumber": 165,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 165. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3350,10 +3662,12 @@
     },
     {
       "title": "Confessions",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 156,
+      "episodeNumber": 166,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 166. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3373,10 +3687,12 @@
     },
     {
       "title": "Planetary Devastation",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 157,
+      "episodeNumber": 167,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 167. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3396,10 +3712,12 @@
     },
     {
       "title": "The Fourth Hokage",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 158,
+      "episodeNumber": 168,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 168. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3419,10 +3737,12 @@
     },
     {
       "title": "The Two Students",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 159,
+      "episodeNumber": 169,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 169. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3442,10 +3762,12 @@
     },
     {
       "title": "Big Adventure! The Quest for the Fourth Hokage's Legacy ~ Part 1",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 160,
+      "episodeNumber": 170,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 170. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3465,10 +3787,12 @@
     },
     {
       "title": "Big Adventure! The Quest for the Fourth Hokage's Legacy ~ Part 2",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 161,
+      "episodeNumber": 171,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 171. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3488,10 +3812,12 @@
     },
     {
       "title": "Meeting",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 162,
+      "episodeNumber": 172,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 172. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3511,10 +3837,12 @@
     },
     {
       "title": "Origin of Pain",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 163,
+      "episodeNumber": 173,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 173. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3534,10 +3862,12 @@
     },
     {
       "title": "The Tale of Naruto Uzumaki",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 164,
+      "episodeNumber": 174,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 174. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3557,10 +3887,12 @@
     },
     {
       "title": "The Hero of the Hidden Leaf",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 165,
+      "episodeNumber": 175,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 175. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3580,10 +3912,12 @@
     },
     {
       "title": "Rookie Instructor Iruka",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 166,
+      "episodeNumber": 176,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 176. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3603,10 +3937,12 @@
     },
     {
       "title": "Iruka's Ordeal",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 167,
+      "episodeNumber": 177,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 177. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3626,10 +3962,12 @@
     },
     {
       "title": "Iruka's Decision",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 168,
+      "episodeNumber": 178,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 178. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3649,10 +3987,12 @@
     },
     {
       "title": "Kakashi Hatake, The Jonin in Charge",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 169,
+      "episodeNumber": 179,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 179. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3672,10 +4012,12 @@
     },
     {
       "title": "Inari's Courage Put to the Test",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 170,
+      "episodeNumber": 180,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 180. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3695,10 +4037,12 @@
     },
     {
       "title": "Naruto's School of Revenge",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 171,
+      "episodeNumber": 181,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 181. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3718,10 +4062,12 @@
     },
     {
       "title": "Gaara's Bond",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 172,
+      "episodeNumber": 182,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 182. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3741,10 +4087,12 @@
     },
     {
       "title": "Naruto: Outbreak",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 173,
+      "episodeNumber": 183,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 183. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3764,10 +4112,12 @@
     },
     {
       "title": "Deploy! Team Tenten",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 174,
+      "episodeNumber": 184,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 184. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3787,10 +4137,12 @@
     },
     {
       "title": "Animal District",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 175,
+      "episodeNumber": 185,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 185. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3810,10 +4162,12 @@
     },
     {
       "title": "Ah, the Medicine of Youth",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 176,
+      "episodeNumber": 186,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 186. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3833,10 +4187,12 @@
     },
     {
       "title": "Gutsy Master and Student: The Training",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 177,
+      "episodeNumber": 187,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 187. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3856,10 +4212,12 @@
     },
     {
       "title": "Record of the Ninja Gutsy Master and Student",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 178,
+      "episodeNumber": 188,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 188. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3879,10 +4237,12 @@
     },
     {
       "title": "Sasuke's Paw Encyclopedia",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 179,
+      "episodeNumber": 189,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 189. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3902,10 +4262,12 @@
     },
     {
       "title": "Naruto and the Old Soldier",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 180,
+      "episodeNumber": 190,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 190. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3925,10 +4287,12 @@
     },
     {
       "title": "Kakashi Love Song",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 181,
+      "episodeNumber": 191,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 191. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3948,10 +4312,12 @@
     },
     {
       "title": "Neji Chronicles",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 182,
+      "episodeNumber": 192,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 192. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3971,10 +4337,12 @@
     },
     {
       "title": "The Man Who Died Twice",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 183,
+      "episodeNumber": 193,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 193. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -3994,10 +4362,12 @@
     },
     {
       "title": "The Worst Three-Legged Race",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 184,
+      "episodeNumber": 194,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 194. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4017,10 +4387,12 @@
     },
     {
       "title": "Team 10's Teamwork",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 185,
+      "episodeNumber": 195,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 195. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4040,10 +4412,12 @@
     },
     {
       "title": "Drive Towards Darkness",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 186,
+      "episodeNumber": 196,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 196. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4063,10 +4437,12 @@
     },
     {
       "title": "The Sixth Hokage Danzo",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 187,
+      "episodeNumber": 197,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 197. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4086,10 +4462,12 @@
     },
     {
       "title": "Five Kage Summit's Eve",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 188,
+      "episodeNumber": 198,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 198. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4109,10 +4487,12 @@
     },
     {
       "title": "Enter the Five Kage!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 189,
+      "episodeNumber": 199,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 199. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4132,10 +4512,12 @@
     },
     {
       "title": "Naruto's Plea",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 190,
+      "episodeNumber": 200,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 200. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4155,10 +4537,12 @@
     },
     {
       "title": "Painful Decision",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 191,
+      "episodeNumber": 201,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 201. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4178,10 +4562,12 @@
     },
     {
       "title": "Racing Lightning",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 192,
+      "episodeNumber": 202,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 202. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4201,10 +4587,12 @@
     },
     {
       "title": "Sasuke's Ninja Way",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 193,
+      "episodeNumber": 203,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 203. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4224,10 +4612,12 @@
     },
     {
       "title": "Power of the Five Kage",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 194,
+      "episodeNumber": 204,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 204. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4247,10 +4637,12 @@
     },
     {
       "title": "Declaration of War",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 195,
+      "episodeNumber": 205,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 205. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4270,10 +4662,12 @@
     },
     {
       "title": "Sakura's Feelings",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 196,
+      "episodeNumber": 206,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 206. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4293,10 +4687,12 @@
     },
     {
       "title": "The Tailed Beast vs. The Tailless Tailed Beast",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 197,
+      "episodeNumber": 207,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 207. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4316,10 +4712,12 @@
     },
     {
       "title": "As One's Friend",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 198,
+      "episodeNumber": 208,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 208. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4339,10 +4737,12 @@
     },
     {
       "title": "Danzo's Right Arm",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 199,
+      "episodeNumber": 209,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 209. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4362,10 +4762,12 @@
     },
     {
       "title": "The Forbidden Visual Jutsu",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 200,
+      "episodeNumber": 210,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 210. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4385,10 +4787,12 @@
     },
     {
       "title": "Danzo Shimura",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 201,
+      "episodeNumber": 211,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 211. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4408,10 +4812,12 @@
     },
     {
       "title": "Sakura's Resolve",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 202,
+      "episodeNumber": 212,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 212. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4431,10 +4837,12 @@
     },
     {
       "title": "Lost Bonds",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 203,
+      "episodeNumber": 213,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 213. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4454,10 +4862,12 @@
     },
     {
       "title": "The Burden",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 204,
+      "episodeNumber": 214,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 214. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4477,10 +4887,12 @@
     },
     {
       "title": "Two Fates",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 205,
+      "episodeNumber": 215,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 215. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4500,10 +4912,12 @@
     },
     {
       "title": "High-Level Shinobi",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 206,
+      "episodeNumber": 216,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 216. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4523,10 +4937,12 @@
     },
     {
       "title": "The Infiltrator",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 207,
+      "episodeNumber": 217,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 217. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4546,10 +4962,12 @@
     },
     {
       "title": "The Five Great Nations Mobilize",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 208,
+      "episodeNumber": 218,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 218. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4569,10 +4987,12 @@
     },
     {
       "title": "Kakashi Hatake, the Hokage",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 209,
+      "episodeNumber": 219,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 219. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4592,10 +5012,12 @@
     },
     {
       "title": "Prophecy of the Great Lord Elder",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 210,
+      "episodeNumber": 220,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 220. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4615,10 +5037,12 @@
     },
     {
       "title": "Storage",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 211,
+      "episodeNumber": 221,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 221. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4638,10 +5062,12 @@
     },
     {
       "title": "The Five Kage's Decision",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 212,
+      "episodeNumber": 222,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 222. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4661,10 +5087,12 @@
     },
     {
       "title": "The Young Man and the Sea",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 213,
+      "episodeNumber": 223,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 223. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4684,10 +5112,12 @@
     },
     {
       "title": "The Ninja of Benisu",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 214,
+      "episodeNumber": 224,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 224. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4707,10 +5137,12 @@
     },
     {
       "title": "The Cursed Ghost Ship",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 215,
+      "episodeNumber": 225,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 225. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4730,10 +5162,12 @@
     },
     {
       "title": "Battleship Island",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 216,
+      "episodeNumber": 226,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 226. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4753,10 +5187,12 @@
     },
     {
       "title": "The Forgotten Island",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 217,
+      "episodeNumber": 227,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 227. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4776,10 +5212,12 @@
     },
     {
       "title": "Fight! Rock Lee!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 218,
+      "episodeNumber": 228,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 228. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4799,10 +5237,12 @@
     },
     {
       "title": "Eat or Die! Mushrooms from Hell",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 219,
+      "episodeNumber": 229,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 229. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4822,10 +5262,12 @@
     },
     {
       "title": "Revenge of the Shadow Clones",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 220,
+      "episodeNumber": 230,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 230. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4845,10 +5287,12 @@
     },
     {
       "title": "The Closed Route",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 221,
+      "episodeNumber": 231,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 231. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4868,10 +5312,12 @@
     },
     {
       "title": "The Girls' Get-Together",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 222,
+      "episodeNumber": 232,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 232. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4891,10 +5337,12 @@
     },
     {
       "title": "Naruto's Imposter",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 223,
+      "episodeNumber": 233,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 233. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4914,10 +5362,12 @@
     },
     {
       "title": "Naruto's Favorite Pupil",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 224,
+      "episodeNumber": 234,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 234. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4937,10 +5387,12 @@
     },
     {
       "title": "The Kunoichi Of Nadeshiko Village",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 225,
+      "episodeNumber": 235,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 235. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4960,10 +5412,12 @@
     },
     {
       "title": "Friends You Can Count On",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 226,
+      "episodeNumber": 236,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 236. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -4983,10 +5437,12 @@
     },
     {
       "title": "Ah, My Hero Lady Tsunade!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 227,
+      "episodeNumber": 237,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 237. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5006,10 +5462,12 @@
     },
     {
       "title": "Sai's Day Off",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 228,
+      "episodeNumber": 238,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 238. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5029,10 +5487,12 @@
     },
     {
       "title": "The Legendary Ino-Shika-Cho",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 229,
+      "episodeNumber": 239,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 239. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5052,10 +5512,12 @@
     },
     {
       "title": "Kiba's Determination",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 230,
+      "episodeNumber": 240,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 240. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5075,10 +5537,12 @@
     },
     {
       "title": "Kakashi, My Eternal Rival!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 231,
+      "episodeNumber": 241,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 241. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5098,10 +5562,12 @@
     },
     {
       "title": "Naruto's Vow",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 232,
+      "episodeNumber": 242,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 242. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5121,10 +5587,12 @@
     },
     {
       "title": "Land Ahoy! Is this the Paradise Island?",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 233,
+      "episodeNumber": 243,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 243. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5144,10 +5612,12 @@
     },
     {
       "title": "Killer Bee and Motoi",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 234,
+      "episodeNumber": 244,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 244. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5167,10 +5637,12 @@
     },
     {
       "title": "The Next Challenge! Naruto vs. The Nine Tails!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 235,
+      "episodeNumber": 245,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 245. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5190,10 +5662,12 @@
     },
     {
       "title": "The Orange Spark",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 236,
+      "episodeNumber": 246,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 246. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5213,10 +5687,12 @@
     },
     {
       "title": "Target: Nine Tails",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 237,
+      "episodeNumber": 247,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 247. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5236,10 +5712,12 @@
     },
     {
       "title": "The Fourth Hokage's Death Match!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 238,
+      "episodeNumber": 248,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 248. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5259,10 +5737,12 @@
     },
     {
       "title": "Thank You",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 239,
+      "episodeNumber": 249,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 249. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5282,10 +5762,12 @@
     },
     {
       "title": "Battle in Paradise! Odd Beast vs. The Monster!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 240,
+      "episodeNumber": 250,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 250. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5305,10 +5787,12 @@
     },
     {
       "title": "The Man Named Kisame",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 241,
+      "episodeNumber": 251,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 251. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5328,10 +5812,12 @@
     },
     {
       "title": "The Angelic Herald of Death",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 242,
+      "episodeNumber": 252,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 252. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5351,10 +5837,12 @@
     },
     {
       "title": "The Bridge to Peace",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 243,
+      "episodeNumber": 253,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 253. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5374,10 +5862,12 @@
     },
     {
       "title": "The Super Secret S-Rank Mission",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 244,
+      "episodeNumber": 254,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 254. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5397,10 +5887,12 @@
     },
     {
       "title": "The Artist Returns",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 245,
+      "episodeNumber": 255,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 255. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5420,10 +5912,12 @@
     },
     {
       "title": "Assemble! Allied Shinobi Forces!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 246,
+      "episodeNumber": 256,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 256. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5443,10 +5937,12 @@
     },
     {
       "title": "Meeting",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 247,
+      "episodeNumber": 257,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 257. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5466,10 +5962,12 @@
     },
     {
       "title": "Rivals",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 248,
+      "episodeNumber": 258,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 258. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5489,10 +5987,12 @@
     },
     {
       "title": "Rift",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 249,
+      "episodeNumber": 259,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 259. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5512,10 +6012,12 @@
     },
     {
       "title": "Parting",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 250,
+      "episodeNumber": 260,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 260. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5535,10 +6037,12 @@
     },
     {
       "title": "For My Friend",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 251,
+      "episodeNumber": 261,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 261. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5558,10 +6062,12 @@
     },
     {
       "title": "War Begins",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 252,
+      "episodeNumber": 262,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 262. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5581,10 +6087,12 @@
     },
     {
       "title": "Sai and Shin",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 253,
+      "episodeNumber": 263,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 263. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5604,10 +6112,12 @@
     },
     {
       "title": "Secrets of the Reanimation Jutsu",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 254,
+      "episodeNumber": 264,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 264. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5627,10 +6137,12 @@
     },
     {
       "title": "An Old Nemesis Returns",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 255,
+      "episodeNumber": 265,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 265. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5650,10 +6162,12 @@
     },
     {
       "title": "The First and Last Opponent",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 256,
+      "episodeNumber": 266,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 266. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5673,10 +6187,12 @@
     },
     {
       "title": "The Brilliant Military Advisor of the Hidden Leaf",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 257,
+      "episodeNumber": 267,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 267. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5696,10 +6212,12 @@
     },
     {
       "title": "Battleground!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 258,
+      "episodeNumber": 268,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 268. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5719,10 +6237,12 @@
     },
     {
       "title": "Forbidden Words",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 259,
+      "episodeNumber": 269,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 269. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5742,10 +6262,12 @@
     },
     {
       "title": "Golden Bonds",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 260,
+      "episodeNumber": 270,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 270. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5765,10 +6287,12 @@
     },
     {
       "title": "Road to Sakura",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 261,
+      "episodeNumber": 271,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 271. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5788,10 +6312,12 @@
     },
     {
       "title": "Mifune vs. Hanzou",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 262,
+      "episodeNumber": 272,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 272. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5811,10 +6337,12 @@
     },
     {
       "title": "True Kindness",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 263,
+      "episodeNumber": 273,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 273. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5834,10 +6362,12 @@
     },
     {
       "title": "The Complete Ino-Shika-Cho Formation!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 264,
+      "episodeNumber": 274,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 274. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5857,10 +6387,12 @@
     },
     {
       "title": "A Message from the Heart",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 265,
+      "episodeNumber": 275,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 275. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5880,10 +6412,12 @@
     },
     {
       "title": "Attack of the Gedo Statue",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 266,
+      "episodeNumber": 276,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 276. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5903,10 +6437,12 @@
     },
     {
       "title": "Unison Sign",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 267,
+      "episodeNumber": 277,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 277. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5926,10 +6462,12 @@
     },
     {
       "title": "Medic Ninja in Danger",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 268,
+      "episodeNumber": 278,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 278. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5949,10 +6487,12 @@
     },
     {
       "title": "White Zetsu's Trap",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 269,
+      "episodeNumber": 279,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 279. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5972,10 +6512,12 @@
     },
     {
       "title": "Aesthetics of an Artist",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 270,
+      "episodeNumber": 280,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 280. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -5995,10 +6537,12 @@
     },
     {
       "title": "The Allied Mom Forces!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 271,
+      "episodeNumber": 281,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 281. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6018,10 +6562,12 @@
     },
     {
       "title": "The Secret Origin of the Ultimate Tag Team!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 272,
+      "episodeNumber": 282,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 282. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6041,10 +6587,12 @@
     },
     {
       "title": "Two Suns",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 273,
+      "episodeNumber": 283,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 283. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6064,10 +6612,12 @@
     },
     {
       "title": "The Helmet Splitter: Jinin Akebino!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 274,
+      "episodeNumber": 284,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 284. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6087,10 +6637,12 @@
     },
     {
       "title": "User of the Scorch Style: Pakura of the Sand!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 275,
+      "episodeNumber": 285,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 285. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6110,10 +6662,12 @@
     },
     {
       "title": "Things You Can't Get Back",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 276,
+      "episodeNumber": 286,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 286. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6133,10 +6687,12 @@
     },
     {
       "title": "One Worth Betting On",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 277,
+      "episodeNumber": 287,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 287. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6156,10 +6712,12 @@
     },
     {
       "title": "Danger: Jinpachi and Kushimaru!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 278,
+      "episodeNumber": 288,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 288. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6179,10 +6737,12 @@
     },
     {
       "title": "The Lightning Blade: Ameyuri Ringo!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 279,
+      "episodeNumber": 289,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 289. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6202,10 +6762,12 @@
     },
     {
       "title": "Power - Episode 1",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 280,
+      "episodeNumber": 290,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 290. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6225,10 +6787,12 @@
     },
     {
       "title": "Power - Episode 2",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 281,
+      "episodeNumber": 291,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 291. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6248,10 +6812,12 @@
     },
     {
       "title": "Power - Episode 3",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 282,
+      "episodeNumber": 292,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 292. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6271,10 +6837,12 @@
     },
     {
       "title": "Power - Episode 4",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 283,
+      "episodeNumber": 293,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 293. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6294,10 +6862,12 @@
     },
     {
       "title": "Power - Episode 5",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 284,
+      "episodeNumber": 294,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 294. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6317,10 +6887,12 @@
     },
     {
       "title": "Power - Final Episode",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 285,
+      "episodeNumber": 295,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 295. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6340,10 +6912,12 @@
     },
     {
       "title": "Naruto Enters the Battle!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 286,
+      "episodeNumber": 296,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 296. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6363,10 +6937,12 @@
     },
     {
       "title": "A Father's Hope, A Mother's Love",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 287,
+      "episodeNumber": 297,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 297. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6386,10 +6962,12 @@
     },
     {
       "title": "Contact! Naruto vs. Itachi",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 288,
+      "episodeNumber": 298,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 298. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6409,10 +6987,12 @@
     },
     {
       "title": "The Acknowledged One",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 289,
+      "episodeNumber": 299,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 299. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6432,10 +7012,12 @@
     },
     {
       "title": "The Mizukage, the Giant Clam, and the Mirage",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 290,
+      "episodeNumber": 300,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 300. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6455,10 +7037,12 @@
     },
     {
       "title": "Paradox",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 291,
+      "episodeNumber": 301,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 301. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6478,10 +7062,12 @@
     },
     {
       "title": "Terror: The Steam Imp",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 292,
+      "episodeNumber": 302,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 302. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6501,10 +7087,12 @@
     },
     {
       "title": "Ghosts from the Past",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 293,
+      "episodeNumber": 303,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 303. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6524,10 +7112,12 @@
     },
     {
       "title": "The Underworld Transfer Jutsu",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 294,
+      "episodeNumber": 304,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 304. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6547,10 +7137,12 @@
     },
     {
       "title": "The Vengeful",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 295,
+      "episodeNumber": 305,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 305. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6570,10 +7162,12 @@
     },
     {
       "title": "The Heart's Eye",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 296,
+      "episodeNumber": 306,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 306. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6593,10 +7187,12 @@
     },
     {
       "title": "Fade into the Moonlight",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 297,
+      "episodeNumber": 307,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 307. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6616,10 +7212,12 @@
     },
     {
       "title": "Night of the Crescent Moon",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 298,
+      "episodeNumber": 308,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 308. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6639,10 +7237,12 @@
     },
     {
       "title": "An A-Rank Mission: The Contest",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 299,
+      "episodeNumber": 309,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 309. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6662,10 +7262,12 @@
     },
     {
       "title": "The Fallen Castle",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 300,
+      "episodeNumber": 310,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 310. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6685,10 +7287,12 @@
     },
     {
       "title": "Prologue of Road to Ninja",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 301,
+      "episodeNumber": 311,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 311. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6708,10 +7312,12 @@
     },
     {
       "title": "The Old Master and the Dragon's Eye",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 302,
+      "episodeNumber": 312,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 312. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6731,10 +7337,12 @@
     },
     {
       "title": "Rain Followed by Snow, With a Chance of Lightning",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 303,
+      "episodeNumber": 313,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 313. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6754,10 +7362,12 @@
     },
     {
       "title": "The Sad Sun Shower",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 304,
+      "episodeNumber": 314,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 314. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6777,10 +7387,12 @@
     },
     {
       "title": "Lingering Snow",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 305,
+      "episodeNumber": 315,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 315. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6800,10 +7412,12 @@
     },
     {
       "title": "The Reanimated Allied Forces",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 306,
+      "episodeNumber": 316,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 316. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6823,10 +7437,12 @@
     },
     {
       "title": "Shino vs. Torune!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 307,
+      "episodeNumber": 317,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 317. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6846,10 +7462,12 @@
     },
     {
       "title": "A Hole in the Heart: The Other Jinchuriki",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 308,
+      "episodeNumber": 318,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 318. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6869,10 +7487,12 @@
     },
     {
       "title": "The Soul Living Inside the Puppet",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 309,
+      "episodeNumber": 319,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 319. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6892,10 +7512,12 @@
     },
     {
       "title": "Run, Omoi!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 310,
+      "episodeNumber": 320,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 320. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6915,10 +7537,12 @@
     },
     {
       "title": "Reinforcements Arrive ",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 311,
+      "episodeNumber": 321,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 321. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6938,10 +7562,12 @@
     },
     {
       "title": "Madara Uchiha ",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 312,
+      "episodeNumber": 322,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 322. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6961,10 +7587,12 @@
     },
     {
       "title": "The Five Kage Assemble ",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 313,
+      "episodeNumber": 323,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 323. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -6984,10 +7612,12 @@
     },
     {
       "title": "The Unbreakable Mask and the Shattered Bubble ",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 314,
+      "episodeNumber": 324,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 324. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7007,10 +7637,12 @@
     },
     {
       "title": "Jinchuriki vs. Jinchuriki!! ",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 315,
+      "episodeNumber": 325,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 325. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7030,10 +7662,12 @@
     },
     {
       "title": "Four Tails, the King of Sage Monkeys",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 316,
+      "episodeNumber": 326,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 326. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7053,10 +7687,12 @@
     },
     {
       "title": "Nine Tails",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 317,
+      "episodeNumber": 327,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 327. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7076,10 +7712,12 @@
     },
     {
       "title": "Kurama",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 318,
+      "episodeNumber": 328,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 328. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7099,10 +7737,12 @@
     },
     {
       "title": "Two-Man Team",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 319,
+      "episodeNumber": 329,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 329. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7122,10 +7762,12 @@
     },
     {
       "title": "The Promise of Victory ",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 320,
+      "episodeNumber": 330,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 330. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7145,10 +7787,12 @@
     },
     {
       "title": "Eyes That See in the Dark",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 321,
+      "episodeNumber": 331,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 331. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7168,10 +7812,12 @@
     },
     {
       "title": "A Will of Stone",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 322,
+      "episodeNumber": 332,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 332. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7191,10 +7837,12 @@
     },
     {
       "title": "The Risks of the Reanimation Jutsu",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 323,
+      "episodeNumber": 333,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 333. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7214,10 +7862,12 @@
     },
     {
       "title": "Sibling Tag Team",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 324,
+      "episodeNumber": 334,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 334. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7237,10 +7887,12 @@
     },
     {
       "title": "To Each Their Own Leaf",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 325,
+      "episodeNumber": 335,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 335. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7260,10 +7912,12 @@
     },
     {
       "title": "Kabuto Yakushi",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 326,
+      "episodeNumber": 336,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 336. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7283,10 +7937,12 @@
     },
     {
       "title": "The Izanami Activated",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 327,
+      "episodeNumber": 337,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 337. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7306,10 +7962,12 @@
     },
     {
       "title": "Izanagi and Izanami",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 328,
+      "episodeNumber": 338,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 338. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7329,10 +7987,12 @@
     },
     {
       "title": "I Will Love You Always",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 329,
+      "episodeNumber": 339,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 339. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7352,10 +8012,12 @@
     },
     {
       "title": "Reanimation Jutsu: Release!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 330,
+      "episodeNumber": 340,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 340. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7375,10 +8037,12 @@
     },
     {
       "title": "Orochimaru's Return",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 331,
+      "episodeNumber": 341,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 341. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7398,10 +8062,12 @@
     },
     {
       "title": "The Secret of the Transportation Technique",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 332,
+      "episodeNumber": 342,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 342. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7421,10 +8087,12 @@
     },
     {
       "title": "Who Are You?",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 333,
+      "episodeNumber": 343,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 343. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7444,10 +8112,12 @@
     },
     {
       "title": "Obito and Madara",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 334,
+      "episodeNumber": 344,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 344. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7467,10 +8137,12 @@
     },
     {
       "title": "I'm in Hell",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 335,
+      "episodeNumber": 345,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 345. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7490,10 +8162,12 @@
     },
     {
       "title": "World of Dreams",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 336,
+      "episodeNumber": 346,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 346. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7513,10 +8187,12 @@
     },
     {
       "title": "Creeping Shadow",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 337,
+      "episodeNumber": 347,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 347. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7536,10 +8212,12 @@
     },
     {
       "title": "The New Akatsuki",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 338,
+      "episodeNumber": 348,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 348. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7559,10 +8237,12 @@
     },
     {
       "title": "A Mask that Hides the Heart",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 339,
+      "episodeNumber": 349,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 349. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7582,10 +8262,12 @@
     },
     {
       "title": "Minato's Death",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 340,
+      "episodeNumber": 350,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 350. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7605,10 +8287,12 @@
     },
     {
       "title": "Hashirama's Cells",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 341,
+      "episodeNumber": 351,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 351. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7628,10 +8312,12 @@
     },
     {
       "title": "The Rogue Ninja Orochimaru",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 342,
+      "episodeNumber": 352,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 352. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7651,10 +8337,12 @@
     },
     {
       "title": "Orochimaru's Test Subject",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 343,
+      "episodeNumber": 353,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 353. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7674,10 +8362,12 @@
     },
     {
       "title": "Their Own Paths",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 344,
+      "episodeNumber": 354,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 354. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7697,10 +8387,12 @@
     },
     {
       "title": "The Targeted Sharingan",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 345,
+      "episodeNumber": 355,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 355. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7720,10 +8412,12 @@
     },
     {
       "title": "A Shinobi of the Leaf",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 346,
+      "episodeNumber": 356,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 356. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7743,10 +8437,12 @@
     },
     {
       "title": "An Uchiha ANBU",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 347,
+      "episodeNumber": 357,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 357. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7766,10 +8462,12 @@
     },
     {
       "title": "Coup d'État",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 348,
+      "episodeNumber": 358,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 358. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7789,10 +8487,12 @@
     },
     {
       "title": "The Night of the Tragedy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 349,
+      "episodeNumber": 359,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 359. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7812,10 +8512,12 @@
     },
     {
       "title": "Jonin Leader",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 350,
+      "episodeNumber": 360,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 360. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7835,10 +8537,12 @@
     },
     {
       "title": "Squad Seven",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 351,
+      "episodeNumber": 361,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 361. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7858,10 +8562,12 @@
     },
     {
       "title": "Kakashi's Resolve",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 352,
+      "episodeNumber": 362,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 362. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7881,10 +8587,12 @@
     },
     {
       "title": "The Allied Shinobi Forces Jutsu!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 353,
+      "episodeNumber": 363,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 363. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7904,10 +8612,12 @@
     },
     {
       "title": "The Ties That Bind",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 354,
+      "episodeNumber": 364,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 364. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7927,10 +8637,12 @@
     },
     {
       "title": "Those Who Dance in the Shadows",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 355,
+      "episodeNumber": 365,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 365. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7950,10 +8662,12 @@
     },
     {
       "title": "The All-Knowing",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 356,
+      "episodeNumber": 366,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 366. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7973,10 +8687,12 @@
     },
     {
       "title": "Hashirama and Madara",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 357,
+      "episodeNumber": 367,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 367. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -7996,10 +8712,12 @@
     },
     {
       "title": "The Era of Warring States",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 358,
+      "episodeNumber": 368,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 368. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8019,10 +8737,12 @@
     },
     {
       "title": "My True Dream",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 359,
+      "episodeNumber": 369,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 369. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8042,10 +8762,12 @@
     },
     {
       "title": "Sasuke's Answer",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 360,
+      "episodeNumber": 370,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 370. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8065,10 +8787,12 @@
     },
     {
       "title": "Hole",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 361,
+      "episodeNumber": 371,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 371. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8088,10 +8812,12 @@
     },
     {
       "title": "Something to Fill the Hole",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 362,
+      "episodeNumber": 372,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 372. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8111,10 +8837,12 @@
     },
     {
       "title": "Team 7 Assemble!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 363,
+      "episodeNumber": 373,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 373. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8134,10 +8862,12 @@
     },
     {
       "title": "The New Three-Way Deadlock",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 364,
+      "episodeNumber": 374,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 374. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8157,10 +8887,12 @@
     },
     {
       "title": "Kakashi vs. Obito",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 365,
+      "episodeNumber": 375,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 375. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8180,10 +8912,12 @@
     },
     {
       "title": "The Directive to Take the Nine-Tails!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 366,
+      "episodeNumber": 376,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 376. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8203,10 +8937,12 @@
     },
     {
       "title": "Naruto vs. Mecha Naruto",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 367,
+      "episodeNumber": 377,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 377. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8226,10 +8962,12 @@
     },
     {
       "title": "The Ten Tails' Jinchuriki",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 368,
+      "episodeNumber": 378,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 378. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8249,10 +8987,12 @@
     },
     {
       "title": "An Opening",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 369,
+      "episodeNumber": 379,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 379. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8272,10 +9012,12 @@
     },
     {
       "title": "The Day Naruto Was Born",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 370,
+      "episodeNumber": 380,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 380. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8295,10 +9037,12 @@
     },
     {
       "title": "The Divine Tree",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 371,
+      "episodeNumber": 381,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 381. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8318,10 +9062,12 @@
     },
     {
       "title": "A Shinobi's Dream",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 372,
+      "episodeNumber": 382,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 382. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8341,10 +9087,12 @@
     },
     {
       "title": "Pursuing Hope",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 373,
+      "episodeNumber": 383,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 383. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8364,10 +9112,12 @@
     },
     {
       "title": "A Heart Filled With Comrades",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 374,
+      "episodeNumber": 384,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 384. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8387,10 +9137,12 @@
     },
     {
       "title": "Obito Uchiha",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 375,
+      "episodeNumber": 385,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 385. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8410,10 +9162,12 @@
     },
     {
       "title": "I'm Always Watching",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 376,
+      "episodeNumber": 386,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 386. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8433,10 +9187,12 @@
     },
     {
       "title": "The Promise That Was Kept",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 377,
+      "episodeNumber": 387,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 387. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8456,10 +9212,12 @@
     },
     {
       "title": "My First Friend",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 378,
+      "episodeNumber": 388,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 388. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8479,10 +9237,12 @@
     },
     {
       "title": "The Adored Elder Sister",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 379,
+      "episodeNumber": 389,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 389. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8502,10 +9262,12 @@
     },
     {
       "title": "Hanabi's Decision",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 380,
+      "episodeNumber": 390,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 390. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8525,10 +9287,12 @@
     },
     {
       "title": "Madara Uchiha Arises",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 381,
+      "episodeNumber": 391,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 391. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8548,10 +9312,12 @@
     },
     {
       "title": "The Hidden Heart",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 382,
+      "episodeNumber": 392,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 392. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8571,10 +9337,12 @@
     },
     {
       "title": "A True Ending",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 383,
+      "episodeNumber": 393,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 393. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8594,10 +9362,12 @@
     },
     {
       "title": "The New Chunin Exams",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 384,
+      "episodeNumber": 394,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 394. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8617,10 +9387,12 @@
     },
     {
       "title": "The Chunin Exams Begin!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 385,
+      "episodeNumber": 395,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 395. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8640,10 +9412,12 @@
     },
     {
       "title": "The Three Questions",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 386,
+      "episodeNumber": 396,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 396. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8663,10 +9437,12 @@
     },
     {
       "title": "One Worthy As A Leader",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 387,
+      "episodeNumber": 397,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 397. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8686,10 +9462,12 @@
     },
     {
       "title": "The Night Before the Second Exam",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 388,
+      "episodeNumber": 398,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 398. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8709,10 +9487,12 @@
     },
     {
       "title": "Demon Desert Survival",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 389,
+      "episodeNumber": 399,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 399. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8732,10 +9512,12 @@
     },
     {
       "title": "As a Taijutsu User",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 390,
+      "episodeNumber": 400,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 400. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8755,10 +9537,12 @@
     },
     {
       "title": "The Ultimate",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 391,
+      "episodeNumber": 401,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 401. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8778,10 +9562,12 @@
     },
     {
       "title": "Escape vs. Pursuit",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 392,
+      "episodeNumber": 402,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 402. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8801,10 +9587,12 @@
     },
     {
       "title": "Unwavering Gutsiness",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 393,
+      "episodeNumber": 403,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 403. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8824,10 +9612,12 @@
     },
     {
       "title": "Tenten's Troubles",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 394,
+      "episodeNumber": 404,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 404. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8847,10 +9637,12 @@
     },
     {
       "title": "The Imprisoned Pair",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 395,
+      "episodeNumber": 405,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 405. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8870,10 +9662,12 @@
     },
     {
       "title": "The Place Where I Belong",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 396,
+      "episodeNumber": 406,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 406. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8893,10 +9687,12 @@
     },
     {
       "title": "The Yamanaka Clan's Secret Ninjutsu",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 397,
+      "episodeNumber": 407,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 407. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8916,10 +9712,12 @@
     },
     {
       "title": "The Cursed Puppet",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 398,
+      "episodeNumber": 408,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 408. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8939,10 +9737,12 @@
     },
     {
       "title": "Their Backs",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 399,
+      "episodeNumber": 409,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 409. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8962,10 +9762,12 @@
     },
     {
       "title": "The Hidden Plot Set Into Motion",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 400,
+      "episodeNumber": 410,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 410. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -8985,10 +9787,12 @@
     },
     {
       "title": "The Targeted Tailed Beast",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 401,
+      "episodeNumber": 411,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 411. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9008,10 +9812,12 @@
     },
     {
       "title": "Neji's Judgement",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 402,
+      "episodeNumber": 412,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 412. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9031,10 +9837,12 @@
     },
     {
       "title": "Hopes Entrusted to the Future",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 403,
+      "episodeNumber": 413,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 413. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9054,10 +9862,12 @@
     },
     {
       "title": "On the Brink of Death",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 404,
+      "episodeNumber": 414,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 414. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9077,10 +9887,12 @@
     },
     {
       "title": "The Two Mangekyo",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 405,
+      "episodeNumber": 415,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 415. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9100,10 +9912,12 @@
     },
     {
       "title": "The Formation of Team Minato",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 406,
+      "episodeNumber": 416,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 416. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9123,10 +9937,12 @@
     },
     {
       "title": "You'll Be My Backup",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 407,
+      "episodeNumber": 417,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 417. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9146,10 +9962,12 @@
     },
     {
       "title": "The Wild Green Beast vs. Six Paths Madara",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 408,
+      "episodeNumber": 418,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 418. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9169,10 +9987,12 @@
     },
     {
       "title": "Papa's Youth",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 409,
+      "episodeNumber": 419,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 419. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9192,10 +10012,12 @@
     },
     {
       "title": "The Eight Inner Gates Formation",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 410,
+      "episodeNumber": 420,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 420. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9215,10 +10037,12 @@
     },
     {
       "title": "The Sage of the Six Paths",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 411,
+      "episodeNumber": 421,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 421. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9238,10 +10062,12 @@
     },
     {
       "title": "The Ones Who Will Inherit",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 412,
+      "episodeNumber": 422,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 422. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9261,10 +10087,12 @@
     },
     {
       "title": "Naruto's Rival",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 413,
+      "episodeNumber": 423,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 423. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9284,10 +10112,12 @@
     },
     {
       "title": "To Rise Up",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 414,
+      "episodeNumber": 424,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 424. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9307,10 +10137,12 @@
     },
     {
       "title": "The Infinite Dream",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 415,
+      "episodeNumber": 425,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 425. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9330,10 +10162,12 @@
     },
     {
       "title": "The Infinite Tsukuyomi",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 416,
+      "episodeNumber": 426,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 426. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9353,10 +10187,12 @@
     },
     {
       "title": "Road to Tenten ~The World of Dreams",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 417,
+      "episodeNumber": 427,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 427. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9376,10 +10212,12 @@
     },
     {
       "title": "Road to Tenten ~ Where Tenten Belongs",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 418,
+      "episodeNumber": 428,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 428. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9399,10 +10237,12 @@
     },
     {
       "title": "Killer Bee's Rap Chronicles: Scroll of Heaven",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 419,
+      "episodeNumber": 429,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 429. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9422,10 +10262,12 @@
     },
     {
       "title": "Killer Bee's Rap Chronicles: Scroll of Earth",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 420,
+      "episodeNumber": 430,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 430. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9445,10 +10287,12 @@
     },
     {
       "title": "To See That Smile, Just One More Time",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 421,
+      "episodeNumber": 431,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 431. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9468,10 +10312,12 @@
     },
     {
       "title": "The Loser Ninja",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 422,
+      "episodeNumber": 432,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 432. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9491,10 +10337,12 @@
     },
     {
       "title": "The Search Mission",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 423,
+      "episodeNumber": 433,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 433. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9514,10 +10362,12 @@
     },
     {
       "title": "Team Jiraiya",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 424,
+      "episodeNumber": 434,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 434. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9537,10 +10387,12 @@
     },
     {
       "title": "Order of Priority",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 425,
+      "episodeNumber": 435,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 435. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9560,10 +10412,12 @@
     },
     {
       "title": "The Masked Man",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 426,
+      "episodeNumber": 436,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 436. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9583,10 +10437,12 @@
     },
     {
       "title": "The Sealed Power",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 427,
+      "episodeNumber": 437,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 437. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9606,10 +10462,12 @@
     },
     {
       "title": "The Rules or a Comrade?",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 428,
+      "episodeNumber": 438,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 438. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9629,10 +10487,12 @@
     },
     {
       "title": "Child of the Prophecy",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 429,
+      "episodeNumber": 439,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 439. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9652,10 +10512,12 @@
     },
     {
       "title": "The Caged Bird",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 430,
+      "episodeNumber": 440,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 440. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9675,10 +10537,12 @@
     },
     {
       "title": "Returning Home",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 431,
+      "episodeNumber": 441,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 441. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9698,10 +10562,12 @@
     },
     {
       "title": "The Mutual Path",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 432,
+      "episodeNumber": 442,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 442. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9721,10 +10587,12 @@
     },
     {
       "title": "The Difference in Power",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 433,
+      "episodeNumber": 443,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 443. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9744,10 +10612,12 @@
     },
     {
       "title": "Leaving the Village",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 434,
+      "episodeNumber": 444,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 444. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9767,10 +10637,12 @@
     },
     {
       "title": "The Pursuer",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 435,
+      "episodeNumber": 445,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 445. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9790,10 +10662,12 @@
     },
     {
       "title": "The Collision",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 436,
+      "episodeNumber": 446,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 446. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9813,10 +10687,12 @@
     },
     {
       "title": "Another Moon",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 437,
+      "episodeNumber": 447,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 447. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9836,10 +10712,12 @@
     },
     {
       "title": "Comrade",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 438,
+      "episodeNumber": 448,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 448. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9859,10 +10737,12 @@
     },
     {
       "title": "The Shinobi Unite",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 439,
+      "episodeNumber": 449,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 449. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9882,10 +10762,12 @@
     },
     {
       "title": "Rivals",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 440,
+      "episodeNumber": 450,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 450. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9905,10 +10787,12 @@
     },
     {
       "title": "Itachi's Story - Light and Darkness: Birth and Death",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 441,
+      "episodeNumber": 451,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 451. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9928,10 +10812,12 @@
     },
     {
       "title": "Itachi's Story - Light and Darkness: The Genius",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 442,
+      "episodeNumber": 452,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 452. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9951,10 +10837,12 @@
     },
     {
       "title": "Itachi's Story - Light and Darkness: The Pain of Living",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 443,
+      "episodeNumber": 453,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 453. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9974,10 +10862,12 @@
     },
     {
       "title": "Itachi's Story - Light and Darkness: Shisui's Request",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 444,
+      "episodeNumber": 454,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 454. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -9997,10 +10887,12 @@
     },
     {
       "title": "Itachi's Story - Light and Darkness: Moonlit Night",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 445,
+      "episodeNumber": 455,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 455. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10020,10 +10912,12 @@
     },
     {
       "title": "Itachi's Story - Light and Darkness: The Darkness of the Akatsuki",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 446,
+      "episodeNumber": 456,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 456. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10043,10 +10937,12 @@
     },
     {
       "title": "Itachi's Story - Light and Darkness: Partner",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 447,
+      "episodeNumber": 457,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 457. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10066,10 +10962,12 @@
     },
     {
       "title": "Itachi's Story - Light and Darkness: Truth",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 448,
+      "episodeNumber": 458,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 458. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10089,10 +10987,12 @@
     },
     {
       "title": "She Of The Beginning",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 449,
+      "episodeNumber": 459,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 459. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10112,10 +11012,12 @@
     },
     {
       "title": "Kaguya Otsutsuki",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 450,
+      "episodeNumber": 460,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 460. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10135,10 +11037,12 @@
     },
     {
       "title": "Hagoromo and Hamura",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 451,
+      "episodeNumber": 461,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 461. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10158,10 +11062,12 @@
     },
     {
       "title": "A Fabricated Past",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 452,
+      "episodeNumber": 462,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 462. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10181,10 +11087,12 @@
     },
     {
       "title": "The No. 1 Most Unpredictable Ninja",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 453,
+      "episodeNumber": 463,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 463. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10204,10 +11112,12 @@
     },
     {
       "title": "Ninshu: The Ninja Creed",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 454,
+      "episodeNumber": 464,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 464. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10227,10 +11137,12 @@
     },
     {
       "title": "Ashura and Indra",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 455,
+      "episodeNumber": 465,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 465. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10250,10 +11162,12 @@
     },
     {
       "title": "The Tumultuous Journey",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 456,
+      "episodeNumber": 466,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 466. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10273,10 +11187,12 @@
     },
     {
       "title": "Ashura's Decision",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 457,
+      "episodeNumber": 467,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 467. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10296,10 +11212,12 @@
     },
     {
       "title": "The Successor",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 458,
+      "episodeNumber": 468,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 468. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10319,10 +11237,12 @@
     },
     {
       "title": "A Special Mission",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 459,
+      "episodeNumber": 469,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 469. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10342,10 +11262,12 @@
     },
     {
       "title": "Connecting Thoughts",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 460,
+      "episodeNumber": 470,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 470. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10365,10 +11287,12 @@
     },
     {
       "title": "The Two of Them...Always",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 461,
+      "episodeNumber": 471,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 471. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10388,10 +11312,12 @@
     },
     {
       "title": "You Better...",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 462,
+      "episodeNumber": 472,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 472. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10411,10 +11337,12 @@
     },
     {
       "title": "The Sharingan Revived",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 463,
+      "episodeNumber": 473,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 473. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10434,10 +11362,12 @@
     },
     {
       "title": "Congratulations",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 464,
+      "episodeNumber": 474,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 474. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10457,10 +11387,12 @@
     },
     {
       "title": "The Final Valley",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 465,
+      "episodeNumber": 475,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 475. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10480,10 +11412,12 @@
     },
     {
       "title": "The Final Battle",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 466,
+      "episodeNumber": 476,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 476. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10503,10 +11437,12 @@
     },
     {
       "title": "Naruto and Sasuke",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 467,
+      "episodeNumber": 477,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 477. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10526,10 +11462,12 @@
     },
     {
       "title": "The Unison Sign",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 468,
+      "episodeNumber": 478,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 478. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10549,10 +11487,12 @@
     },
     {
       "title": "Naruto Uzumaki!!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 469,
+      "episodeNumber": 479,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 479. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10572,10 +11512,12 @@
     },
     {
       "title": "Naruto and Hinata",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 470,
+      "episodeNumber": 480,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 480. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10595,10 +11537,12 @@
     },
     {
       "title": "Sasuke and Sakura",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 471,
+      "episodeNumber": 481,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 481. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10618,10 +11562,12 @@
     },
     {
       "title": "Gaara and Shikamaru",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 472,
+      "episodeNumber": 482,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 482. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10641,10 +11587,12 @@
     },
     {
       "title": "Jiraiya and Kakashi",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 473,
+      "episodeNumber": 483,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 483. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10664,10 +11612,12 @@
     },
     {
       "title": "Sasuke's Story, Sunrise, Part 1: The Exploding Human",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 474,
+      "episodeNumber": 484,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 484. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10687,10 +11637,12 @@
     },
     {
       "title": "Sasuke's Story, Sunrise, Part 2: Colosseum",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 475,
+      "episodeNumber": 485,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 485. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10710,10 +11662,12 @@
     },
     {
       "title": "Sasuke's Story, Sunrise, Part 3: Fūshin",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 476,
+      "episodeNumber": 486,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 486. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10733,10 +11687,12 @@
     },
     {
       "title": "Sasuke's Story, Sunrise, Part 4: The Ketsuryūgan",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 477,
+      "episodeNumber": 487,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 487. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10756,10 +11712,12 @@
     },
     {
       "title": "Sasuke's Story, Sunrise, Part 5: The Last One",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 478,
+      "episodeNumber": 488,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 488. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10779,10 +11737,12 @@
     },
     {
       "title": "Shikamaru's Story, A Cloud Drifting in the Silent Dark, Part 1: The State of Affairs",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 479,
+      "episodeNumber": 489,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 489. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10802,10 +11762,12 @@
     },
     {
       "title": "Shikamaru's Story, A Cloud Drifting in the Silent Dark, Part 2: Dark Clouds",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 480,
+      "episodeNumber": 490,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 490. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10825,10 +11787,12 @@
     },
     {
       "title": "Shikamaru's Story, A Cloud Drifting in the Silent Dark, Part 3: Recklessness",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 481,
+      "episodeNumber": 491,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 491. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10848,10 +11812,12 @@
     },
     {
       "title": "Shikamaru's Story, A Cloud Drifting in the Silent Dark, Part 4: Cloud of Suspicion",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 482,
+      "episodeNumber": 492,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 492. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10871,10 +11837,12 @@
     },
     {
       "title": "Shikamaru's Story, A Cloud Drifting in the Silent Dark, Part 5: Dawn",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 483,
+      "episodeNumber": 493,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 493. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10894,10 +11862,12 @@
     },
     {
       "title": "Hidden Leaf Story, The Perfect Day for a Wedding, Part 1: Naruto's Wedding",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 484,
+      "episodeNumber": 494,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 494. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10917,10 +11887,12 @@
     },
     {
       "title": "Hidden Leaf Story, The Perfect Day for a Wedding, Part 2: A Full-Powered Wedding Gift",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 485,
+      "episodeNumber": 495,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 495. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10940,10 +11912,12 @@
     },
     {
       "title": "Hidden Leaf Story, The Perfect Day for a Wedding, Part 3: Hot Springs and Food Pills",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 486,
+      "episodeNumber": 496,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 496. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10963,10 +11937,12 @@
     },
     {
       "title": "Hidden Leaf Story, The Perfect Day for a Wedding, Part 4: The Kazekage's Wedding Gift",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 487,
+      "episodeNumber": 497,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 497. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -10986,10 +11962,12 @@
     },
     {
       "title": "Hidden Leaf Story, The Perfect Day for a Wedding, Part 5: The Last Mission",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 488,
+      "episodeNumber": 498,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 498. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -11009,10 +11987,12 @@
     },
     {
       "title": "Hidden Leaf Story, The Perfect Day for a Wedding, Part 6: The Outcome of the Secret Mission!",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 489,
+      "episodeNumber": 499,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 499. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
@@ -11032,10 +12012,12 @@
     },
     {
       "title": "Hidden Leaf Story, The Perfect Day for a Wedding, Part 7: The Message",
-      "episodeNumber": 0,
-      "seasonNumber": 0,
+      "episodeID": 490,
+      "episodeNumber": 500,
+      "seasonNumber": 1,
       "optionalSeasonText": "1. Sezon 500. Bölüm",
       "autoQuality": false,
+      "sourceType": 0,
       "sourceURL": [
         {
           "first": "480p",
