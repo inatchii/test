@@ -2,7 +2,6 @@
   "episodes": [
     {
       "title": "S01 - 01.BÖLÜM",
-      "episodeID": 0,
       "episodeNumber": 1,
       "seasonNumber": 1,
       "optionalSeasonText": "",
@@ -15,7 +14,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 0
     },
     {
       "title": "S01 - 02.BÖLÜM",
@@ -31,7 +31,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 1
     },
     {
       "title": "S01 - 03.BÖLÜM",
@@ -47,7 +48,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 2
     },
     {
       "title": "S01 - 04.BÖLÜM",
@@ -63,7 +65,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 3
     },
     {
       "title": "S01 - 05.BÖLÜM",
@@ -79,7 +82,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 4
     },
     {
       "title": "S01 - 06.BÖLÜM",
@@ -95,7 +99,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 5
     },
     {
       "title": "S01 - 07.BÖLÜM",
@@ -111,7 +116,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 6
     },
     {
       "title": "S01 - 08.BÖLÜM",
@@ -127,7 +133,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 7
     },
     {
       "title": "S01 - 09.BÖLÜM",
@@ -143,7 +150,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 8
     },
     {
       "title": "S01 - 10.BÖLÜM",
@@ -159,7 +167,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 9
     },
     {
       "title": "S01 - 11.BÖLÜM",
@@ -175,7 +184,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 10
     },
     {
       "title": "S01 - 12.BÖLÜM",
@@ -191,7 +201,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 11
     },
     {
       "title": "S02 - 01.BÖLÜM",
@@ -207,7 +218,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 12
     },
     {
       "title": "S02 - 02.BÖLÜM",
@@ -223,7 +235,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 13
     },
     {
       "title": "S02 - 03.BÖLÜM",
@@ -239,7 +252,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 14
     },
     {
       "title": "S02 - 04.BÖLÜM",
@@ -255,7 +269,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 15
     },
     {
       "title": "S02 - 05.BÖLÜM",
@@ -271,7 +286,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 16
     },
     {
       "title": "S02 - 06.BÖLÜM",
@@ -287,7 +303,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 17
     },
     {
       "title": "S02 - 07.BÖLÜM",
@@ -303,7 +320,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 18
     },
     {
       "title": "S02 - 08.BÖLÜM",
@@ -319,7 +337,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 19
     },
     {
       "title": "S02 - 09.BÖLÜM",
@@ -335,7 +354,8 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 20
     },
     {
       "title": "S02 - 10.BÖLÜM",
@@ -351,12 +371,12 @@
           "first": "User-Agent",
           "second": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         }
-      ]
+      ],
+      "episodeID": 21
     },
     {
       "title": "S03 - 01.BÖLÜM",
       "episodeNumber": 1,
-      "episodeID": 1,
       "seasonNumber": 3,
       "optionalSeasonText": "",
       "autoQuality": true,
@@ -376,7 +396,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 22
     },
     {
       "title": "S03 - 02.BÖLÜM",
@@ -400,7 +421,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 23
     },
     {
       "title": "S03 - 03.BÖLÜM",
@@ -424,7 +446,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 24
     },
     {
       "title": "S03 - 04.BÖLÜM",
@@ -448,7 +471,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 25
     },
     {
       "title": "S03 - 05.BÖLÜM",
@@ -472,7 +496,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 26
     },
     {
       "title": "S03 - 06.BÖLÜM",
@@ -496,7 +521,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 27
     },
     {
       "title": "S03 - 07.BÖLÜM",
@@ -520,7 +546,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 28
     },
     {
       "title": "S03 - 08.BÖLÜM",
@@ -544,7 +571,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 29
     },
     {
       "title": "S03 - 09.BÖLÜM",
@@ -568,7 +596,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 30
     },
     {
       "title": "S03 - 10.BÖLÜM",
@@ -592,7 +621,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 31
     },
     {
       "title": "S04 - 01.BÖLÜM",
@@ -616,7 +646,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 32
     },
     {
       "title": "S04 - 02.BÖLÜM",
@@ -640,7 +671,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 33
     },
     {
       "title": "S04 - 03.BÖLÜM",
@@ -664,7 +696,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 34
     },
     {
       "title": "S04 - 04.BÖLÜM",
@@ -688,7 +721,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 35
     },
     {
       "title": "S04 - 05.BÖLÜM",
@@ -712,7 +746,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 36
     },
     {
       "title": "S04 - 06.BÖLÜM",
@@ -736,7 +771,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 37
     },
     {
       "title": "S04 - 07.BÖLÜM",
@@ -760,7 +796,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 38
     },
     {
       "title": "S04 - 08.BÖLÜM",
@@ -784,7 +821,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 39
     },
     {
       "title": "S04 - 09.BÖLÜM",
@@ -808,7 +846,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 40
     },
     {
       "title": "S04 - 10.BÖLÜM",
@@ -832,7 +871,8 @@
           "first": "XRequestedWith",
           "second": "XMLHttpRequest"
         }
-      ]
+      ],
+      "episodeID": 41
     }
   ]
 }
