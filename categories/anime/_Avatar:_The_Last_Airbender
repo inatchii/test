@@ -8,16 +8,8 @@
       "optionalSeasonText": "1. Sezon 1. Bölüm",
       "autoQuality": false,
       "sourceType": 3,
-      "sourceURL": [
-        {
-          "first": "480p",
-          "second": "https://youtu.be/Bs9FuI2PG_w?si=zUM6kx6DgbfWtHx7"
-        },
-        {
-          "first": "1080p",
-          "second": "https://hydra.don-kanonji.gq/avatar-the-last-airbender/1/1/1080.mp4"
-        }
-      ],
+      "sourceUrlToGetFrom": "https://youtu.be/Bs9FuI2PG_w?si=zUM6kx6DgbfWtHx7",
+      "sourceURL": null,
       "sourceAuth": null
     },
     {
