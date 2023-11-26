@@ -3,7 +3,7 @@
     {
       "title": "Selena 1. Bölüm",
       "episodeID": 0,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=Si87MvnKnlY",
@@ -13,7 +13,7 @@
     {
       "title": "Selena 2. Bölüm",
       "episodeID": 1,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=jr5AFQvxbLo",
@@ -23,7 +23,7 @@
     {
       "title": "Selena 3. Bölüm",
       "episodeID": 2,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=tAdDkjACqRw",
@@ -33,7 +33,7 @@
     {
       "title": "Selena 4. Bölüm",
       "episodeID": 3,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=tMMF4yq5cpA",
@@ -43,7 +43,7 @@
     {
       "title": "Selena 5. Bölüm",
       "episodeID": 4,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=CEXTPWY-LE4",
@@ -53,7 +53,7 @@
     {
       "title": "Selena 6. Bölüm",
       "episodeID": 5,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=Lr0y9OBg9xM",
@@ -63,7 +63,7 @@
     {
       "title": "Selena 7. Bölüm",
       "episodeID": 6,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=Lr4YECewJm0",
@@ -73,7 +73,7 @@
     {
       "title": "Selena 8. Bölüm",
       "episodeID": 7,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=WHUgoNu3cXw",
@@ -83,7 +83,7 @@
     {
       "title": "Selena 9. Bölüm",
       "episodeID": 8,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=7VB2xjFQqJc",
@@ -93,7 +93,7 @@
     {
       "title": "Selena 10. Bölüm",
       "episodeID": 9,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=FH7fMpN85Jc",
@@ -103,7 +103,7 @@
     {
       "title": "Selena 11. Bölüm",
       "episodeID": 10,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=oeHW6F4WT9E",
@@ -113,7 +113,7 @@
     {
       "title": "Selena 12. Bölüm",
       "episodeID": 11,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=v-X5TmqQ-Q8",
@@ -123,7 +123,7 @@
     {
       "title": "Selena 13. Bölüm",
       "episodeID": 12,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=Ja3NKGB5S_8",
@@ -133,7 +133,7 @@
     {
       "title": "Selena 14. Bölüm",
       "episodeID": 13,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=P6OslmzFOUI",
@@ -143,7 +143,7 @@
     {
       "title": "Selena 15. Bölüm",
       "episodeID": 14,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=JBIgvcTohR0",
@@ -153,7 +153,7 @@
     {
       "title": "Selena 16. Bölüm",
       "episodeID": 15,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=JCHSQWgGsb0",
@@ -163,7 +163,7 @@
     {
       "title": "Selena 17. Bölüm",
       "episodeID": 16,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=zOWPanSjG28",
@@ -173,7 +173,7 @@
     {
       "title": "Selena 18. Bölüm",
       "episodeID": 17,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=JhXTwy_ivJA",
@@ -183,7 +183,7 @@
     {
       "title": "Selena 19. Bölüm",
       "episodeID": 18,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=vVCPnUHcMIw",
@@ -193,7 +193,7 @@
     {
       "title": "Selena 20. Bölüm",
       "episodeID": 19,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=9yw_RLTCK0I",
@@ -203,7 +203,7 @@
     {
       "title": "Selena 21. Bölüm",
       "episodeID": 20,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=5YXy_JP-uJ8",
@@ -213,7 +213,7 @@
     {
       "title": "Selena 22. Bölüm",
       "episodeID": 21,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=MOpbTQCMEsE",
@@ -223,7 +223,7 @@
     {
       "title": "Selena 23. Bölüm",
       "episodeID": 22,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=9Kka0CNqi4E",
@@ -233,7 +233,7 @@
     {
       "title": "Selena 24. Bölüm",
       "episodeID": 23,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=CEK-0HhVESo",
@@ -243,7 +243,7 @@
     {
       "title": "Selena 25. Bölüm",
       "episodeID": 24,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=7rU_Ork4dDU",
@@ -253,7 +253,7 @@
     {
       "title": "Selena 26. Bölüm",
       "episodeID": 25,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=wrrmEIy8oWs",
@@ -263,7 +263,7 @@
     {
       "title": "Selena 27. Bölüm",
       "episodeID": 26,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=UyIszB5ZE1U",
@@ -273,7 +273,7 @@
     {
       "title": "Selena 28. Bölüm",
       "episodeID": 27,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=tok1vUpiUOc",
@@ -283,7 +283,7 @@
     {
       "title": "Selena 29. Bölüm",
       "episodeID": 28,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=V5DWB9nE4zo",
@@ -293,7 +293,7 @@
     {
       "title": "Selena 30. Bölüm",
       "episodeID": 29,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=M7mQPAkDMv4",
@@ -303,7 +303,7 @@
     {
       "title": "Selena 31. Bölüm",
       "episodeID": 30,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=bSCmD-1Fs3o",
@@ -313,7 +313,7 @@
     {
       "title": "Selena 32. Bölüm",
       "episodeID": 31,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=iP9lJnJ_L0s",
@@ -323,7 +323,7 @@
     {
       "title": "Selena 33. Bölüm",
       "episodeID": 32,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=7DEcH1p17Kw",
@@ -333,7 +333,7 @@
     {
       "title": "Selena 34. Bölüm",
       "episodeID": 33,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=_NEMbk_HMjQ",
@@ -343,7 +343,7 @@
     {
       "title": "Selena 35. Bölüm",
       "episodeID": 34,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=nwvLVroTGv4",
@@ -353,7 +353,7 @@
     {
       "title": "Selena 36. Bölüm",
       "episodeID": 35,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=dq8hBfLlIR0",
@@ -363,7 +363,7 @@
     {
       "title": "Selena 37. Bölüm",
       "episodeID": 36,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=h4_awg3GyfE",
@@ -373,7 +373,7 @@
     {
       "title": "Selena 38. Bölüm",
       "episodeID": 37,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=CiF0VhhZOhg",
@@ -383,7 +383,7 @@
     {
       "title": "Selena 39. Bölüm",
       "episodeID": 38,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=zZK0ne4ZRHA",
@@ -393,7 +393,7 @@
     {
       "title": "Selena 40. Bölüm",
       "episodeID": 39,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=qyFneMBrwjM",
@@ -403,7 +403,7 @@
     {
       "title": "Selena 41. Bölüm",
       "episodeID": 40,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=K-HXv-Q27Fs",
@@ -413,7 +413,7 @@
     {
       "title": "Selena 42. Bölüm",
       "episodeID": 41,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=8h7J_7vmyR0",
@@ -423,7 +423,7 @@
     {
       "title": "Selena 43. Bölüm",
       "episodeID": 42,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=PuqMmAo70Nw",
@@ -433,7 +433,7 @@
     {
       "title": "Selena 44. Bölüm",
       "episodeID": 43,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=m0KFhbPLEhk",
@@ -443,7 +443,7 @@
     {
       "title": "Selena 45. Bölüm",
       "episodeID": 44,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=fIYtvC82ODI",
@@ -453,7 +453,7 @@
     {
       "title": "Selena 46. Bölüm",
       "episodeID": 45,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=SWvOshzgXWk",
@@ -463,7 +463,7 @@
     {
       "title": "Selena 47. Bölüm",
       "episodeID": 46,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=PAzVsOmhTbY",
@@ -473,7 +473,7 @@
     {
       "title": "Selena 48. Bölüm",
       "episodeID": 47,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=AB0U6OaV0xs",
@@ -483,7 +483,7 @@
     {
       "title": "Selena 49. Bölüm",
       "episodeID": 48,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=uX40T8mNLKA",
@@ -493,7 +493,7 @@
     {
       "title": "Selena 50. Bölüm",
       "episodeID": 49,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=4o2wJcfGTlg",
@@ -503,7 +503,7 @@
     {
       "title": "Selena 51. Bölüm",
       "episodeID": 50,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=peHdaeitpBg",
@@ -513,7 +513,7 @@
     {
       "title": "Selena 52. Bölüm",
       "episodeID": 51,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=Bs9FuI2PG_w",
@@ -523,7 +523,7 @@
     {
       "title": "Selena 53. Bölüm",
       "episodeID": 52,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=KRrHS2JsyK0",
@@ -533,7 +533,7 @@
     {
       "title": "Selena 54. Bölüm",
       "episodeID": 53,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=r5pNFSJLZVA",
@@ -543,7 +543,7 @@
     {
       "title": "Selena 55. Bölüm",
       "episodeID": 54,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=cgcr926U240",
@@ -553,7 +553,7 @@
     {
       "title": "Selena 56. Bölüm",
       "episodeID": 55,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=N0P8nC6BPDs",
@@ -563,7 +563,7 @@
     {
       "title": "Selena 57. Bölüm",
       "episodeID": 56,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=VsQzDoPjze8",
@@ -573,7 +573,7 @@
     {
       "title": "Selena 58. Bölüm",
       "episodeID": 57,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=i2Wbnp4al0E",
@@ -583,7 +583,7 @@
     {
       "title": "Selena 59. Bölüm",
       "episodeID": 58,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=NYzwSXn_Ggg",
@@ -593,7 +593,7 @@
     {
       "title": "Selena 60. Bölüm",
       "episodeID": 59,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=7QAGIQN8HgQ",
@@ -603,7 +603,7 @@
     {
       "title": "Selena 61. Bölüm",
       "episodeID": 60,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=oJAdlmCHfko",
@@ -613,7 +613,7 @@
     {
       "title": "Selena 62. Bölüm",
       "episodeID": 61,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=gYh8fxUvXZI",
@@ -623,7 +623,7 @@
     {
       "title": "Selena 63. Bölüm",
       "episodeID": 62,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=DRn5HhV8dg4",
@@ -633,7 +633,7 @@
     {
       "title": "Selena 64. Bölüm",
       "episodeID": 63,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=UemcaNNs3Cw",
@@ -643,7 +643,7 @@
     {
       "title": "Selena 65. Bölüm",
       "episodeID": 64,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=apS41dJ1zqk",
@@ -653,7 +653,7 @@
     {
       "title": "Selena 66. Bölüm",
       "episodeID": 65,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=8OurqyWsins",
@@ -663,7 +663,7 @@
     {
       "title": "Selena 67. Bölüm",
       "episodeID": 66,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=ijYwJEDCz7M",
@@ -673,7 +673,7 @@
     {
       "title": "Selena 68. Bölüm",
       "episodeID": 67,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=-OUOqHJqr5Y",
@@ -683,7 +683,7 @@
     {
       "title": "Selena 69. Bölüm",
       "episodeID": 68,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=a_KI7u60RtE",
@@ -693,7 +693,7 @@
     {
       "title": "Selena 70. Bölüm",
       "episodeID": 69,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=pprlB7V_k-8",
@@ -703,7 +703,7 @@
     {
       "title": "Selena 71. Bölüm",
       "episodeID": 70,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=nEERdg8NhWQ",
@@ -713,7 +713,7 @@
     {
       "title": "Selena 72. Bölüm",
       "episodeID": 71,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=YEQRi4qqtzU",
@@ -723,7 +723,7 @@
     {
       "title": "Selena 73. Bölüm",
       "episodeID": 72,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=GTxLskJVDTc",
@@ -733,7 +733,7 @@
     {
       "title": "Selena 74. Bölüm",
       "episodeID": 73,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=6M7KB19PM50",
@@ -743,7 +743,7 @@
     {
       "title": "Selena 75. Bölüm",
       "episodeID": 74,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=-mDI5O86FFw",
@@ -753,7 +753,7 @@
     {
       "title": "Selena 76. Bölüm",
       "episodeID": 75,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=iTIW0mQqH_I",
@@ -763,7 +763,7 @@
     {
       "title": "Selena 77. Bölüm",
       "episodeID": 76,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=_OM4LoX-dFQ",
@@ -773,7 +773,7 @@
     {
       "title": "Selena 78. Bölüm",
       "episodeID": 77,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=vb1ER_aj-yw",
@@ -783,7 +783,7 @@
     {
       "title": "Selena 79. Bölüm",
       "episodeID": 78,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=_qxkUx6kzOU",
@@ -793,7 +793,7 @@
     {
       "title": "Selena 80. Bölüm",
       "episodeID": 79,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=rCdVioScmYQ",
@@ -803,7 +803,7 @@
     {
       "title": "Selena 81. Bölüm",
       "episodeID": 80,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=G_VBCt0qsSc",
@@ -813,7 +813,7 @@
     {
       "title": "Selena 82. Bölüm",
       "episodeID": 81,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=WnXLPKAvWhY",
@@ -823,7 +823,7 @@
     {
       "title": "Selena 83. Bölüm",
       "episodeID": 82,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=7RuLYZIUUoQ",
@@ -833,7 +833,7 @@
     {
       "title": "Selena 84. Bölüm",
       "episodeID": 83,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=NB1UwJnPnZo",
@@ -843,7 +843,7 @@
     {
       "title": "Selena 85. Bölüm",
       "episodeID": 84,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=mP4npGipCqM",
@@ -853,7 +853,7 @@
     {
       "title": "Selena 86. Bölüm",
       "episodeID": 85,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=DAb7VBDsjzI",
@@ -863,7 +863,7 @@
     {
       "title": "Selena 87. Bölüm",
       "episodeID": 86,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=wMmVfKC5-S4",
@@ -873,7 +873,7 @@
     {
       "title": "Selena 88. Bölüm",
       "episodeID": 87,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=_-MN_Cxb7N4",
@@ -883,7 +883,7 @@
     {
       "title": "Selena 89. Bölüm",
       "episodeID": 88,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=fTrP-wn_J_4",
@@ -893,7 +893,7 @@
     {
       "title": "Selena 90. Bölüm",
       "episodeID": 89,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=EBhfhzY66Yo",
@@ -903,7 +903,7 @@
     {
       "title": "Selena 91. Bölüm",
       "episodeID": 90,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=HbLStX4eJCU",
@@ -913,7 +913,7 @@
     {
       "title": "Selena 92. Bölüm",
       "episodeID": 91,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=K9ZmnVbCBqo",
@@ -923,7 +923,7 @@
     {
       "title": "Selena 93. Bölüm",
       "episodeID": 92,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=a8Zf-SfBhcs",
@@ -933,7 +933,7 @@
     {
       "title": "Selena 94. Bölüm",
       "episodeID": 93,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=HOnFvNKIllY",
@@ -943,7 +943,7 @@
     {
       "title": "Selena 95. Bölüm",
       "episodeID": 94,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=qIIyyXSABR4",
@@ -953,7 +953,7 @@
     {
       "title": "Selena 96. Bölüm",
       "episodeID": 95,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=GOU1xc2XVP8",
@@ -963,7 +963,7 @@
     {
       "title": "Selena 97. Bölüm",
       "episodeID": 96,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=oAjRI7Cokl0",
@@ -973,7 +973,7 @@
     {
       "title": "Selena 98. Bölüm",
       "episodeID": 97,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=Mm95mS5tT0A",
@@ -983,7 +983,7 @@
     {
       "title": "Selena 99. Bölüm",
       "episodeID": 98,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=1Pz__JWLhPo",
@@ -993,7 +993,7 @@
     {
       "title": "Selena 100. Bölüm",
       "episodeID": 99,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=80oDO5wQbbc",
@@ -1003,7 +1003,7 @@
     {
       "title": "Selena 101. Bölüm",
       "episodeID": 100,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=abLg1LLsQq8",
@@ -1013,7 +1013,7 @@
     {
       "title": "Selena 102. Bölüm",
       "episodeID": 101,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=btxaFTe2rtU",
@@ -1023,7 +1023,7 @@
     {
       "title": "Selena 103. Bölüm",
       "episodeID": 102,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=r1GFr-IF0Ls",
@@ -1033,7 +1033,7 @@
     {
       "title": "Selena 104. Bölüm - FİNAL",
       "episodeID": 103,
-      "episodeCategory": 0,
+      "episodeCategory": "Tüm Bölümler",
       "autoQuality": true,
       "sourceType": 3,
       "sourceUrlToGetFrom": "https://www.youtube.com/watch?v=Uq6LVVbeAFM",
