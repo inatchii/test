@@ -11,6 +11,12 @@
       "url": "https://raw.githubusercontent.com/inatchii/test/main/categories/eski-yerli-diziler/index",
       "imageURL": "https://raw.githubusercontent.com/inatchii/test/main/categories/eski-yerli-diziler/index.webp",
       "uniqueCategoryID": 1
+    },
+    {
+      "title": "Yabancı Diziler",
+      "url": "https://raw.githubusercontent.com/inatchii/test/main/categories/yabanci-diziler/index",
+      "imageURL": "https://raw.githubusercontent.com/inatchii/test/main/categories/yabanci-diziler/index.webp",
+      "uniqueCategoryID": 1
     }
   ]
 }
